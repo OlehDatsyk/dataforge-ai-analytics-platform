@@ -1,0 +1,2501 @@
+customer_id,signup_date,country,plan,age,tenure_months,orders,lifetime_value,satisfaction_score,churned
+CUST-20000,2022-04-28,Australia,Starter,46,5,7,297.82,7.2,yes
+CUST-20001,2023-07-05,Germany,Starter,38,5,7,80.24,9.7,no
+CUST-20002,2024-07-20,Australia,Scale,45,7,9,102.32,8.3,no
+CUST-20003,2023-09-18,Canada,Starter,52,40,4,269.39,9.3,no
+CUST-20004,2023-08-02,United States,Free,41,28,6,1100.21,6.8,no
+CUST-20005,2022-10-28,United States,Growth,45,41,9,415.03,8.3,no
+CUST-20006,2024-06-13,Germany,Growth,45,1,7,73.24,7.8,yes
+CUST-20007,2024-01-26,United Kingdom,Scale,35,38,5,548.34,6.2,no
+CUST-20008,2024-06-11,United States,Free,74,6,6,55.98,7.9,yes
+CUST-20009,2023-11-06,United Kingdom,Free,35,40,7,627.4,,yes
+CUST-20010,2022-09-18,France,Starter,39,20,2,101.18,10.0,no
+CUST-20011,2023-02-22,Canada,Starter,18,31,6,501.95,8.8,no
+CUST-20012,2023-02-26,Germany,Free,52,36,12,1210.23,9.9,yes
+CUST-20013,2024-06-01,United Kingdom,Free,26,43,4,118.31,8.8,no
+CUST-20014,2024-03-15,United States,Free,43,26,5,268.85,4.4,no
+CUST-20015,2022-08-20,United Kingdom,Starter,51,45,10,294.87,6.5,yes
+CUST-20016,2022-09-02,United States,Growth,36,35,7,88.51,8.0,yes
+CUST-20017,2023-04-16,Canada,Growth,27,16,6,219.74,6.9,no
+CUST-20018,2023-09-21,Australia,Growth,48,39,9,614.72,9.2,no
+CUST-20019,2022-08-28,France,Free,50,22,8,424.58,7.3,no
+CUST-20020,2023-04-03,France,Free,24,24,4,408.98,8.9,no
+CUST-20021,2024-05-12,United States,Starter,18,24,6,104.63,,no
+CUST-20022,2023-12-02,Australia,Starter,37,41,6,302.08,4.0,no
+CUST-20023,2023-07-31,Germany,Starter,45,46,9,100.92,7.3,no
+CUST-20024,2023-03-30,Germany,Free,25,37,12,187.78,5.3,no
+CUST-20025,2022-10-22,France,Scale,19,29,6,66.46,8.4,yes
+CUST-20026,2024-07-09,Germany,Scale,37,29,8,134.67,7.7,yes
+CUST-20027,2024-07-06,United Kingdom,Free,36,15,3,196.2,8.5,no
+CUST-20028,2023-06-06,France,Growth,24,15,6,48.53,9.8,yes
+CUST-20029,2023-01-18,Canada,Growth,41,12,7,484.45,8.7,yes
+CUST-20030,2023-03-04,United States,Free,50,7,4,67.23,5.1,no
+CUST-20031,2024-01-23,United States,Growth,50,12,5,201.39,6.5,no
+CUST-20032,2022-02-05,United States,Scale,52,18,11,294.94,7.2,yes
+CUST-20033,2024-07-06,United States,Scale,29,40,9,233.44,6.3,no
+CUST-20034,2024-07-19,Australia,Starter,22,33,4,442.46,7.4,no
+CUST-20035,2024-04-19,United States,Growth,32,22,9,277.23,,no
+CUST-20036,2022-04-07,United Kingdom,Starter,37,20,11,398.57,,no
+CUST-20037,2023-04-12,Australia,Free,39,37,9,731.71,9.9,no
+CUST-20038,2024-05-28,Germany,Growth,54,20,2,288.94,6.7,no
+CUST-20039,2023-05-23,United States,Starter,18,9,7,104.48,9.4,no
+CUST-20040,2022-05-30,Germany,Growth,30,8,12,857.14,9.7,no
+CUST-20041,2022-07-19,Germany,Growth,44,47,7,154.3,9.9,no
+CUST-20042,2022-02-19,United States,Starter,56,8,3,131.78,4.0,no
+CUST-20043,2023-02-12,United States,Starter,47,43,6,605.44,7.8,no
+CUST-20044,2024-08-21,United Kingdom,Starter,54,28,8,171.49,6.5,no
+CUST-20045,2022-10-14,United States,Starter,49,39,9,154.39,10.0,no
+CUST-20046,2023-03-23,France,Free,38,34,5,951.5,5.9,no
+CUST-20047,2023-03-23,France,Free,47,40,9,350.95,8.9,no
+CUST-20048,2024-08-31,United States,Growth,57,44,4,216.27,,no
+CUST-20049,2024-01-07,Germany,Starter,38,1,4,151.49,6.1,no
+CUST-20050,2023-01-04,United States,Growth,30,41,13,362.81,10.0,yes
+CUST-20051,2023-02-11,United States,Starter,51,6,7,1330.31,9.3,no
+CUST-20052,2023-12-29,Canada,Free,45,11,7,383.34,5.2,yes
+CUST-20053,2022-07-05,France,Free,52,7,7,87.21,7.2,no
+CUST-20054,2023-11-06,United States,Starter,31,13,7,134.3,9.1,yes
+CUST-20055,2023-09-05,Canada,Free,49,14,8,786.31,,no
+CUST-20056,2022-11-08,Germany,Free,39,44,5,230.32,9.1,no
+CUST-20057,2023-05-05,United Kingdom,Free,25,33,2,676.11,8.0,no
+CUST-20058,2024-02-10,United States,Growth,45,27,12,175.02,4.7,yes
+CUST-20059,2022-11-18,United Kingdom,Starter,47,26,6,75.87,5.8,no
+CUST-20060,2023-12-30,United Kingdom,Scale,38,18,8,197.48,7.8,no
+CUST-20061,2023-06-14,United States,Starter,28,39,11,591.84,10.0,no
+CUST-20062,2023-12-16,United Kingdom,Free,25,45,9,1170.02,5.9,no
+CUST-20063,2023-09-26,Canada,Starter,42,13,3,231.26,6.9,no
+CUST-20064,2023-09-08,United States,Free,47,18,9,386.73,7.7,no
+CUST-20065,2022-06-27,United States,Starter,51,6,2,108.05,8.5,no
+CUST-20066,2024-02-17,Canada,Scale,38,3,2,60.57,10.0,no
+CUST-20067,2024-05-06,Germany,Scale,29,6,7,930.55,,no
+CUST-20068,2022-03-19,United States,Growth,46,33,10,705.4,5.9,yes
+CUST-20069,2022-02-01,United Kingdom,Free,50,2,7,95.57,9.2,yes
+CUST-20070,2023-05-09,United States,Free,27,17,5,249.18,8.6,no
+CUST-20071,2022-06-02,United Kingdom,Starter,24,34,6,484.69,4.8,no
+CUST-20072,2022-03-04,United Kingdom,Starter,53,30,6,929.91,4.5,no
+CUST-20073,2022-03-01,United States,Starter,44,26,9,830.35,9.4,no
+CUST-20074,2023-09-14,United States,Starter,41,11,7,105.81,7.6,no
+CUST-20075,2022-11-23,Canada,Starter,48,21,8,101.07,7.5,no
+CUST-20076,2022-03-14,Germany,Starter,44,31,8,305.87,9.5,yes
+CUST-20077,2022-11-22,United States,Free,18,28,10,164.66,,no
+CUST-20078,2023-06-14,Canada,Growth,37,36,7,78.96,8.1,no
+CUST-20079,2024-06-03,United Kingdom,Growth,42,18,5,383.79,,yes
+CUST-20080,2024-04-21,United States,Starter,23,33,8,473.76,7.6,no
+CUST-20081,2022-06-01,Canada,Scale,20,30,6,268.27,9.9,no
+CUST-20082,2024-02-20,Canada,Growth,31,23,5,293.66,5.7,no
+CUST-20083,2023-02-22,United States,Starter,28,29,15,772.35,,yes
+CUST-20084,2024-01-07,United Kingdom,Free,55,30,7,324.21,6.1,no
+CUST-20085,2023-06-14,United States,Free,29,28,7,391.91,5.8,yes
+CUST-20086,2022-09-27,United Kingdom,Starter,32,1,7,282.01,,no
+CUST-20087,2023-12-13,United Kingdom,Starter,37,38,5,1338.99,4.1,no
+CUST-20088,2024-03-23,France,Starter,36,41,4,139.98,8.4,no
+CUST-20089,2022-09-13,Canada,Starter,40,45,7,589.48,8.5,no
+CUST-20090,2022-09-04,Germany,Free,46,10,4,76.95,,yes
+CUST-20091,2022-01-30,France,Starter,31,21,7,411.88,9.2,no
+CUST-20092,2023-02-25,United States,Growth,32,37,11,270.16,5.5,no
+CUST-20093,2024-08-02,United Kingdom,Starter,44,43,3,389.03,5.8,no
+CUST-20094,2022-01-08,Australia,Free,37,46,5,507.9,8.8,no
+CUST-20095,2023-08-29,France,Free,52,33,2,150.37,3.9,no
+CUST-20096,2022-10-03,Canada,Growth,45,5,9,116.62,8.1,no
+CUST-20097,2024-02-08,Germany,Free,40,43,2,649.17,,no
+CUST-20098,2023-09-15,Australia,Starter,44,31,7,1242.04,6.6,no
+CUST-20099,2023-03-24,United Kingdom,Growth,48,28,10,1111.58,6.8,no
+CUST-20100,2024-04-29,Canada,Growth,18,47,13,207.2,8.7,yes
+CUST-20101,2022-01-30,Canada,Free,41,44,10,301.68,10.0,no
+CUST-20102,2022-07-02,United States,Starter,42,47,4,580.76,5.3,no
+CUST-20103,2022-11-19,Australia,Growth,47,44,4,181.4,9.6,no
+CUST-20104,2023-04-10,United Kingdom,Free,34,40,6,366.91,7.6,no
+CUST-20105,2024-06-09,Australia,Starter,45,30,4,134.75,,no
+CUST-20106,2024-08-13,United States,Growth,37,9,7,28.04,7.8,no
+CUST-20107,2022-05-01,United Kingdom,Starter,25,33,8,2900.55,,no
+CUST-20108,2024-03-17,United States,Starter,31,43,2,916.5,,no
+CUST-20109,2022-04-06,Germany,Growth,40,15,7,3236.28,6.9,no
+CUST-20110,2022-04-07,United States,Free,36,1,11,64.77,7.6,no
+CUST-20111,2022-04-25,Canada,Starter,52,13,4,40.37,7.9,yes
+CUST-20112,2024-04-04,United Kingdom,Growth,51,15,7,159.38,8.7,no
+CUST-20113,2022-04-30,United Kingdom,Scale,47,34,9,210.14,5.7,no
+CUST-20114,2023-04-25,France,Growth,43,18,4,147.11,6.4,no
+CUST-20115,2023-07-11,United Kingdom,Free,33,27,9,66.38,10.0,no
+CUST-20116,2024-08-28,Australia,Starter,43,15,9,142.06,6.3,no
+CUST-20117,2022-09-20,Canada,Starter,18,19,8,446.22,10.0,yes
+CUST-20118,2023-11-09,Germany,Growth,55,14,7,106.73,8.8,no
+CUST-20119,2023-12-29,Australia,Free,42,10,9,265.25,4.4,no
+CUST-20120,2022-01-16,France,Growth,39,37,7,462.93,,no
+CUST-20121,2023-10-28,France,Growth,50,24,2,170.2,7.1,yes
+CUST-20122,2023-03-16,Australia,Starter,40,25,6,709.47,5.7,no
+CUST-20123,2022-12-01,United States,Starter,45,17,5,104.6,8.8,no
+CUST-20124,2023-03-15,United Kingdom,Free,38,40,6,207.79,7.7,yes
+CUST-20125,2022-07-28,United Kingdom,Starter,41,13,7,98.05,6.1,no
+CUST-20126,2023-07-24,United Kingdom,Starter,38,40,11,230.99,7.8,no
+CUST-20127,2022-01-06,United States,Growth,67,27,8,102.91,6.5,no
+CUST-20128,2023-11-01,United Kingdom,Starter,26,21,12,105.35,6.2,no
+CUST-20129,2023-06-04,United States,Growth,32,4,7,172.63,7.9,no
+CUST-20130,2023-09-19,United States,Free,33,13,8,59.84,,no
+CUST-20131,2023-09-11,United States,Growth,41,20,9,159.26,5.5,no
+CUST-20132,2022-09-15,United States,Growth,60,1,6,137.92,6.0,no
+CUST-20133,2023-12-27,Germany,Starter,22,38,4,330.59,6.4,no
+CUST-20134,2023-08-20,Australia,Free,28,37,12,480.43,6.1,no
+CUST-20135,2024-09-26,United Kingdom,Free,35,9,8,553.72,8.3,no
+CUST-20136,2022-01-07,Canada,Free,42,39,8,413.13,6.4,no
+CUST-20137,2023-08-05,France,Starter,18,27,9,173.3,10.0,no
+CUST-20138,2022-05-05,United States,Growth,34,44,13,1171.53,5.6,no
+CUST-20139,2022-12-21,United Kingdom,Starter,21,11,7,1600.48,7.7,no
+CUST-20140,2023-04-16,United States,Starter,46,1,5,107.35,10.0,no
+CUST-20141,2024-03-18,Canada,Starter,35,47,5,774.5,7.8,no
+CUST-20142,2022-12-03,Canada,Growth,18,13,9,381.66,7.1,no
+CUST-20143,2023-11-14,Canada,Free,37,47,5,285.0,7.2,yes
+CUST-20144,2023-04-24,Australia,Free,33,40,9,219.59,5.6,yes
+CUST-20145,2022-07-10,Canada,Starter,43,19,5,121.9,4.9,yes
+CUST-20146,2024-03-06,Germany,Scale,48,9,6,183.87,5.4,no
+CUST-20147,2022-12-21,France,Starter,40,9,8,242.26,7.1,no
+CUST-20148,2022-09-20,United States,Free,36,32,9,367.39,6.8,no
+CUST-20149,2023-09-23,United Kingdom,Free,56,40,4,224.21,9.8,yes
+CUST-20150,2024-03-23,Canada,Starter,52,22,4,147.31,8.7,no
+CUST-20151,2023-11-04,France,Free,33,23,9,33.68,7.2,no
+CUST-20152,2024-08-23,United States,Growth,49,27,9,536.37,7.5,no
+CUST-20153,2023-12-10,United States,Growth,39,43,7,1615.67,6.3,no
+CUST-20154,2023-08-31,United States,Free,45,26,7,54.61,8.6,no
+CUST-20155,2022-06-02,United States,Free,18,2,3,133.42,9.1,no
+CUST-20156,2024-07-01,Canada,Starter,41,31,3,89.98,9.1,no
+CUST-20157,2023-09-06,Australia,Starter,36,17,11,179.26,9.2,no
+CUST-20158,2022-04-27,France,Starter,44,35,6,366.24,7.6,no
+CUST-20159,2022-12-03,United States,Scale,46,35,14,243.55,,no
+CUST-20160,2024-06-09,United States,Scale,18,42,10,328.29,5.2,no
+CUST-20161,2024-03-10,United Kingdom,Growth,46,40,8,462.67,8.0,yes
+CUST-20162,2024-08-16,Canada,Starter,22,43,6,398.11,7.1,yes
+CUST-20163,2023-11-17,United Kingdom,Free,50,29,7,335.41,7.0,no
+CUST-20164,2022-08-21,Australia,Free,46,1,8,161.84,6.9,no
+CUST-20165,2022-12-20,United States,Free,50,21,7,129.2,9.7,no
+CUST-20166,2022-09-25,Germany,Free,64,10,6,23.66,6.4,no
+CUST-20167,2022-09-27,United Kingdom,Free,46,7,7,458.35,8.5,no
+CUST-20168,2022-02-17,United States,Growth,41,25,5,68.12,9.6,no
+CUST-20169,2022-03-16,Canada,Scale,58,6,7,133.65,6.5,no
+CUST-20170,2023-06-12,United States,Free,46,43,7,268.95,6.9,no
+CUST-20171,2023-01-28,Canada,Free,37,22,8,525.31,7.5,no
+CUST-20172,2023-12-12,Australia,Free,40,39,9,1208.29,5.6,yes
+CUST-20173,2022-11-21,United States,Growth,30,27,7,144.45,6.6,no
+CUST-20174,2022-08-25,Australia,Starter,47,34,6,116.45,,no
+CUST-20175,2024-04-17,United States,Starter,54,18,8,303.85,6.6,no
+CUST-20176,2023-05-03,United States,Growth,25,38,4,2336.84,6.6,no
+CUST-20177,2024-03-06,United Kingdom,Starter,62,7,3,202.12,7.7,no
+CUST-20178,2024-01-27,Canada,Free,46,15,4,264.02,5.8,no
+CUST-20179,2022-02-18,Canada,Scale,47,26,7,365.09,8.0,yes
+CUST-20180,2024-02-23,France,Scale,40,1,5,285.44,9.7,no
+CUST-20181,2024-01-22,United Kingdom,Free,53,6,7,57.84,6.8,no
+CUST-20182,2023-09-02,United States,Free,23,4,11,596.28,9.1,no
+CUST-20183,2022-12-04,United States,Starter,35,41,3,347.83,8.5,no
+CUST-20184,2023-02-05,United States,Free,44,10,5,142.81,10.0,no
+CUST-20185,2023-06-16,United Kingdom,Free,48,28,4,344.96,6.9,yes
+CUST-20186,2024-07-23,France,Growth,45,20,5,528.95,5.8,no
+CUST-20187,2022-03-22,France,Growth,32,37,8,334.95,,yes
+CUST-20188,2023-09-27,United States,Starter,43,2,8,125.31,4.6,no
+CUST-20189,2023-05-15,France,Free,45,13,10,113.72,6.2,no
+CUST-20190,2023-06-26,United States,Starter,37,46,8,141.39,7.5,no
+CUST-20191,2022-02-09,United States,Starter,37,42,7,509.78,6.5,no
+CUST-20192,2022-11-03,United Kingdom,Free,28,36,6,256.76,7.2,no
+CUST-20193,2024-03-08,United Kingdom,Free,40,21,4,431.38,8.3,yes
+CUST-20194,2022-09-09,United States,Starter,55,27,7,679.43,6.6,yes
+CUST-20195,2022-01-13,Germany,Starter,45,23,9,322.21,7.6,yes
+CUST-20196,2022-08-03,United States,Free,51,35,5,529.12,6.7,no
+CUST-20197,2024-04-08,United States,Growth,52,5,4,153.45,5.8,yes
+CUST-20198,2023-04-10,Germany,Growth,29,29,6,66.93,7.2,yes
+CUST-20199,2022-05-20,United Kingdom,Growth,23,43,3,559.86,8.6,no
+CUST-20200,2022-07-11,United Kingdom,Free,30,3,9,61.68,7.3,no
+CUST-20201,2022-03-30,United Kingdom,Starter,43,6,6,414.19,9.8,yes
+CUST-20202,2022-02-07,France,Growth,42,39,11,390.07,9.7,no
+CUST-20203,2023-09-11,United Kingdom,Free,40,25,4,187.42,10.0,yes
+CUST-20204,2023-06-10,Canada,Free,22,29,7,187.92,8.4,no
+CUST-20205,2022-06-29,Australia,Starter,40,18,11,346.61,8.3,no
+CUST-20206,2023-10-08,United Kingdom,Growth,49,36,8,454.89,10.0,yes
+CUST-20207,2022-04-20,United States,Free,43,28,8,156.24,7.7,no
+CUST-20208,2023-08-03,United Kingdom,Starter,31,28,7,301.67,8.6,no
+CUST-20209,2024-03-25,United States,Scale,47,25,4,327.84,7.3,no
+CUST-20210,2024-09-04,France,Growth,41,2,6,275.4,7.9,no
+CUST-20211,2023-09-03,Australia,Growth,44,5,7,360.76,7.9,no
+CUST-20212,2024-02-26,Germany,Free,36,33,9,392.51,9.1,yes
+CUST-20213,2023-11-29,United States,Free,46,15,5,131.32,6.5,no
+CUST-20214,2023-08-07,United Kingdom,Growth,35,28,5,352.08,7.3,no
+CUST-20215,2023-03-14,France,Free,52,33,9,399.06,5.7,no
+CUST-20216,2022-09-24,Canada,Growth,39,6,8,133.04,9.5,no
+CUST-20217,2024-01-12,United Kingdom,Starter,50,27,8,445.67,5.4,no
+CUST-20218,2022-04-13,United Kingdom,Growth,46,46,6,695.86,8.0,yes
+CUST-20219,2022-07-20,Germany,Starter,34,9,9,317.28,6.8,yes
+CUST-20220,2022-06-15,United States,Free,33,2,6,595.42,9.4,no
+CUST-20221,2022-01-07,Germany,Scale,32,20,9,139.28,7.5,no
+CUST-20222,2024-04-20,United States,Scale,30,1,11,79.53,8.8,no
+CUST-20223,2024-08-23,United Kingdom,Free,27,34,7,259.06,6.8,no
+CUST-20224,2024-04-29,Australia,Growth,23,27,7,180.35,6.5,no
+CUST-20225,2022-04-24,Germany,Free,38,38,7,3395.75,6.2,no
+CUST-20226,2022-02-15,Germany,Free,36,20,8,143.12,5.7,no
+CUST-20227,2022-12-08,Germany,Free,41,41,10,264.22,10.0,no
+CUST-20228,2022-06-23,United Kingdom,Growth,39,46,4,1007.37,8.2,yes
+CUST-20229,2023-08-03,United Kingdom,Growth,48,4,6,69.19,7.3,no
+CUST-20230,2023-07-02,United States,Starter,36,9,8,229.5,6.2,no
+CUST-20231,2023-03-08,United States,Growth,58,22,8,401.68,6.3,no
+CUST-20232,2022-11-25,Germany,Free,31,18,7,311.99,8.6,no
+CUST-20233,2022-12-05,Germany,Free,40,24,6,331.75,8.5,yes
+CUST-20234,2023-03-10,United States,Starter,37,14,6,48.93,7.0,no
+CUST-20235,2023-03-13,United Kingdom,Free,22,18,3,431.54,6.1,no
+CUST-20236,2024-08-05,Canada,Growth,62,30,7,73.82,6.9,no
+CUST-20237,2023-12-27,United States,Starter,29,34,11,1279.46,7.5,no
+CUST-20238,2023-05-23,United Kingdom,Starter,41,19,6,132.63,7.7,no
+CUST-20239,2024-07-21,United States,Free,57,36,9,301.15,4.1,no
+CUST-20240,2023-08-30,United States,Scale,51,11,4,158.41,,no
+CUST-20241,2022-06-29,United Kingdom,Growth,35,33,4,854.69,,no
+CUST-20242,2023-05-24,Germany,Growth,54,14,6,488.27,6.9,no
+CUST-20243,2024-07-28,United Kingdom,Starter,44,41,6,1036.11,6.9,no
+CUST-20244,2024-05-01,United States,Starter,38,10,11,520.83,8.8,no
+CUST-20245,2023-03-29,Germany,Growth,39,13,7,555.62,8.4,no
+CUST-20246,2023-08-28,United Kingdom,Free,18,10,9,68.28,6.5,no
+CUST-20247,2023-03-06,United States,Growth,41,21,6,99.71,9.0,no
+CUST-20248,2023-09-17,Germany,Starter,64,24,8,145.13,6.9,no
+CUST-20249,2023-05-13,United Kingdom,Free,23,12,4,243.99,5.7,no
+CUST-20250,2023-06-21,United States,Starter,39,22,10,338.86,5.3,no
+CUST-20251,2022-04-05,United States,Growth,43,1,12,117.55,7.8,no
+CUST-20252,2022-11-07,Canada,Free,18,39,8,1154.29,7.9,no
+CUST-20253,2022-02-04,Germany,Scale,36,41,3,232.08,7.0,no
+CUST-20254,2023-11-01,United Kingdom,Growth,30,9,7,124.88,7.3,no
+CUST-20255,2023-07-21,United Kingdom,Scale,38,41,10,153.07,6.6,no
+CUST-20256,2024-09-17,United States,Free,43,22,3,1553.54,6.5,no
+CUST-20257,2023-06-06,United Kingdom,Free,45,39,1,83.52,6.6,no
+CUST-20258,2023-05-06,United Kingdom,Growth,31,26,6,696.32,9.2,yes
+CUST-20259,2023-10-04,United Kingdom,Scale,34,5,5,117.3,9.5,no
+CUST-20260,2023-11-02,France,Starter,42,6,5,424.3,8.3,yes
+CUST-20261,2022-08-05,United Kingdom,Scale,43,17,9,620.27,9.4,no
+CUST-20262,2022-07-30,United Kingdom,Starter,22,39,7,732.6,8.4,no
+CUST-20263,2023-07-09,United States,Growth,39,34,9,1884.04,7.4,no
+CUST-20264,2024-04-11,United Kingdom,Starter,51,38,9,372.47,8.3,no
+CUST-20265,2023-12-15,United Kingdom,Growth,38,9,4,106.05,8.2,no
+CUST-20266,2024-06-06,Canada,Free,44,35,5,388.23,6.7,no
+CUST-20267,2023-12-17,Canada,Starter,58,35,8,930.89,7.5,no
+CUST-20268,2022-11-05,France,Starter,28,7,6,248.74,4.7,no
+CUST-20269,2023-05-31,France,Starter,52,22,6,457.4,7.7,no
+CUST-20270,2022-03-17,Germany,Growth,18,9,6,547.87,6.6,no
+CUST-20271,2023-12-17,United Kingdom,Scale,35,31,3,148.36,,no
+CUST-20272,2023-08-24,United Kingdom,Growth,37,5,6,75.48,6.5,no
+CUST-20273,2024-01-03,United States,Scale,38,34,7,90.39,8.5,no
+CUST-20274,2024-04-05,United Kingdom,Growth,50,25,7,101.68,8.0,no
+CUST-20275,2022-09-03,United States,Growth,35,46,7,177.54,5.6,no
+CUST-20276,2024-09-04,United Kingdom,Free,44,19,5,171.64,,no
+CUST-20277,2022-03-02,Australia,Free,55,37,10,207.6,6.0,no
+CUST-20278,2022-11-04,United Kingdom,Free,22,6,4,160.58,6.7,no
+CUST-20279,2023-05-29,Canada,Starter,38,6,4,185.99,7.4,no
+CUST-20280,2024-09-06,France,Growth,33,41,10,343.82,7.6,no
+CUST-20281,2023-07-13,United States,Starter,62,35,6,197.86,3.3,no
+CUST-20282,2024-03-11,United Kingdom,Starter,40,17,5,327.21,,no
+CUST-20283,2023-01-10,Germany,Starter,52,12,12,72.68,7.1,yes
+CUST-20284,2023-10-15,Australia,Free,30,25,3,254.83,8.0,no
+CUST-20285,2023-01-11,United States,Free,36,10,4,376.7,8.7,no
+CUST-20286,2022-07-03,United States,Starter,38,19,10,111.47,9.8,no
+CUST-20287,2023-07-31,United States,Growth,20,24,7,839.4,7.9,yes
+CUST-20288,2024-04-02,United Kingdom,Starter,50,1,4,187.93,5.9,no
+CUST-20289,2022-04-28,France,Growth,33,39,7,161.55,10.0,no
+CUST-20290,2024-03-15,United Kingdom,Growth,43,31,12,483.6,10.0,yes
+CUST-20291,2022-11-05,France,Free,43,30,7,512.11,8.0,yes
+CUST-20292,2024-01-28,United Kingdom,Growth,42,37,12,64.03,9.7,no
+CUST-20293,2023-10-05,Canada,Free,36,4,9,250.5,4.7,no
+CUST-20294,2023-06-20,United States,Starter,29,13,10,384.4,8.4,yes
+CUST-20295,2023-04-22,United States,Starter,48,10,5,157.77,7.5,no
+CUST-20296,2024-01-06,United Kingdom,Free,41,38,8,224.56,9.0,no
+CUST-20297,2023-09-22,Australia,Free,50,9,8,101.8,7.7,no
+CUST-20298,2022-08-05,United States,Growth,55,13,16,372.76,6.9,yes
+CUST-20299,2022-09-07,France,Starter,44,44,6,238.27,9.9,no
+CUST-20300,2023-08-10,United Kingdom,Free,22,14,7,504.14,4.2,no
+CUST-20301,2023-11-11,United Kingdom,Free,40,16,9,106.81,4.3,no
+CUST-20302,2024-07-31,Australia,Growth,26,3,3,277.53,8.8,no
+CUST-20303,2022-03-16,United States,Free,53,36,8,342.98,7.4,no
+CUST-20304,2022-07-25,United States,Scale,29,41,14,101.73,7.5,no
+CUST-20305,2022-03-09,United States,Free,55,37,9,440.98,6.0,no
+CUST-20306,2022-03-06,France,Free,51,41,10,854.1,6.9,no
+CUST-20307,2022-04-15,United States,Starter,31,20,8,341.33,7.9,no
+CUST-20308,2022-05-18,United States,Growth,40,26,8,181.66,5.7,no
+CUST-20309,2022-01-04,United Kingdom,Growth,30,22,12,174.82,8.8,yes
+CUST-20310,2022-11-23,Germany,Starter,45,29,5,101.3,6.6,no
+CUST-20311,2022-12-30,Australia,Free,69,46,5,48.22,5.7,no
+CUST-20312,2022-06-08,Australia,Growth,40,43,7,788.59,8.9,no
+CUST-20313,2024-01-27,United States,Starter,60,11,5,325.27,6.2,no
+CUST-20314,2022-03-10,United States,Free,36,44,8,687.82,6.2,yes
+CUST-20315,2022-06-22,Germany,Starter,43,11,8,112.73,9.0,no
+CUST-20316,2022-07-04,United States,Free,18,13,14,390.66,,no
+CUST-20317,2022-08-24,United States,Starter,26,6,8,339.37,8.7,no
+CUST-20318,2024-02-16,United States,Free,48,11,10,421.56,9.2,no
+CUST-20319,2023-06-01,Canada,Growth,55,9,7,873.94,7.6,no
+CUST-20320,2024-05-20,Australia,Starter,35,8,4,639.63,,no
+CUST-20321,2022-12-12,Canada,Scale,28,2,8,111.24,8.7,no
+CUST-20322,2022-07-09,Australia,Starter,47,6,6,169.14,8.2,no
+CUST-20323,2023-01-30,United States,Growth,25,45,6,525.75,8.9,yes
+CUST-20324,2023-11-06,United Kingdom,Free,45,4,7,111.23,7.4,no
+CUST-20325,2024-06-30,Australia,Growth,44,40,8,549.17,6.6,yes
+CUST-20326,2022-09-27,Canada,Growth,59,44,3,1154.87,,no
+CUST-20327,2024-06-23,United States,Free,49,17,8,66.24,9.6,yes
+CUST-20328,2022-12-15,United States,Starter,52,4,6,478.58,7.2,no
+CUST-20329,2022-02-07,France,Starter,36,6,7,153.82,8.4,no
+CUST-20330,2022-09-23,United States,Free,47,4,5,164.26,6.1,no
+CUST-20331,2024-08-18,United States,Free,38,22,5,300.45,6.0,no
+CUST-20332,2023-05-10,Germany,Free,40,1,8,123.99,7.0,no
+CUST-20333,2024-09-16,Germany,Free,36,11,5,134.06,6.8,no
+CUST-20334,2022-09-11,United States,Growth,32,7,9,134.46,8.7,no
+CUST-20335,2024-02-24,Germany,Growth,60,1,5,209.55,7.7,no
+CUST-20336,2022-07-28,Germany,Starter,28,19,7,116.02,6.5,no
+CUST-20337,2023-01-25,United States,Starter,38,35,9,398.99,7.0,no
+CUST-20338,2023-09-10,France,Free,41,10,5,64.54,8.6,yes
+CUST-20339,2023-06-17,Australia,Starter,62,18,5,145.14,8.7,no
+CUST-20340,2022-03-05,United States,Starter,42,45,14,1803.43,,no
+CUST-20341,2022-01-24,France,Growth,20,17,5,217.34,6.7,no
+CUST-20342,2022-11-11,Canada,Starter,48,43,7,309.15,7.6,no
+CUST-20343,2024-07-21,United Kingdom,Free,60,32,10,2830.34,5.1,yes
+CUST-20344,2023-05-10,United States,Starter,34,17,6,361.63,5.7,no
+CUST-20345,2023-01-09,Germany,Starter,21,14,10,1114.07,7.3,no
+CUST-20346,2022-08-24,Australia,Free,40,15,4,76.87,9.2,no
+CUST-20347,2022-01-13,Canada,Scale,47,27,2,226.81,6.3,no
+CUST-20348,2023-07-23,United States,Growth,31,3,7,267.04,9.1,no
+CUST-20349,2024-03-04,Germany,Free,51,46,5,472.0,7.4,no
+CUST-20350,2022-04-09,United States,Starter,37,5,6,90.64,9.7,no
+CUST-20351,2024-05-22,France,Free,38,4,5,131.56,9.2,yes
+CUST-20352,2022-04-21,United Kingdom,Growth,26,41,7,413.44,9.5,no
+CUST-20353,2024-03-10,Germany,Free,18,19,7,231.33,9.4,yes
+CUST-20354,2022-07-23,Australia,Free,38,11,8,883.62,8.9,yes
+CUST-20355,2022-08-19,United Kingdom,Free,57,28,9,328.14,5.2,no
+CUST-20356,2022-11-09,United Kingdom,Starter,21,23,7,146.22,5.6,no
+CUST-20357,2024-08-12,France,Starter,34,42,3,392.04,7.7,no
+CUST-20358,2022-08-01,Canada,Free,34,2,9,153.62,,no
+CUST-20359,2022-05-03,United Kingdom,Starter,36,29,6,229.38,,no
+CUST-20360,2022-12-14,United Kingdom,Growth,41,39,10,406.68,7.5,no
+CUST-20361,2022-04-26,Germany,Growth,40,9,5,845.75,8.8,no
+CUST-20362,2024-09-13,Germany,Free,58,15,7,449.45,8.8,no
+CUST-20363,2023-07-30,United States,Starter,53,45,5,510.87,7.8,no
+CUST-20364,2022-07-29,Australia,Free,35,24,8,468.85,9.8,no
+CUST-20365,2024-06-27,Germany,Free,48,32,6,423.56,8.9,no
+CUST-20366,2022-07-11,United States,Scale,44,39,5,1374.56,8.4,no
+CUST-20367,2024-04-12,Australia,Free,31,24,7,368.21,6.9,no
+CUST-20368,2022-11-21,United Kingdom,Growth,41,10,11,239.61,5.3,yes
+CUST-20369,2023-08-06,United States,Free,53,4,3,159.42,6.9,no
+CUST-20370,2024-05-20,United Kingdom,Growth,50,28,7,221.45,8.9,no
+CUST-20371,2022-05-27,Germany,Growth,54,27,5,60.33,7.9,no
+CUST-20372,2024-08-06,United Kingdom,Free,24,43,11,1549.38,7.1,no
+CUST-20373,2022-08-07,France,Starter,43,4,6,298.29,8.4,no
+CUST-20374,2022-12-25,France,Scale,37,2,9,90.21,5.8,yes
+CUST-20375,2023-01-03,France,Scale,34,39,8,764.19,4.1,no
+CUST-20376,2022-05-26,United States,Starter,46,9,7,189.64,6.4,yes
+CUST-20377,2023-12-28,Australia,Free,43,6,7,321.73,8.8,no
+CUST-20378,2023-05-02,United Kingdom,Free,32,3,8,131.18,9.2,no
+CUST-20379,2023-01-15,United Kingdom,Starter,22,3,4,165.45,7.5,no
+CUST-20380,2024-01-12,United States,Free,42,19,6,752.27,9.3,no
+CUST-20381,2023-09-27,United Kingdom,Free,49,47,4,333.45,6.3,no
+CUST-20382,2023-11-12,Germany,Scale,49,32,10,534.12,7.4,no
+CUST-20383,2023-08-27,United Kingdom,Free,34,34,4,161.89,7.7,no
+CUST-20384,2024-01-07,France,Growth,52,29,4,1133.4,6.7,no
+CUST-20385,2023-12-11,United States,Free,42,18,8,314.25,7.2,no
+CUST-20386,2023-12-21,Canada,Free,20,34,8,381.13,,no
+CUST-20387,2022-05-09,United Kingdom,Free,41,16,6,433.03,6.7,yes
+CUST-20388,2024-06-17,United States,Starter,24,40,5,624.19,4.8,no
+CUST-20389,2023-05-30,United States,Starter,44,41,5,275.49,5.6,no
+CUST-20390,2023-10-12,United States,Starter,32,44,7,693.06,9.5,no
+CUST-20391,2023-11-21,United States,Free,41,38,8,226.45,7.4,no
+CUST-20392,2023-08-18,France,Free,43,8,5,519.15,6.6,no
+CUST-20393,2023-07-14,France,Free,23,17,8,611.99,8.4,no
+CUST-20394,2023-06-08,Canada,Starter,29,7,3,27.06,7.0,no
+CUST-20395,2023-11-08,United Kingdom,Starter,50,18,6,194.42,,no
+CUST-20396,2023-02-11,Canada,Free,20,13,5,154.29,8.9,no
+CUST-20397,2023-02-14,United States,Free,32,11,4,252.6,7.4,no
+CUST-20398,2022-03-20,United States,Growth,34,43,5,307.13,7.5,yes
+CUST-20399,2023-01-27,United Kingdom,Starter,36,18,8,720.59,9.3,no
+CUST-20400,2022-01-27,United States,Starter,18,29,10,323.21,9.4,no
+CUST-20401,2024-09-01,Canada,Growth,53,46,9,733.39,4.6,no
+CUST-20402,2024-01-26,United States,Starter,21,3,6,50.01,4.5,no
+CUST-20403,2023-12-11,Germany,Starter,39,13,9,43.2,7.2,no
+CUST-20404,2023-11-14,Germany,Free,35,11,5,49.74,6.1,no
+CUST-20405,2022-04-04,Germany,Free,52,8,5,167.35,9.6,no
+CUST-20406,2023-09-05,Germany,Free,42,21,7,101.84,6.9,no
+CUST-20407,2022-06-25,Germany,Starter,46,43,7,699.16,10.0,no
+CUST-20408,2024-04-11,France,Starter,51,47,7,180.94,6.0,no
+CUST-20409,2023-09-19,Germany,Free,41,17,8,115.09,5.1,no
+CUST-20410,2022-09-14,United States,Starter,41,41,8,278.59,7.0,no
+CUST-20411,2022-06-20,Australia,Starter,24,20,5,98.0,7.8,yes
+CUST-20412,2022-08-30,United States,Growth,56,45,8,897.91,8.6,no
+CUST-20413,2024-05-30,United Kingdom,Free,54,26,7,446.92,8.9,no
+CUST-20414,2024-02-20,United Kingdom,Starter,35,25,5,230.43,7.6,no
+CUST-20415,2024-05-24,Australia,Free,38,10,8,142.29,6.3,no
+CUST-20416,2023-11-20,United States,Free,51,37,6,458.17,6.8,no
+CUST-20417,2022-07-17,United States,Starter,45,22,6,343.93,7.9,yes
+CUST-20418,2022-12-14,Canada,Free,47,17,2,106.28,4.8,no
+CUST-20419,2024-01-20,France,Growth,24,6,7,406.24,6.8,no
+CUST-20420,2022-05-30,United States,Growth,60,32,7,313.92,9.8,no
+CUST-20421,2023-03-09,United Kingdom,Starter,42,27,6,1141.93,8.6,no
+CUST-20422,2024-07-13,France,Growth,48,15,4,762.89,5.8,no
+CUST-20423,2023-05-03,United Kingdom,Free,27,43,3,900.44,8.2,no
+CUST-20424,2022-01-21,United Kingdom,Starter,49,44,7,298.33,7.5,no
+CUST-20425,2022-03-26,United States,Free,48,9,8,206.87,7.5,no
+CUST-20426,2024-03-09,Germany,Free,29,19,5,101.23,7.5,no
+CUST-20427,2022-01-21,France,Growth,39,33,6,275.17,7.2,no
+CUST-20428,2024-05-05,Germany,Free,23,34,5,398.24,5.9,no
+CUST-20429,2023-04-10,United States,Starter,19,17,6,86.78,5.9,no
+CUST-20430,2023-10-26,United States,Growth,28,14,6,376.58,6.2,no
+CUST-20431,2023-02-26,United States,Starter,36,30,9,805.59,9.3,no
+CUST-20432,2022-02-19,France,Starter,41,45,7,402.38,7.2,no
+CUST-20433,2022-06-20,United States,Growth,43,23,7,89.47,9.4,no
+CUST-20434,2023-08-28,United States,Growth,26,34,6,331.24,5.4,no
+CUST-20435,2023-11-04,United Kingdom,Free,25,11,7,497.17,6.4,no
+CUST-20436,2023-03-15,United States,Free,26,43,6,315.28,,no
+CUST-20437,2023-04-19,Australia,Growth,47,41,7,335.73,6.2,no
+CUST-20438,2022-09-09,United Kingdom,Growth,50,3,6,148.67,8.2,no
+CUST-20439,2022-06-15,Australia,Free,57,27,2,212.32,7.1,yes
+CUST-20440,2023-10-04,United States,Free,34,14,10,498.55,8.1,no
+CUST-20441,2022-08-26,Canada,Starter,37,31,5,143.79,8.9,no
+CUST-20442,2022-05-18,United States,Starter,46,10,5,764.43,8.9,no
+CUST-20443,2022-05-27,Germany,Starter,55,43,10,1855.67,,no
+CUST-20444,2023-09-18,United States,Free,50,45,7,125.07,6.5,no
+CUST-20445,2023-11-15,United Kingdom,Starter,50,5,3,70.75,7.7,no
+CUST-20446,2024-07-16,Canada,Starter,47,1,7,388.44,6.7,no
+CUST-20447,2022-01-14,United Kingdom,Free,36,36,9,231.41,,no
+CUST-20448,2023-12-05,United Kingdom,Free,26,40,5,235.05,5.5,no
+CUST-20449,2022-09-17,United States,Scale,29,22,8,281.67,5.7,no
+CUST-20450,2022-05-12,United States,Starter,39,11,10,171.33,6.3,no
+CUST-20451,2023-03-31,Australia,Growth,49,46,8,401.2,8.1,no
+CUST-20452,2023-05-12,Canada,Free,47,17,10,383.22,6.9,no
+CUST-20453,2022-10-10,United States,Starter,33,1,12,130.91,9.2,no
+CUST-20454,2024-03-01,United Kingdom,Scale,60,9,6,153.51,6.4,no
+CUST-20455,2022-01-08,Canada,Starter,28,16,5,166.82,8.2,no
+CUST-20456,2024-09-04,Germany,Starter,34,21,8,724.47,5.5,no
+CUST-20457,2022-03-22,France,Free,24,25,7,249.9,6.1,yes
+CUST-20458,2024-01-17,United States,Starter,51,20,11,381.72,4.1,no
+CUST-20459,2024-01-20,Germany,Free,56,38,11,105.07,7.2,no
+CUST-20460,2024-09-13,United States,Growth,35,43,11,727.37,7.0,no
+CUST-20461,2022-12-21,Germany,Scale,52,33,6,610.34,6.0,yes
+CUST-20462,2024-08-13,Canada,Growth,48,26,4,1046.48,7.9,no
+CUST-20463,2022-02-12,Germany,Starter,42,33,7,714.78,,no
+CUST-20464,2022-03-25,United States,Growth,38,38,7,349.59,8.3,yes
+CUST-20465,2022-01-03,France,Free,36,13,6,65.49,5.8,no
+CUST-20466,2022-01-28,United Kingdom,Free,26,4,8,201.29,5.8,no
+CUST-20467,2023-06-02,Germany,Starter,33,21,7,55.96,7.1,no
+CUST-20468,2023-11-07,United States,Growth,32,30,4,224.85,9.4,no
+CUST-20469,2024-04-18,United States,Free,57,39,10,247.99,7.7,no
+CUST-20470,2022-10-07,United Kingdom,Starter,34,35,5,71.3,6.2,yes
+CUST-20471,2022-03-10,United States,Starter,54,36,12,119.88,9.0,no
+CUST-20472,2023-12-11,United Kingdom,Free,39,17,11,1798.68,10.0,no
+CUST-20473,2024-02-16,United States,Growth,18,13,13,866.01,7.5,no
+CUST-20474,2022-01-23,Australia,Starter,43,11,6,165.62,6.9,no
+CUST-20475,2022-12-16,United States,Starter,43,29,9,225.54,7.9,no
+CUST-20476,2022-02-15,United States,Starter,35,45,4,171.56,6.2,no
+CUST-20477,2024-05-28,United States,Free,18,37,6,90.18,6.9,no
+CUST-20478,2022-08-15,United Kingdom,Free,49,32,8,1847.03,8.2,no
+CUST-20479,2023-09-01,United States,Starter,55,23,9,901.77,9.3,yes
+CUST-20480,2022-03-12,Canada,Free,30,46,5,107.71,7.4,no
+CUST-20481,2024-05-05,United Kingdom,Starter,26,9,7,180.54,6.7,no
+CUST-20482,2024-06-13,United States,Scale,35,17,7,234.66,6.6,no
+CUST-20483,2024-07-09,United States,Growth,35,13,5,110.34,7.2,no
+CUST-20484,2023-05-09,United States,Scale,24,26,14,235.28,7.4,yes
+CUST-20485,2022-09-14,Canada,Growth,33,20,8,448.23,7.5,no
+CUST-20486,2024-09-07,Canada,Starter,39,18,7,329.15,8.3,no
+CUST-20487,2022-01-17,United States,Free,37,18,7,192.59,7.0,no
+CUST-20488,2022-07-18,Canada,Growth,32,2,8,150.59,6.4,no
+CUST-20489,2023-05-29,Australia,Growth,41,22,9,153.38,9.3,no
+CUST-20490,2022-02-09,United Kingdom,Scale,33,29,6,620.69,7.8,no
+CUST-20491,2024-02-03,Germany,Scale,50,18,6,170.96,6.1,no
+CUST-20492,2024-01-05,United States,Scale,52,43,6,695.46,8.3,no
+CUST-20493,2022-07-13,United Kingdom,Starter,47,25,10,833.92,7.6,no
+CUST-20494,2024-01-19,Australia,Growth,19,37,5,81.42,,no
+CUST-20495,2024-01-13,United States,Free,31,3,4,317.44,8.0,yes
+CUST-20496,2023-12-22,United States,Free,49,2,10,40.71,5.8,no
+CUST-20497,2022-01-28,United Kingdom,Starter,24,15,8,165.63,9.5,no
+CUST-20498,2024-07-30,United Kingdom,Starter,44,42,7,557.91,8.4,no
+CUST-20499,2023-08-06,United States,Free,28,3,8,644.17,7.7,no
+CUST-20500,2022-02-20,United States,Scale,22,23,8,473.51,,no
+CUST-20501,2022-08-29,Canada,Starter,65,27,8,439.77,5.9,yes
+CUST-20502,2023-01-31,Germany,Growth,44,24,8,495.1,6.8,no
+CUST-20503,2023-10-11,United Kingdom,Starter,30,34,7,50.66,8.1,no
+CUST-20504,2024-05-16,Australia,Starter,44,18,5,814.08,5.6,yes
+CUST-20505,2022-11-12,United States,Free,58,24,10,349.4,7.5,no
+CUST-20506,2024-02-26,United States,Growth,38,34,9,807.18,,no
+CUST-20507,2022-07-07,United Kingdom,Starter,37,33,5,391.96,7.5,no
+CUST-20508,2024-04-07,United States,Scale,39,23,7,216.21,7.0,yes
+CUST-20509,2023-06-22,Canada,Free,37,5,10,201.97,7.7,no
+CUST-20510,2022-01-06,United States,Free,43,7,4,844.55,7.6,no
+CUST-20511,2023-07-28,Canada,Growth,47,21,8,480.97,6.3,yes
+CUST-20512,2023-09-03,Australia,Starter,22,23,3,145.2,6.8,no
+CUST-20513,2022-08-12,United Kingdom,Free,37,13,8,276.07,7.1,yes
+CUST-20514,2024-09-26,Canada,Starter,18,40,4,1084.51,6.1,no
+CUST-20515,2023-10-20,Germany,Starter,50,36,9,403.44,10.0,no
+CUST-20516,2024-02-09,Canada,Free,20,20,8,236.92,9.2,no
+CUST-20517,2023-04-29,United Kingdom,Growth,50,29,6,151.87,5.2,no
+CUST-20518,2022-10-13,Germany,Free,54,30,5,201.63,5.6,yes
+CUST-20519,2023-04-09,United States,Growth,34,1,6,129.26,9.2,no
+CUST-20520,2024-02-04,United States,Free,51,46,2,476.85,7.9,yes
+CUST-20521,2024-02-23,Germany,Free,35,18,5,826.72,8.6,no
+CUST-20522,2024-09-25,Canada,Growth,38,36,11,591.74,4.5,yes
+CUST-20523,2024-07-01,Australia,Free,45,41,7,257.02,,no
+CUST-20524,2022-06-30,Germany,Free,50,43,6,612.5,7.7,no
+CUST-20525,2022-06-01,United States,Scale,22,37,4,166.24,7.2,no
+CUST-20526,2023-04-09,Canada,Free,41,31,5,102.5,8.2,yes
+CUST-20527,2023-04-24,United States,Growth,41,8,6,216.89,8.0,no
+CUST-20528,2023-12-11,France,Starter,18,24,4,697.56,8.1,no
+CUST-20529,2022-09-15,United States,Free,21,26,10,136.83,9.4,no
+CUST-20530,2024-08-20,Germany,Growth,23,5,10,44.72,,no
+CUST-20531,2023-06-15,United States,Growth,37,33,4,2110.43,8.9,no
+CUST-20532,2022-05-30,Germany,Free,22,30,4,259.12,10.0,no
+CUST-20533,2024-03-01,Australia,Scale,34,10,7,414.02,,yes
+CUST-20534,2022-03-30,United States,Starter,44,3,8,128.27,7.5,no
+CUST-20535,2022-01-16,United Kingdom,Starter,37,42,8,115.63,5.1,no
+CUST-20536,2024-01-27,United States,Free,36,35,9,591.82,7.2,no
+CUST-20537,2022-05-29,United Kingdom,Starter,49,14,6,608.86,6.1,no
+CUST-20538,2022-02-26,Germany,Growth,20,6,5,288.92,,yes
+CUST-20539,2023-09-07,United States,Starter,49,42,5,379.62,7.3,no
+CUST-20540,2024-03-25,United States,Starter,45,37,7,352.03,7.0,no
+CUST-20541,2023-06-30,United Kingdom,Free,46,2,7,216.34,9.2,no
+CUST-20542,2022-10-14,Germany,Starter,36,43,6,395.55,8.5,no
+CUST-20543,2022-12-02,United Kingdom,Growth,24,44,6,1097.67,7.6,no
+CUST-20544,2022-02-07,Australia,Scale,32,20,6,366.41,5.5,no
+CUST-20545,2024-04-29,United States,Growth,41,11,10,167.18,6.6,yes
+CUST-20546,2022-11-20,United Kingdom,Free,40,11,9,340.97,7.1,yes
+CUST-20547,2023-04-17,United States,Starter,38,28,10,57.77,5.9,yes
+CUST-20548,2024-06-19,Germany,Free,40,22,4,302.63,8.3,no
+CUST-20549,2023-05-23,United Kingdom,Starter,51,10,9,1130.66,8.1,no
+CUST-20550,2022-06-10,Canada,Starter,32,27,6,821.46,7.1,no
+CUST-20551,2022-11-06,Canada,Scale,31,17,10,121.41,8.3,no
+CUST-20552,2023-10-20,Germany,Starter,38,3,7,168.83,6.7,no
+CUST-20553,2022-07-16,United States,Scale,50,41,4,174.17,6.5,yes
+CUST-20554,2023-11-17,United States,Growth,41,39,6,1634.5,,no
+CUST-20555,2024-09-05,Germany,Starter,43,34,7,479.87,,no
+CUST-20556,2022-06-25,United Kingdom,Starter,37,2,6,48.98,9.8,yes
+CUST-20557,2024-01-27,France,Starter,41,29,6,258.72,6.4,yes
+CUST-20558,2023-11-11,United States,Starter,29,36,4,526.35,7.7,no
+CUST-20559,2022-09-20,Canada,Free,45,28,6,179.66,9.4,no
+CUST-20560,2023-07-01,Australia,Free,36,34,5,322.38,6.9,no
+CUST-20561,2023-04-26,United Kingdom,Starter,37,21,5,595.15,5.8,no
+CUST-20562,2023-10-18,France,Free,41,16,9,211.68,6.7,yes
+CUST-20563,2022-03-23,United Kingdom,Free,46,41,11,104.13,8.6,no
+CUST-20564,2024-02-27,United States,Growth,31,6,5,295.04,8.7,no
+CUST-20565,2022-08-29,France,Growth,38,6,6,132.26,,yes
+CUST-20566,2022-08-20,United States,Starter,24,35,5,491.64,8.6,no
+CUST-20567,2023-01-03,United States,Growth,26,47,6,378.8,9.6,no
+CUST-20568,2022-02-22,United Kingdom,Starter,38,30,5,409.84,4.9,no
+CUST-20569,2022-12-03,United States,Starter,43,24,7,236.91,6.8,yes
+CUST-20570,2024-01-30,United States,Starter,20,18,6,118.31,6.1,no
+CUST-20571,2022-12-17,United States,Free,44,1,7,149.39,8.1,yes
+CUST-20572,2023-12-06,Canada,Growth,52,39,7,1158.13,5.4,yes
+CUST-20573,2023-04-12,Germany,Free,37,16,5,82.68,7.6,no
+CUST-20574,2022-09-13,France,Free,39,45,8,670.03,,yes
+CUST-20575,2023-12-17,United States,Scale,53,12,6,185.04,9.8,yes
+CUST-20576,2022-09-21,United States,Starter,31,41,7,461.54,7.2,no
+CUST-20577,2023-11-19,United Kingdom,Free,30,13,4,197.8,9.1,no
+CUST-20578,2023-10-16,France,Starter,36,9,7,104.49,,no
+CUST-20579,2024-04-08,United States,Free,50,42,7,597.19,8.2,no
+CUST-20580,2022-05-21,Australia,Free,36,15,6,211.92,6.6,no
+CUST-20581,2022-11-23,Australia,Free,26,27,10,174.77,9.1,no
+CUST-20582,2023-06-25,United Kingdom,Free,33,33,5,593.89,7.3,no
+CUST-20583,2022-10-19,Germany,Scale,43,14,5,236.45,8.4,no
+CUST-20584,2023-07-15,Australia,Growth,38,35,7,408.44,6.9,no
+CUST-20585,2024-05-08,Canada,Growth,59,12,7,96.64,9.2,no
+CUST-20586,2023-03-03,Germany,Scale,39,21,8,154.28,7.9,no
+CUST-20587,2022-03-26,France,Free,51,39,12,229.04,,no
+CUST-20588,2023-07-10,United Kingdom,Starter,49,46,6,94.86,7.5,no
+CUST-20589,2023-10-13,Australia,Free,46,32,8,325.17,8.0,no
+CUST-20590,2024-09-06,France,Free,30,10,10,78.37,8.3,no
+CUST-20591,2024-07-06,United Kingdom,Starter,58,16,6,523.93,4.7,yes
+CUST-20592,2022-09-09,Germany,Starter,43,16,9,160.91,3.3,no
+CUST-20593,2022-01-23,Germany,Starter,38,10,11,81.49,7.3,no
+CUST-20594,2024-07-29,United States,Scale,18,25,3,299.72,,yes
+CUST-20595,2023-10-02,United States,Starter,30,47,8,578.02,5.1,yes
+CUST-20596,2024-04-16,United States,Starter,29,41,5,369.18,8.1,no
+CUST-20597,2023-07-28,Australia,Growth,19,45,8,302.86,5.3,yes
+CUST-20598,2022-04-15,Germany,Free,49,12,6,407.97,,no
+CUST-20599,2024-08-28,Germany,Starter,46,29,8,1328.67,5.5,no
+CUST-20600,2024-04-25,United Kingdom,Starter,44,27,5,905.19,6.4,no
+CUST-20601,2024-05-02,Canada,Starter,45,13,7,348.24,6.6,no
+CUST-20602,2023-08-25,United States,Scale,36,26,5,537.88,5.2,no
+CUST-20603,2023-03-16,France,Free,31,19,6,339.61,7.0,no
+CUST-20604,2022-09-19,Germany,Growth,38,42,5,713.97,4.7,no
+CUST-20605,2022-10-14,United States,Free,52,20,12,285.09,8.2,no
+CUST-20606,2024-08-18,Australia,Starter,42,3,3,300.74,4.2,no
+CUST-20607,2024-06-26,Canada,Starter,46,17,10,118.13,7.8,no
+CUST-20608,2023-01-18,United Kingdom,Starter,26,47,4,303.76,7.4,no
+CUST-20609,2023-04-19,United Kingdom,Free,22,42,8,237.85,10.0,no
+CUST-20610,2023-07-02,Australia,Free,42,21,7,112.6,,no
+CUST-20611,2023-09-13,Germany,Growth,28,34,4,132.65,6.4,no
+CUST-20612,2024-06-20,Canada,Starter,42,43,9,1340.1,6.4,yes
+CUST-20613,2024-03-28,Canada,Growth,39,25,6,96.78,7.6,no
+CUST-20614,2022-09-01,United Kingdom,Starter,34,21,10,110.8,6.8,no
+CUST-20615,2023-05-02,United States,Scale,38,29,6,169.77,7.2,no
+CUST-20616,2024-07-30,United Kingdom,Growth,31,10,2,341.53,5.7,no
+CUST-20617,2022-12-21,United States,Growth,52,19,9,192.08,7.9,yes
+CUST-20618,2023-03-01,United States,Free,39,23,9,98.96,6.7,no
+CUST-20619,2022-06-12,Canada,Free,39,27,8,902.36,5.1,no
+CUST-20620,2024-06-25,Germany,Scale,40,17,9,653.37,4.5,no
+CUST-20621,2022-08-31,United Kingdom,Starter,52,27,7,207.05,8.0,no
+CUST-20622,2024-06-16,Australia,Scale,61,5,11,198.52,5.9,no
+CUST-20623,2023-04-23,United States,Starter,29,1,7,102.95,10.0,no
+CUST-20624,2023-09-25,United States,Scale,23,41,9,379.26,9.3,no
+CUST-20625,2023-07-09,United Kingdom,Starter,28,35,8,172.7,,yes
+CUST-20626,2024-09-05,United States,Starter,19,4,6,258.44,6.7,no
+CUST-20627,2022-12-26,United States,Starter,48,19,4,219.87,4.8,no
+CUST-20628,2022-01-19,United States,Free,23,39,8,222.21,7.5,yes
+CUST-20629,2022-04-24,United Kingdom,Growth,34,23,5,18.76,5.4,no
+CUST-20630,2023-11-19,United States,Free,37,35,6,557.94,6.7,no
+CUST-20631,2023-07-02,United States,Starter,38,26,9,88.87,8.7,yes
+CUST-20632,2023-06-18,Canada,Starter,40,4,4,97.1,,no
+CUST-20633,2024-09-10,Germany,Growth,26,36,11,735.6,8.3,yes
+CUST-20634,2022-04-27,Germany,Free,22,12,8,253.99,6.9,no
+CUST-20635,2022-11-23,United Kingdom,Free,45,34,6,318.4,10.0,no
+CUST-20636,2023-09-21,Canada,Starter,41,1,7,215.98,6.1,no
+CUST-20637,2023-06-08,United Kingdom,Starter,43,24,5,100.64,6.2,no
+CUST-20638,2022-03-06,Germany,Growth,29,47,7,980.68,7.6,no
+CUST-20639,2023-01-11,Canada,Free,36,11,6,389.85,9.0,no
+CUST-20640,2022-12-16,United States,Free,41,37,6,598.27,6.3,yes
+CUST-20641,2023-06-28,United Kingdom,Scale,40,47,4,330.39,9.7,no
+CUST-20642,2023-08-02,United Kingdom,Scale,48,32,5,371.56,,no
+CUST-20643,2022-11-17,United States,Starter,65,42,6,616.92,5.2,no
+CUST-20644,2022-01-30,Canada,Starter,39,8,11,303.65,,yes
+CUST-20645,2023-03-01,France,Starter,41,32,6,224.03,7.3,yes
+CUST-20646,2023-07-23,Canada,Growth,46,38,5,110.82,4.8,no
+CUST-20647,2023-06-20,United States,Starter,41,2,6,79.91,6.1,no
+CUST-20648,2023-02-09,Germany,Starter,27,31,5,349.34,8.8,no
+CUST-20649,2023-03-11,United States,Starter,18,7,6,246.69,7.1,no
+CUST-20650,2022-07-04,United States,Free,45,22,9,2878.52,5.9,no
+CUST-20651,2023-02-13,United States,Starter,36,10,7,315.31,,no
+CUST-20652,2023-06-08,United States,Free,42,4,7,253.77,8.5,yes
+CUST-20653,2023-07-30,United States,Scale,46,2,6,372.8,7.9,no
+CUST-20654,2022-05-25,United States,Growth,33,12,6,327.25,6.6,no
+CUST-20655,2022-08-02,Australia,Scale,28,39,2,479.98,6.3,yes
+CUST-20656,2023-12-11,United Kingdom,Starter,27,43,8,1381.1,6.7,no
+CUST-20657,2024-08-08,Canada,Growth,41,23,6,237.68,7.0,no
+CUST-20658,2022-09-28,United Kingdom,Growth,38,41,4,1096.29,7.4,no
+CUST-20659,2024-03-05,United States,Free,47,13,9,87.22,,no
+CUST-20660,2023-11-10,Australia,Starter,36,10,5,192.16,9.6,yes
+CUST-20661,2022-03-30,Canada,Free,63,47,12,2039.83,,no
+CUST-20662,2022-02-05,United States,Starter,37,41,9,221.41,7.8,no
+CUST-20663,2022-05-08,United States,Growth,36,28,10,127.17,8.5,no
+CUST-20664,2023-11-14,United States,Starter,18,8,7,190.48,6.2,no
+CUST-20665,2024-09-09,United Kingdom,Free,41,14,7,569.47,6.8,yes
+CUST-20666,2023-08-27,United States,Free,28,38,4,112.47,6.6,yes
+CUST-20667,2024-01-11,Germany,Free,42,26,8,319.65,6.6,no
+CUST-20668,2023-07-18,United Kingdom,Starter,41,11,9,380.74,5.1,no
+CUST-20669,2024-02-02,Germany,Growth,50,41,10,94.37,5.8,yes
+CUST-20670,2024-06-25,Canada,Scale,36,16,5,282.17,,yes
+CUST-20671,2022-10-22,United States,Scale,38,45,8,334.16,,yes
+CUST-20672,2023-02-01,United States,Growth,18,9,8,266.59,8.4,no
+CUST-20673,2022-08-12,Canada,Free,21,20,7,121.85,5.8,no
+CUST-20674,2024-05-21,United States,Scale,41,24,5,438.24,9.1,no
+CUST-20675,2024-03-09,United States,Starter,53,1,6,103.48,8.6,yes
+CUST-20676,2022-02-22,United Kingdom,Growth,70,31,5,659.76,5.6,no
+CUST-20677,2023-03-10,United States,Scale,42,34,7,179.65,7.2,no
+CUST-20678,2023-06-13,United States,Scale,47,11,9,117.85,6.7,yes
+CUST-20679,2024-05-24,Germany,Growth,32,19,7,304.09,6.0,no
+CUST-20680,2024-04-27,United Kingdom,Free,27,2,5,70.25,10.0,no
+CUST-20681,2022-11-14,United States,Scale,44,11,10,50.38,9.5,no
+CUST-20682,2022-08-01,Germany,Starter,46,20,4,1352.64,9.4,yes
+CUST-20683,2022-08-27,Canada,Growth,49,46,7,574.38,9.7,yes
+CUST-20684,2024-05-20,United Kingdom,Starter,44,14,9,97.73,6.2,yes
+CUST-20685,2022-09-14,United States,Scale,41,39,3,187.93,,no
+CUST-20686,2022-12-29,United Kingdom,Free,35,41,7,324.65,7.3,no
+CUST-20687,2022-05-16,United Kingdom,Starter,27,33,7,465.08,7.6,no
+CUST-20688,2022-09-26,France,Starter,43,33,5,207.67,7.4,no
+CUST-20689,2022-08-20,United States,Free,22,11,10,608.78,9.7,no
+CUST-20690,2023-07-02,Canada,Free,53,1,6,960.41,7.6,no
+CUST-20691,2022-02-20,United States,Free,28,34,4,167.29,9.6,no
+CUST-20692,2023-09-12,Australia,Growth,29,39,7,341.65,5.8,no
+CUST-20693,2024-07-27,Australia,Free,33,29,8,230.25,7.3,yes
+CUST-20694,2023-04-09,Germany,Starter,57,2,8,844.04,,no
+CUST-20695,2023-01-30,United Kingdom,Free,35,7,7,1112.94,7.3,no
+CUST-20696,2024-02-25,United Kingdom,Free,42,20,8,197.67,7.8,no
+CUST-20697,2023-06-06,Canada,Starter,40,6,7,244.04,6.6,no
+CUST-20698,2023-03-06,United States,Starter,53,15,8,379.7,7.6,yes
+CUST-20699,2023-06-12,United States,Growth,52,31,9,774.69,6.8,no
+CUST-20700,2022-08-08,United Kingdom,Starter,37,5,8,75.37,9.3,no
+CUST-20701,2024-07-06,France,Growth,26,45,5,1082.94,6.1,no
+CUST-20702,2024-03-18,Germany,Starter,26,20,7,584.46,8.0,no
+CUST-20703,2022-01-11,United States,Free,41,16,5,272.84,8.3,no
+CUST-20704,2022-02-05,Canada,Growth,23,15,10,199.44,,no
+CUST-20705,2024-07-30,United States,Starter,54,12,7,36.41,6.0,no
+CUST-20706,2024-03-24,Australia,Free,44,31,5,171.5,6.4,no
+CUST-20707,2022-11-10,United Kingdom,Growth,31,4,9,324.54,9.0,no
+CUST-20708,2023-08-22,Australia,Starter,30,19,6,485.21,6.2,no
+CUST-20709,2023-01-24,Germany,Growth,46,1,6,29.48,7.0,no
+CUST-20710,2022-03-27,Germany,Free,36,31,4,295.72,7.8,no
+CUST-20711,2023-07-18,Germany,Growth,44,47,8,307.95,6.1,yes
+CUST-20712,2022-12-23,Australia,Free,30,14,8,464.52,6.9,no
+CUST-20713,2022-07-17,United States,Starter,28,8,9,118.35,7.5,no
+CUST-20714,2023-07-25,United Kingdom,Growth,50,24,9,266.06,5.8,no
+CUST-20715,2023-10-25,United Kingdom,Growth,42,14,6,191.86,9.0,yes
+CUST-20716,2023-06-10,United States,Scale,33,19,8,215.82,6.9,yes
+CUST-20717,2022-07-27,Germany,Free,50,30,9,1307.11,4.9,yes
+CUST-20718,2023-11-11,United States,Growth,31,12,5,199.37,7.9,no
+CUST-20719,2024-07-31,Australia,Free,43,38,4,747.11,6.2,no
+CUST-20720,2022-09-04,United Kingdom,Scale,37,14,5,249.53,5.1,yes
+CUST-20721,2022-11-29,Australia,Growth,49,23,2,298.99,7.0,no
+CUST-20722,2022-01-01,United States,Starter,37,30,5,791.79,6.6,no
+CUST-20723,2024-08-04,Australia,Free,33,18,11,167.63,7.1,no
+CUST-20724,2022-12-11,United States,Free,37,13,5,477.36,,no
+CUST-20725,2024-09-02,Australia,Growth,47,20,6,68.88,4.8,yes
+CUST-20726,2023-11-17,United Kingdom,Starter,52,9,7,471.7,6.3,yes
+CUST-20727,2022-06-16,United Kingdom,Growth,28,11,8,201.67,6.8,no
+CUST-20728,2023-01-16,Germany,Scale,20,23,13,159.54,8.9,no
+CUST-20729,2024-05-01,United Kingdom,Growth,31,44,6,1106.7,6.0,no
+CUST-20730,2023-01-30,United States,Growth,50,8,5,236.3,5.6,yes
+CUST-20731,2022-01-03,United States,Free,38,16,10,155.38,7.4,no
+CUST-20732,2024-03-24,Canada,Free,42,26,7,516.67,10.0,no
+CUST-20733,2024-08-18,United States,Starter,39,35,6,247.13,4.2,no
+CUST-20734,2022-08-08,United Kingdom,Starter,42,19,8,1286.5,9.1,no
+CUST-20735,2023-02-07,United States,Growth,33,47,4,478.17,7.8,no
+CUST-20736,2022-03-12,Australia,Growth,49,19,9,360.63,6.9,no
+CUST-20737,2022-08-31,United Kingdom,Free,27,14,7,546.09,9.8,no
+CUST-20738,2023-12-28,Germany,Free,45,21,8,443.78,8.4,no
+CUST-20739,2022-05-26,United Kingdom,Scale,23,18,5,476.61,10.0,yes
+CUST-20740,2023-12-07,Germany,Growth,48,40,5,818.98,8.1,yes
+CUST-20741,2024-06-03,Australia,Starter,36,12,8,189.8,8.1,no
+CUST-20742,2022-05-25,Australia,Free,37,44,7,437.16,7.8,no
+CUST-20743,2022-08-01,United States,Free,29,6,3,475.42,7.5,no
+CUST-20744,2023-11-05,United Kingdom,Free,32,5,5,268.65,8.2,no
+CUST-20745,2024-08-22,Australia,Free,27,2,3,174.63,6.8,yes
+CUST-20746,2023-01-18,United States,Starter,41,30,12,418.16,8.1,no
+CUST-20747,2022-11-15,France,Free,47,21,4,985.35,8.5,no
+CUST-20748,2024-06-15,United States,Growth,33,44,5,415.45,10.0,yes
+CUST-20749,2023-10-21,United Kingdom,Starter,53,25,11,114.33,7.3,yes
+CUST-20750,2022-07-27,United Kingdom,Growth,43,1,6,300.33,8.2,yes
+CUST-20751,2023-03-06,United Kingdom,Free,46,12,2,54.39,7.9,no
+CUST-20752,2022-12-10,United States,Free,61,10,5,372.34,6.6,no
+CUST-20753,2023-02-19,Australia,Starter,39,47,9,473.39,4.5,no
+CUST-20754,2024-03-07,United States,Growth,35,19,7,1105.65,6.5,yes
+CUST-20755,2022-05-11,United States,Starter,42,25,9,311.25,6.3,yes
+CUST-20756,2024-07-10,Canada,Scale,33,2,12,94.99,8.7,no
+CUST-20757,2023-12-04,Australia,Growth,41,29,5,882.08,5.7,no
+CUST-20758,2022-02-02,Germany,Growth,57,28,8,121.39,8.8,no
+CUST-20759,2024-04-08,Australia,Starter,52,8,11,901.55,10.0,yes
+CUST-20760,2022-03-21,Canada,Growth,39,30,5,515.77,8.5,no
+CUST-20761,2023-05-08,United States,Free,32,42,10,767.37,,no
+CUST-20762,2023-02-02,United States,Starter,57,40,3,975.08,7.5,no
+CUST-20763,2023-03-30,Australia,Free,25,12,7,107.84,5.8,no
+CUST-20764,2024-05-16,Germany,Scale,32,2,6,391.81,8.6,no
+CUST-20765,2022-10-17,United Kingdom,Scale,31,6,9,87.52,8.0,no
+CUST-20766,2023-11-26,France,Starter,38,37,6,239.76,9.2,yes
+CUST-20767,2022-07-30,United States,Growth,74,11,7,220.95,,no
+CUST-20768,2024-09-12,United Kingdom,Starter,56,17,8,121.72,9.9,no
+CUST-20769,2024-02-24,United States,Growth,28,27,8,560.33,6.8,yes
+CUST-20770,2024-04-19,Canada,Free,54,37,6,399.48,7.5,no
+CUST-20771,2022-10-02,Germany,Starter,47,22,6,214.23,6.2,no
+CUST-20772,2023-10-24,Australia,Growth,40,12,4,189.15,6.5,no
+CUST-20773,2023-02-27,United Kingdom,Scale,46,15,5,503.74,8.4,no
+CUST-20774,2023-10-22,United States,Growth,63,46,5,797.72,9.3,no
+CUST-20775,2024-01-26,United States,Starter,47,10,9,232.69,8.7,no
+CUST-20776,2023-11-16,United States,Free,24,46,7,170.41,9.0,no
+CUST-20777,2023-02-12,France,Growth,33,26,7,106.43,9.0,yes
+CUST-20778,2022-06-10,United States,Scale,38,2,5,83.11,,no
+CUST-20779,2023-07-12,Germany,Free,36,20,10,326.24,7.3,no
+CUST-20780,2024-07-18,France,Starter,25,26,6,310.76,10.0,no
+CUST-20781,2024-03-21,Canada,Free,35,5,9,966.63,7.0,no
+CUST-20782,2022-06-01,Germany,Growth,31,1,8,237.66,1.2,no
+CUST-20783,2022-12-24,United States,Free,74,42,9,639.09,6.7,yes
+CUST-20784,2023-06-15,United States,Growth,22,1,5,123.8,6.6,no
+CUST-20785,2024-09-13,France,Free,55,43,6,301.61,7.2,no
+CUST-20786,2022-07-28,United States,Starter,18,31,7,285.65,5.5,no
+CUST-20787,2023-08-15,United Kingdom,Scale,63,10,3,363.13,7.0,no
+CUST-20788,2023-09-23,Canada,Free,26,5,9,268.59,8.5,no
+CUST-20789,2022-11-16,United Kingdom,Growth,44,23,7,3287.71,9.8,yes
+CUST-20790,2024-03-02,Germany,Free,47,26,9,612.48,7.2,no
+CUST-20791,2022-09-29,France,Starter,46,29,9,253.99,7.9,yes
+CUST-20792,2022-12-04,United States,Free,45,18,5,778.24,6.1,no
+CUST-20793,2024-05-21,Australia,Starter,28,36,8,603.69,7.3,no
+CUST-20794,2023-01-12,United Kingdom,Free,43,25,11,643.7,7.2,no
+CUST-20795,2023-10-12,Canada,Starter,46,26,8,181.33,6.4,no
+CUST-20796,2024-01-26,Germany,Growth,38,24,13,629.78,7.0,no
+CUST-20797,2022-07-12,United States,Starter,26,22,10,327.75,4.6,yes
+CUST-20798,2024-06-13,Canada,Scale,19,2,6,325.68,7.5,yes
+CUST-20799,2022-07-03,United States,Free,45,13,9,124.45,7.7,yes
+CUST-20800,2023-01-07,United Kingdom,Free,55,18,8,301.92,6.3,no
+CUST-20801,2023-09-12,Germany,Growth,37,16,8,259.33,6.8,no
+CUST-20802,2023-09-09,United Kingdom,Growth,20,37,6,294.44,,no
+CUST-20803,2023-04-02,United Kingdom,Growth,28,11,7,288.12,5.1,no
+CUST-20804,2024-09-02,Australia,Scale,29,45,7,1148.11,7.4,no
+CUST-20805,2022-02-25,Germany,Starter,34,6,7,245.27,7.7,no
+CUST-20806,2023-08-02,United States,Starter,49,32,13,294.85,7.3,yes
+CUST-20807,2023-03-13,Germany,Starter,51,31,8,208.46,7.5,yes
+CUST-20808,2022-05-04,United States,Starter,42,6,5,137.8,,no
+CUST-20809,2023-02-10,Germany,Free,48,33,4,252.65,7.7,no
+CUST-20810,2022-02-12,United States,Starter,32,11,6,353.46,9.8,no
+CUST-20811,2022-04-13,United Kingdom,Free,40,1,4,310.9,6.7,yes
+CUST-20812,2022-09-02,United States,Growth,56,37,9,987.66,,no
+CUST-20813,2023-07-01,Canada,Starter,39,17,13,183.18,7.8,no
+CUST-20814,2023-08-09,United States,Growth,47,6,10,264.8,6.2,no
+CUST-20815,2023-10-05,United States,Starter,28,7,3,594.59,7.1,no
+CUST-20816,2022-04-22,United States,Free,35,12,7,269.47,6.6,yes
+CUST-20817,2023-06-27,France,Starter,22,34,3,142.08,5.3,yes
+CUST-20818,2022-12-01,United States,Growth,50,38,9,275.12,10.0,no
+CUST-20819,2023-10-03,Australia,Starter,50,41,6,272.92,8.5,yes
+CUST-20820,2022-03-13,United Kingdom,Starter,44,45,6,432.94,7.9,yes
+CUST-20821,2024-06-20,Germany,Free,41,10,9,27.83,8.7,no
+CUST-20822,2022-12-10,United States,Free,26,29,3,300.41,7.4,no
+CUST-20823,2023-08-02,Germany,Growth,18,2,6,184.49,7.5,no
+CUST-20824,2024-01-16,United Kingdom,Starter,50,12,10,657.04,7.5,no
+CUST-20825,2024-01-05,United States,Starter,65,40,7,731.76,7.8,no
+CUST-20826,2023-08-19,France,Scale,37,27,5,236.86,8.9,no
+CUST-20827,2024-08-26,Australia,Growth,42,22,6,923.82,7.9,no
+CUST-20828,2024-06-12,France,Free,40,31,6,221.05,7.1,no
+CUST-20829,2022-08-27,United States,Starter,43,31,10,146.4,5.9,no
+CUST-20830,2023-03-07,United Kingdom,Free,35,9,8,268.55,7.5,no
+CUST-20831,2022-02-05,United States,Scale,28,34,4,615.81,8.2,no
+CUST-20832,2022-12-22,France,Free,28,29,7,612.69,6.3,no
+CUST-20833,2023-10-08,United States,Free,31,2,5,100.73,7.9,no
+CUST-20834,2022-01-17,United States,Growth,20,6,5,239.26,6.2,no
+CUST-20835,2023-11-18,Germany,Scale,37,23,7,274.9,7.4,no
+CUST-20836,2022-04-01,Germany,Free,38,38,6,254.03,6.6,yes
+CUST-20837,2024-03-17,United Kingdom,Free,36,46,7,204.75,8.8,no
+CUST-20838,2024-06-06,United States,Scale,39,38,11,205.91,7.6,no
+CUST-20839,2024-04-06,United Kingdom,Starter,32,27,10,103.51,9.0,no
+CUST-20840,2023-07-13,Canada,Growth,39,19,7,158.87,7.1,yes
+CUST-20841,2023-06-26,United Kingdom,Free,43,5,7,113.09,6.1,no
+CUST-20842,2022-05-25,Germany,Growth,37,29,5,330.53,6.0,yes
+CUST-20843,2022-09-07,Germany,Free,49,30,4,325.37,5.9,no
+CUST-20844,2022-08-16,United Kingdom,Free,47,14,11,267.26,3.8,no
+CUST-20845,2022-01-07,Canada,Starter,50,9,6,1245.97,4.8,no
+CUST-20846,2023-02-25,United States,Growth,39,18,8,805.35,8.8,no
+CUST-20847,2024-06-25,United States,Starter,18,31,9,638.82,10.0,yes
+CUST-20848,2022-06-20,Germany,Free,45,44,5,501.33,6.4,no
+CUST-20849,2023-08-02,United Kingdom,Starter,44,5,7,79.03,7.8,no
+CUST-20850,2023-10-01,France,Free,42,25,4,229.16,8.3,no
+CUST-20851,2024-03-05,United States,Growth,31,31,7,1015.69,8.5,no
+CUST-20852,2022-06-14,United Kingdom,Growth,44,19,3,158.37,8.8,no
+CUST-20853,2024-08-19,United States,Free,29,22,4,209.46,7.6,no
+CUST-20854,2024-06-15,Germany,Free,41,26,3,1536.69,6.9,no
+CUST-20855,2024-06-17,United Kingdom,Starter,21,2,5,76.0,7.4,yes
+CUST-20856,2022-05-31,France,Starter,44,31,7,387.11,8.0,no
+CUST-20857,2022-09-26,United States,Growth,48,12,7,804.89,5.9,no
+CUST-20858,2024-04-05,United Kingdom,Starter,38,19,4,72.63,5.2,no
+CUST-20859,2022-12-03,United States,Scale,48,14,12,725.78,4.5,no
+CUST-20860,2023-10-23,United Kingdom,Starter,58,15,10,172.82,8.3,no
+CUST-20861,2023-12-21,United States,Starter,34,40,8,114.27,6.3,no
+CUST-20862,2023-12-05,Canada,Starter,37,8,8,277.86,6.0,no
+CUST-20863,2024-06-30,Canada,Free,32,11,6,107.8,3.2,no
+CUST-20864,2024-05-19,Canada,Growth,33,46,8,405.73,7.0,no
+CUST-20865,2023-01-10,United States,Starter,36,29,6,71.47,7.4,no
+CUST-20866,2022-11-10,Australia,Starter,38,37,8,57.23,6.4,no
+CUST-20867,2024-08-24,Germany,Starter,48,5,5,491.7,9.9,no
+CUST-20868,2022-06-23,United States,Growth,45,45,10,1481.94,8.6,no
+CUST-20869,2024-08-04,Canada,Starter,54,32,6,983.99,8.2,no
+CUST-20870,2022-02-21,United States,Growth,33,39,7,199.25,5.1,no
+CUST-20871,2024-09-18,France,Free,37,12,3,255.88,7.3,no
+CUST-20872,2023-03-12,Canada,Starter,36,41,5,1223.64,6.8,no
+CUST-20873,2024-03-28,United Kingdom,Free,50,1,3,102.56,6.6,no
+CUST-20874,2022-10-28,United States,Scale,26,21,8,873.78,6.2,no
+CUST-20875,2022-04-23,United Kingdom,Free,41,25,4,299.57,6.5,no
+CUST-20876,2023-04-27,Canada,Starter,25,3,10,656.53,7.2,no
+CUST-20877,2024-03-14,France,Starter,26,14,7,373.94,5.7,no
+CUST-20878,2023-04-10,United Kingdom,Growth,56,2,5,30.66,5.8,no
+CUST-20879,2023-06-17,United States,Starter,60,7,10,112.46,6.9,yes
+CUST-20880,2024-06-07,Canada,Starter,23,46,5,2248.27,5.1,yes
+CUST-20881,2023-03-24,Germany,Free,46,42,11,112.66,6.7,no
+CUST-20882,2024-09-22,United States,Starter,40,15,7,367.93,,no
+CUST-20883,2023-06-04,United States,Free,39,5,8,99.31,7.2,no
+CUST-20884,2023-12-08,Germany,Free,42,42,9,827.81,9.8,no
+CUST-20885,2022-06-26,Australia,Growth,41,42,5,608.38,4.5,no
+CUST-20886,2023-12-09,Australia,Starter,45,15,6,151.19,5.0,no
+CUST-20887,2022-01-26,United States,Free,38,39,7,143.46,8.7,no
+CUST-20888,2024-03-04,United States,Starter,37,19,5,112.59,7.3,no
+CUST-20889,2023-11-04,Australia,Free,23,41,7,142.14,7.0,no
+CUST-20890,2022-01-30,France,Free,40,3,8,84.16,5.7,yes
+CUST-20891,2023-07-06,Germany,Growth,66,24,7,179.83,6.8,no
+CUST-20892,2023-10-05,Canada,Starter,20,29,3,277.86,9.3,no
+CUST-20893,2023-11-01,United States,Free,62,35,10,134.11,,no
+CUST-20894,2023-03-10,Australia,Free,57,25,8,102.74,8.9,no
+CUST-20895,2022-07-03,United States,Scale,55,2,8,441.09,10.0,no
+CUST-20896,2022-10-29,United States,Growth,32,5,8,366.02,7.4,no
+CUST-20897,2023-11-10,United States,Starter,42,35,7,463.42,8.0,no
+CUST-20898,2022-10-06,United Kingdom,Free,50,26,9,200.29,6.0,no
+CUST-20899,2022-05-01,United Kingdom,Starter,26,19,3,410.03,7.3,no
+CUST-20900,2022-06-07,United States,Growth,28,24,10,434.84,9.9,no
+CUST-20901,2022-12-29,United Kingdom,Starter,45,25,5,661.04,7.4,no
+CUST-20902,2022-06-14,France,Growth,41,24,9,1007.21,7.2,yes
+CUST-20903,2023-06-03,Canada,Growth,45,40,3,169.52,8.7,no
+CUST-20904,2023-08-28,Canada,Free,35,30,8,355.41,6.1,no
+CUST-20905,2022-01-26,Canada,Free,36,45,10,499.06,6.9,no
+CUST-20906,2022-12-03,United States,Starter,39,46,9,547.14,9.0,no
+CUST-20907,2024-01-19,United Kingdom,Starter,34,43,9,706.75,5.5,no
+CUST-20908,2023-02-28,United Kingdom,Growth,50,22,6,871.4,9.2,no
+CUST-20909,2024-01-13,Germany,Starter,44,4,10,229.06,6.4,no
+CUST-20910,2023-05-05,Germany,Starter,41,11,9,138.78,8.3,yes
+CUST-20911,2022-08-07,United States,Free,33,10,8,217.19,4.1,no
+CUST-20912,2023-09-10,United States,Scale,65,13,6,131.77,9.8,no
+CUST-20913,2023-06-09,United Kingdom,Free,37,4,8,219.68,8.6,no
+CUST-20914,2023-02-07,Canada,Free,31,11,14,165.93,7.9,no
+CUST-20915,2023-02-05,Germany,Free,26,27,13,81.06,9.1,yes
+CUST-20916,2023-01-22,Canada,Starter,46,16,6,108.53,,no
+CUST-20917,2022-06-03,United Kingdom,Free,31,28,8,587.89,6.3,no
+CUST-20918,2022-04-08,United Kingdom,Growth,30,45,4,325.52,6.7,no
+CUST-20919,2024-05-23,Germany,Growth,35,47,7,119.98,8.1,no
+CUST-20920,2024-02-03,United Kingdom,Free,30,23,9,852.24,7.8,no
+CUST-20921,2023-08-29,Australia,Starter,48,43,6,827.28,6.3,yes
+CUST-20922,2023-02-14,United Kingdom,Free,18,18,9,184.93,7.1,yes
+CUST-20923,2022-03-05,Canada,Free,41,45,6,1010.75,7.1,no
+CUST-20924,2023-03-09,United Kingdom,Free,28,15,8,450.81,5.9,no
+CUST-20925,2023-03-28,United Kingdom,Growth,48,2,7,40.73,7.6,no
+CUST-20926,2022-02-25,United States,Growth,24,29,4,819.42,7.8,yes
+CUST-20927,2023-12-01,United Kingdom,Growth,27,13,5,1406.64,7.3,no
+CUST-20928,2022-09-10,United Kingdom,Free,47,45,8,216.92,5.7,yes
+CUST-20929,2022-03-08,United Kingdom,Free,27,25,7,909.44,7.8,no
+CUST-20930,2022-11-30,Germany,Free,38,5,6,196.8,,no
+CUST-20931,2022-08-13,France,Starter,45,28,7,439.81,7.2,yes
+CUST-20932,2023-10-28,Germany,Free,33,29,9,276.67,7.1,no
+CUST-20933,2022-01-11,Canada,Scale,18,9,10,329.34,6.3,no
+CUST-20934,2023-12-18,United States,Starter,26,24,8,152.7,7.6,no
+CUST-20935,2023-07-22,United States,Growth,34,6,6,282.2,7.3,no
+CUST-20936,2022-01-26,United Kingdom,Growth,27,36,9,110.17,8.0,no
+CUST-20937,2023-11-25,United Kingdom,Free,36,38,3,206.53,5.9,no
+CUST-20938,2022-09-26,Canada,Growth,56,42,6,293.64,6.0,no
+CUST-20939,2022-01-26,United Kingdom,Free,24,25,5,358.57,5.6,no
+CUST-20940,2024-02-27,United States,Starter,18,28,2,667.79,6.3,yes
+CUST-20941,2023-01-15,France,Starter,24,24,3,614.5,7.3,no
+CUST-20942,2023-08-07,Germany,Growth,37,30,4,298.82,8.2,yes
+CUST-20943,2022-03-13,United States,Starter,46,9,5,1871.32,,no
+CUST-20944,2022-12-13,Germany,Growth,35,7,9,208.03,6.9,yes
+CUST-20945,2023-10-12,Australia,Growth,67,13,7,437.92,7.7,no
+CUST-20946,2023-01-07,United States,Free,49,22,2,774.74,7.6,yes
+CUST-20947,2023-07-23,United States,Free,43,1,8,63.39,6.9,no
+CUST-20948,2024-01-01,United States,Starter,30,8,7,92.82,7.7,yes
+CUST-20949,2023-09-19,Australia,Growth,62,37,8,165.57,7.5,yes
+CUST-20950,2024-07-02,United Kingdom,Growth,28,25,7,419.43,5.8,no
+CUST-20951,2023-05-01,Canada,Scale,49,4,8,154.82,9.8,no
+CUST-20952,2024-07-29,Canada,Starter,50,4,11,72.39,,yes
+CUST-20953,2022-01-17,United States,Starter,35,28,10,411.68,8.0,no
+CUST-20954,2023-12-15,Canada,Free,36,31,6,125.47,8.3,yes
+CUST-20955,2022-04-06,Australia,Starter,59,3,6,239.61,7.3,no
+CUST-20956,2022-06-16,United Kingdom,Growth,42,4,6,187.92,6.3,no
+CUST-20957,2024-08-14,Germany,Starter,38,41,8,763.4,8.3,no
+CUST-20958,2024-04-03,United Kingdom,Growth,31,17,8,58.3,8.4,no
+CUST-20959,2024-04-16,United Kingdom,Starter,34,7,5,127.83,4.8,no
+CUST-20960,2024-03-28,Germany,Starter,43,23,4,87.4,6.9,no
+CUST-20961,2024-09-09,Canada,Scale,33,22,3,165.87,6.6,no
+CUST-20962,2024-02-25,United Kingdom,Starter,40,16,6,544.01,10.0,no
+CUST-20963,2024-01-19,Canada,Scale,41,24,6,192.59,6.8,no
+CUST-20964,2023-02-09,United States,Starter,34,24,11,338.2,6.5,no
+CUST-20965,2023-12-03,Australia,Growth,50,8,7,498.29,10.0,no
+CUST-20966,2022-12-25,United Kingdom,Growth,37,42,4,480.48,8.2,no
+CUST-20967,2023-12-19,Canada,Scale,33,13,10,140.81,6.9,no
+CUST-20968,2022-10-30,United States,Growth,20,37,8,170.53,8.6,no
+CUST-20969,2023-02-22,United States,Starter,43,37,8,253.02,,no
+CUST-20970,2024-04-13,United Kingdom,Starter,52,40,8,970.79,10.0,no
+CUST-20971,2022-02-10,United Kingdom,Free,31,27,8,234.26,6.6,no
+CUST-20972,2022-01-04,United States,Growth,27,41,9,1146.5,,no
+CUST-20973,2022-02-22,Australia,Growth,26,8,8,149.65,7.4,yes
+CUST-20974,2023-07-19,United Kingdom,Free,57,22,11,222.57,5.4,no
+CUST-20975,2022-02-08,Australia,Starter,23,46,7,525.42,8.2,yes
+CUST-20976,2024-02-07,United Kingdom,Growth,39,45,10,367.09,7.6,no
+CUST-20977,2023-05-13,Canada,Free,32,38,7,463.19,6.6,yes
+CUST-20978,2023-06-05,Germany,Scale,40,35,5,134.03,,yes
+CUST-20979,2024-04-03,Australia,Growth,31,32,7,229.28,8.8,no
+CUST-20980,2024-04-16,United States,Growth,39,1,9,142.45,9.2,no
+CUST-20981,2022-12-07,Germany,Scale,46,29,10,359.25,6.8,no
+CUST-20982,2022-04-28,Canada,Growth,31,40,4,1277.15,6.2,no
+CUST-20983,2023-11-01,United States,Starter,27,25,9,493.2,5.7,yes
+CUST-20984,2024-08-04,United Kingdom,Starter,31,31,9,244.23,6.1,no
+CUST-20985,2023-06-03,Australia,Free,75,9,11,172.26,,yes
+CUST-20986,2023-11-07,United States,Free,39,32,11,247.21,10.0,no
+CUST-20987,2022-11-29,United Kingdom,Growth,46,11,4,321.22,4.1,no
+CUST-20988,2023-12-20,United States,Free,29,3,10,100.67,7.8,no
+CUST-20989,2022-01-19,France,Growth,29,21,13,649.96,,no
+CUST-20990,2022-08-10,Germany,Starter,35,23,3,310.85,7.1,no
+CUST-20991,2023-04-22,United States,Growth,18,2,6,62.9,7.9,no
+CUST-20992,2024-05-14,Australia,Starter,33,37,10,754.55,,no
+CUST-20993,2023-07-10,Canada,Scale,50,39,8,159.19,7.9,no
+CUST-20994,2022-06-06,France,Free,34,16,10,449.5,7.4,no
+CUST-20995,2024-06-09,United Kingdom,Free,47,13,7,1125.68,4.9,no
+CUST-20996,2024-07-08,United Kingdom,Growth,36,37,4,749.8,7.5,no
+CUST-20997,2023-09-23,Germany,Free,20,41,3,1009.76,6.5,no
+CUST-20998,2023-03-25,United Kingdom,Free,40,47,9,852.57,5.8,no
+CUST-20999,2022-01-07,Canada,Free,28,11,11,288.42,4.2,no
+CUST-21000,2024-09-09,Australia,Free,24,11,9,1022.95,,yes
+CUST-21001,2022-07-02,France,Starter,29,34,1,273.41,8.2,no
+CUST-21002,2023-01-12,United States,Starter,48,11,10,167.91,7.5,no
+CUST-21003,2023-11-05,United States,Starter,34,23,6,459.79,3.4,no
+CUST-21004,2022-11-23,France,Starter,19,7,7,275.44,,no
+CUST-21005,2023-09-23,United Kingdom,Free,28,39,2,114.52,9.4,no
+CUST-21006,2022-06-12,Canada,Free,43,43,3,375.42,5.4,no
+CUST-21007,2024-02-10,Canada,Starter,49,35,5,69.87,7.7,no
+CUST-21008,2023-05-14,Australia,Growth,31,2,6,50.15,6.6,no
+CUST-21009,2022-12-18,Australia,Starter,35,35,5,1855.99,9.9,no
+CUST-21010,2023-11-23,United States,Free,35,38,6,525.32,6.0,no
+CUST-21011,2024-09-14,United States,Starter,34,21,3,1361.58,7.5,no
+CUST-21012,2023-11-30,Australia,Free,35,22,7,392.54,9.3,yes
+CUST-21013,2022-06-27,United Kingdom,Starter,46,20,5,143.16,5.6,no
+CUST-21014,2022-06-02,United Kingdom,Scale,43,37,7,491.59,7.9,no
+CUST-21015,2024-03-28,United States,Starter,34,42,8,176.13,4.9,no
+CUST-21016,2023-02-18,Australia,Growth,53,16,7,884.83,8.9,no
+CUST-21017,2022-01-24,United States,Scale,54,5,5,184.23,7.8,no
+CUST-21018,2022-02-01,United Kingdom,Starter,18,42,4,345.99,8.8,no
+CUST-21019,2024-05-08,United States,Growth,46,19,8,203.07,6.9,yes
+CUST-21020,2022-05-25,United States,Growth,46,16,11,313.68,7.6,yes
+CUST-21021,2023-06-28,United States,Free,43,44,5,591.31,8.1,no
+CUST-21022,2022-08-22,United States,Free,42,32,6,300.83,5.6,no
+CUST-21023,2022-07-29,United Kingdom,Starter,33,30,7,694.83,7.5,no
+CUST-21024,2022-04-14,Canada,Free,18,40,13,1309.98,8.5,no
+CUST-21025,2023-05-14,Germany,Free,41,34,9,187.52,8.2,no
+CUST-21026,2022-05-30,United Kingdom,Free,46,6,10,45.59,9.6,no
+CUST-21027,2022-01-27,Australia,Free,42,19,3,111.95,9.0,no
+CUST-21028,2022-12-06,United States,Free,19,23,9,79.8,7.4,no
+CUST-21029,2024-01-13,United States,Starter,31,36,5,1415.73,4.3,yes
+CUST-21030,2022-05-22,United States,Starter,47,2,7,239.49,5.8,no
+CUST-21031,2024-02-10,United Kingdom,Free,37,22,8,753.41,6.4,no
+CUST-21032,2022-02-10,United Kingdom,Growth,22,3,10,112.28,,no
+CUST-21033,2024-09-11,United Kingdom,Free,49,31,12,225.54,7.2,no
+CUST-21034,2024-03-10,United States,Growth,45,44,9,1104.32,8.0,no
+CUST-21035,2022-03-14,France,Free,32,15,10,305.32,5.7,no
+CUST-21036,2023-06-26,Germany,Growth,63,6,7,173.59,8.5,yes
+CUST-21037,2024-04-19,United States,Starter,41,18,3,369.14,7.4,no
+CUST-21038,2023-01-16,Germany,Growth,29,5,8,407.71,8.2,no
+CUST-21039,2022-12-18,Canada,Starter,36,46,6,233.84,,no
+CUST-21040,2022-04-14,United States,Growth,33,5,2,310.52,6.6,no
+CUST-21041,2023-01-19,United Kingdom,Growth,34,13,5,122.45,6.3,no
+CUST-21042,2022-07-18,United Kingdom,Starter,47,30,14,1035.97,9.3,yes
+CUST-21043,2023-10-07,United Kingdom,Free,35,30,2,117.25,4.5,no
+CUST-21044,2023-05-30,Canada,Growth,40,31,8,681.79,8.3,no
+CUST-21045,2023-06-18,Canada,Free,35,28,6,998.13,8.8,no
+CUST-21046,2023-07-09,United States,Starter,36,31,9,327.57,6.1,no
+CUST-21047,2024-04-05,United States,Free,44,11,5,389.82,7.0,no
+CUST-21048,2023-12-10,United States,Free,50,44,6,1470.56,7.2,yes
+CUST-21049,2023-01-19,Canada,Free,41,35,6,546.19,9.1,no
+CUST-21050,2023-09-27,United Kingdom,Scale,40,36,3,277.66,6.9,no
+CUST-21051,2024-03-17,United States,Free,45,45,10,95.97,8.5,no
+CUST-21052,2023-05-28,Canada,Starter,27,21,4,307.7,7.1,yes
+CUST-21053,2023-03-27,Canada,Starter,29,37,7,593.1,7.7,no
+CUST-21054,2023-11-05,Germany,Free,31,44,6,237.69,9.2,yes
+CUST-21055,2024-07-07,United States,Free,25,5,7,308.4,10.0,no
+CUST-21056,2022-07-02,United States,Starter,27,13,6,142.16,8.2,no
+CUST-21057,2022-09-18,United Kingdom,Starter,37,36,7,1011.49,8.1,yes
+CUST-21058,2022-02-05,United States,Scale,33,35,5,270.71,8.7,yes
+CUST-21059,2023-07-11,United States,Free,44,4,4,364.69,9.6,no
+CUST-21060,2023-11-22,Canada,Starter,44,30,7,149.66,6.6,yes
+CUST-21061,2022-02-28,Germany,Scale,55,42,7,433.63,8.2,no
+CUST-21062,2023-06-21,United Kingdom,Starter,54,31,7,285.83,7.5,yes
+CUST-21063,2024-03-25,United Kingdom,Starter,55,10,6,183.31,,no
+CUST-21064,2024-08-18,United States,Starter,64,4,7,214.03,,no
+CUST-21065,2022-08-19,United Kingdom,Free,43,8,5,63.95,9.4,no
+CUST-21066,2022-10-15,France,Scale,24,5,4,289.97,7.1,no
+CUST-21067,2022-11-14,Germany,Starter,31,32,10,331.4,6.1,no
+CUST-21068,2023-04-20,United States,Growth,42,20,6,406.26,6.1,yes
+CUST-21069,2024-09-04,Australia,Free,48,26,12,115.36,6.4,no
+CUST-21070,2022-09-19,Australia,Scale,42,38,5,231.65,6.6,no
+CUST-21071,2023-10-29,United Kingdom,Free,47,47,6,225.53,8.0,no
+CUST-21072,2022-02-10,United States,Free,35,34,3,134.97,6.4,yes
+CUST-21073,2023-06-20,United Kingdom,Starter,42,3,3,68.14,8.6,yes
+CUST-21074,2024-08-29,France,Free,39,17,5,375.58,7.7,yes
+CUST-21075,2023-03-17,Canada,Growth,27,4,8,57.14,7.3,no
+CUST-21076,2022-12-28,United Kingdom,Free,44,10,4,229.2,7.8,yes
+CUST-21077,2024-03-11,United Kingdom,Starter,36,45,8,469.26,9.2,yes
+CUST-21078,2024-03-11,Australia,Growth,35,25,9,171.09,9.0,no
+CUST-21079,2023-05-03,United Kingdom,Growth,37,45,7,720.83,10.0,no
+CUST-21080,2022-09-11,United States,Free,37,27,8,880.57,8.0,no
+CUST-21081,2023-07-08,Germany,Starter,54,5,6,62.09,6.7,no
+CUST-21082,2022-08-02,United States,Free,49,5,11,227.34,7.6,no
+CUST-21083,2022-04-10,United Kingdom,Growth,44,2,5,710.01,4.9,no
+CUST-21084,2024-07-13,United Kingdom,Starter,25,40,7,228.49,7.0,yes
+CUST-21085,2022-05-14,Canada,Growth,50,45,7,777.9,7.4,no
+CUST-21086,2022-11-17,United States,Growth,20,37,8,154.35,8.5,no
+CUST-21087,2023-06-10,Canada,Free,31,7,9,1003.66,9.6,no
+CUST-21088,2023-04-22,United States,Growth,40,22,4,484.37,8.8,no
+CUST-21089,2022-07-06,Australia,Growth,36,19,5,263.29,7.4,yes
+CUST-21090,2024-05-28,Canada,Starter,34,35,10,152.14,6.0,no
+CUST-21091,2024-03-01,Germany,Free,35,24,4,508.8,7.1,yes
+CUST-21092,2022-02-01,United Kingdom,Starter,33,41,5,1168.42,8.8,no
+CUST-21093,2024-02-03,United States,Growth,52,5,10,116.83,9.3,no
+CUST-21094,2024-08-06,Australia,Starter,34,38,7,142.34,6.6,no
+CUST-21095,2022-01-18,Germany,Free,38,7,6,223.01,7.7,no
+CUST-21096,2024-05-27,United States,Growth,48,38,6,462.46,10.0,no
+CUST-21097,2022-08-30,United States,Growth,40,10,3,33.9,9.4,no
+CUST-21098,2022-04-01,United States,Growth,28,9,10,243.67,6.8,no
+CUST-21099,2022-05-15,United States,Starter,48,25,3,225.17,8.7,no
+CUST-21100,2022-08-05,United States,Growth,55,5,1,157.78,8.1,no
+CUST-21101,2023-11-02,France,Free,49,26,7,405.72,6.5,no
+CUST-21102,2022-04-01,United States,Starter,51,1,8,203.06,6.2,no
+CUST-21103,2022-06-18,United Kingdom,Free,34,30,5,913.88,9.9,no
+CUST-21104,2024-02-01,Germany,Growth,67,42,5,489.61,6.3,no
+CUST-21105,2024-04-29,Canada,Growth,22,30,7,171.67,7.5,no
+CUST-21106,2023-09-19,Australia,Scale,26,2,5,56.46,9.4,no
+CUST-21107,2022-03-26,United Kingdom,Free,57,7,2,505.22,7.9,no
+CUST-21108,2023-11-23,United States,Growth,44,18,4,280.64,8.5,no
+CUST-21109,2022-05-01,United States,Scale,18,35,9,126.67,8.6,yes
+CUST-21110,2023-06-03,Canada,Starter,39,37,8,1954.5,,no
+CUST-21111,2023-07-24,United Kingdom,Free,49,30,4,98.98,7.3,no
+CUST-21112,2022-10-28,United Kingdom,Growth,42,22,6,455.41,7.9,no
+CUST-21113,2022-12-14,Australia,Free,42,12,5,188.61,,yes
+CUST-21114,2022-07-23,Canada,Growth,39,30,6,300.14,4.5,no
+CUST-21115,2022-11-15,United Kingdom,Free,53,20,8,105.39,8.1,no
+CUST-21116,2024-06-10,United States,Starter,50,28,8,452.84,5.6,no
+CUST-21117,2023-06-20,Australia,Growth,50,34,3,271.41,5.8,no
+CUST-21118,2022-10-21,United States,Starter,23,14,7,340.71,7.9,no
+CUST-21119,2023-02-03,United States,Growth,59,46,4,196.47,4.6,no
+CUST-21120,2023-03-09,Canada,Free,29,35,8,547.12,8.3,no
+CUST-21121,2022-12-31,Canada,Free,28,20,10,177.99,7.6,no
+CUST-21122,2023-10-20,Germany,Starter,26,16,7,293.46,4.4,no
+CUST-21123,2024-03-31,United Kingdom,Starter,50,42,5,229.68,6.1,yes
+CUST-21124,2022-12-22,United Kingdom,Scale,24,3,7,87.77,8.8,no
+CUST-21125,2024-05-14,United States,Growth,39,45,6,214.3,7.2,no
+CUST-21126,2022-12-04,United Kingdom,Growth,34,26,4,199.43,,no
+CUST-21127,2023-05-02,Germany,Starter,45,11,5,684.11,6.9,no
+CUST-21128,2022-01-15,Germany,Starter,22,46,13,265.71,4.7,no
+CUST-21129,2022-07-22,Australia,Free,36,24,12,777.57,9.8,no
+CUST-21130,2022-06-18,Australia,Starter,32,40,8,344.39,,no
+CUST-21131,2024-08-30,France,Free,39,45,6,191.1,9.0,no
+CUST-21132,2023-10-07,United States,Free,70,16,10,510.73,8.1,no
+CUST-21133,2023-09-29,United Kingdom,Starter,41,25,5,666.56,7.5,no
+CUST-21134,2023-06-13,Canada,Free,41,17,8,111.67,7.9,yes
+CUST-21135,2024-07-20,United Kingdom,Scale,28,47,8,158.48,8.2,no
+CUST-21136,2022-03-13,Germany,Starter,42,33,7,248.25,6.0,no
+CUST-21137,2024-06-26,United States,Free,39,41,9,276.75,10.0,no
+CUST-21138,2022-01-16,United States,Starter,56,42,8,430.79,6.3,yes
+CUST-21139,2024-07-04,Germany,Starter,52,18,8,137.98,8.2,no
+CUST-21140,2023-11-14,United States,Free,41,6,9,280.11,9.5,yes
+CUST-21141,2022-09-08,Australia,Free,45,40,11,165.66,7.0,no
+CUST-21142,2023-08-02,United States,Free,36,46,8,413.27,7.6,no
+CUST-21143,2022-02-20,United States,Free,31,34,7,59.21,8.1,no
+CUST-21144,2023-05-21,France,Free,40,28,6,218.23,6.3,no
+CUST-21145,2023-05-05,United States,Growth,38,23,4,176.95,5.9,no
+CUST-21146,2023-03-01,France,Starter,43,34,9,860.33,7.0,no
+CUST-21147,2022-05-21,Germany,Free,46,6,13,825.13,5.5,no
+CUST-21148,2023-05-15,Canada,Free,35,29,7,123.5,7.6,no
+CUST-21149,2024-02-26,Australia,Starter,18,7,6,92.15,6.9,no
+CUST-21150,2022-03-26,United States,Free,34,4,6,472.03,9.3,no
+CUST-21151,2023-03-10,United States,Free,52,4,5,162.78,5.7,yes
+CUST-21152,2022-04-13,United Kingdom,Free,29,40,6,745.9,10.0,no
+CUST-21153,2022-06-22,Canada,Free,33,23,7,113.67,6.9,no
+CUST-21154,2024-04-21,United States,Starter,42,42,8,613.34,7.1,yes
+CUST-21155,2022-10-15,United Kingdom,Free,43,46,10,1384.24,7.2,yes
+CUST-21156,2023-09-26,United States,Free,40,21,8,121.43,5.5,yes
+CUST-21157,2022-10-21,United States,Scale,29,21,8,1536.74,10.0,yes
+CUST-21158,2024-08-07,France,Starter,48,44,3,367.22,7.6,yes
+CUST-21159,2023-06-08,Germany,Free,38,1,8,182.85,6.1,yes
+CUST-21160,2022-05-25,United Kingdom,Growth,52,15,4,198.31,9.2,no
+CUST-21161,2022-10-01,United Kingdom,Growth,60,14,7,88.32,6.6,yes
+CUST-21162,2023-11-15,Germany,Scale,30,18,5,142.44,6.5,no
+CUST-21163,2023-09-02,Germany,Growth,35,18,5,400.25,8.4,no
+CUST-21164,2022-06-04,United Kingdom,Starter,38,27,5,555.01,5.8,no
+CUST-21165,2023-03-09,Australia,Growth,62,16,9,373.35,8.0,no
+CUST-21166,2024-05-16,United States,Free,40,35,11,797.44,9.0,yes
+CUST-21167,2024-09-07,Australia,Free,50,11,4,118.85,7.7,no
+CUST-21168,2023-05-02,United Kingdom,Scale,49,27,8,210.27,5.6,no
+CUST-21169,2022-10-21,United Kingdom,Starter,36,41,7,134.17,,no
+CUST-21170,2023-09-29,United Kingdom,Starter,18,3,11,104.02,6.0,no
+CUST-21171,2023-03-29,Canada,Free,36,42,8,256.29,7.4,no
+CUST-21172,2023-04-27,United States,Free,18,47,8,316.86,6.4,no
+CUST-21173,2023-10-05,United States,Free,30,8,6,129.91,7.5,no
+CUST-21174,2024-03-27,France,Starter,35,46,10,257.77,5.8,no
+CUST-21175,2024-09-14,United States,Starter,45,18,7,381.77,,no
+CUST-21176,2022-11-23,United States,Free,49,35,5,556.38,8.6,yes
+CUST-21177,2022-06-23,France,Starter,37,34,10,125.97,7.1,no
+CUST-21178,2023-12-04,United States,Starter,41,5,13,118.49,6.5,no
+CUST-21179,2022-06-27,United States,Free,24,4,6,676.63,7.3,yes
+CUST-21180,2022-08-22,United States,Growth,45,40,5,639.2,4.1,no
+CUST-21181,2023-06-16,United Kingdom,Starter,32,28,7,117.59,5.6,no
+CUST-21182,2023-09-06,Germany,Starter,28,33,13,3499.67,6.4,no
+CUST-21183,2023-08-21,United States,Free,54,12,8,939.25,7.0,no
+CUST-21184,2024-08-31,United Kingdom,Free,24,14,3,1397.48,6.4,no
+CUST-21185,2023-08-14,United Kingdom,Starter,33,31,8,322.71,6.8,no
+CUST-21186,2022-03-04,France,Free,39,1,7,131.81,7.4,no
+CUST-21187,2022-06-08,United Kingdom,Scale,42,5,9,277.86,7.3,no
+CUST-21188,2023-03-16,Canada,Free,40,20,8,272.03,7.2,no
+CUST-21189,2024-03-05,Canada,Starter,34,14,5,184.23,6.4,yes
+CUST-21190,2023-07-24,United States,Starter,40,46,8,676.98,6.8,no
+CUST-21191,2024-06-08,United States,Growth,47,8,8,157.89,7.3,no
+CUST-21192,2024-04-23,Australia,Scale,37,32,8,103.4,8.0,no
+CUST-21193,2022-06-15,United States,Free,36,9,3,110.72,5.0,no
+CUST-21194,2024-05-10,United Kingdom,Free,36,35,6,176.81,7.4,yes
+CUST-21195,2023-06-17,United Kingdom,Scale,37,38,8,373.63,7.3,no
+CUST-21196,2022-12-17,Canada,Free,50,45,7,1475.18,7.2,no
+CUST-21197,2024-06-06,United States,Free,47,11,4,64.44,8.8,no
+CUST-21198,2022-02-16,United States,Free,38,35,8,52.45,3.9,yes
+CUST-21199,2024-02-08,United States,Starter,46,25,9,547.05,6.4,no
+CUST-21200,2023-02-01,United Kingdom,Starter,40,33,3,134.12,10.0,no
+CUST-21201,2022-04-24,United States,Free,35,43,5,246.25,4.8,no
+CUST-21202,2023-07-26,United Kingdom,Free,35,7,3,437.19,8.3,no
+CUST-21203,2023-11-02,United Kingdom,Free,38,42,6,198.82,9.4,no
+CUST-21204,2023-08-04,Canada,Free,43,46,8,398.13,7.4,no
+CUST-21205,2024-04-24,Germany,Starter,25,19,6,803.28,6.0,yes
+CUST-21206,2024-05-29,United States,Growth,51,32,4,439.04,6.8,no
+CUST-21207,2022-01-20,Germany,Free,48,34,12,1933.37,7.4,no
+CUST-21208,2024-03-21,United States,Starter,46,24,11,581.02,8.4,no
+CUST-21209,2023-02-04,Canada,Starter,48,20,5,226.58,7.7,no
+CUST-21210,2022-08-20,Australia,Growth,34,46,8,576.1,,no
+CUST-21211,2023-03-22,Australia,Scale,32,45,7,175.78,6.5,no
+CUST-21212,2022-09-07,United States,Growth,40,28,4,639.54,8.7,no
+CUST-21213,2022-04-09,United Kingdom,Free,63,22,6,531.26,8.1,yes
+CUST-21214,2024-09-24,United States,Growth,36,45,6,1462.59,6.8,yes
+CUST-21215,2022-12-02,United States,Free,31,26,6,108.99,8.0,yes
+CUST-21216,2022-12-06,United States,Growth,29,18,10,50.71,6.9,no
+CUST-21217,2022-10-27,France,Free,36,2,7,344.66,6.4,no
+CUST-21218,2023-05-22,United Kingdom,Starter,18,11,4,829.61,8.5,no
+CUST-21219,2023-07-08,United Kingdom,Starter,41,15,8,285.56,7.2,yes
+CUST-21220,2023-06-03,United States,Starter,50,14,8,765.84,7.7,no
+CUST-21221,2023-01-29,United States,Free,42,37,7,501.85,5.1,yes
+CUST-21222,2024-06-21,Germany,Growth,39,47,7,693.0,10.0,yes
+CUST-21223,2024-06-12,United States,Free,61,30,6,44.6,,no
+CUST-21224,2022-11-09,United States,Free,36,36,12,176.04,6.6,no
+CUST-21225,2023-08-31,United States,Scale,67,8,6,282.27,7.9,no
+CUST-21226,2022-02-03,United States,Free,48,41,6,355.47,7.0,no
+CUST-21227,2024-05-29,Germany,Free,33,33,5,471.21,8.2,yes
+CUST-21228,2024-07-18,United States,Growth,29,19,9,526.5,7.7,no
+CUST-21229,2022-04-08,United States,Scale,42,43,6,105.27,9.1,no
+CUST-21230,2022-10-25,France,Free,42,9,6,1167.96,6.3,no
+CUST-21231,2022-08-17,United States,Starter,58,28,7,372.18,6.2,no
+CUST-21232,2023-04-18,United Kingdom,Growth,44,13,5,481.95,6.1,no
+CUST-21233,2022-09-17,Canada,Free,28,5,4,312.61,8.3,no
+CUST-21234,2024-06-22,Canada,Starter,58,39,9,323.12,6.2,no
+CUST-21235,2022-03-18,France,Free,35,25,4,119.1,8.1,no
+CUST-21236,2023-08-14,Australia,Free,31,24,12,344.98,9.8,no
+CUST-21237,2023-06-16,Canada,Free,28,37,11,240.39,5.8,no
+CUST-21238,2024-06-27,Australia,Growth,36,33,9,87.42,5.6,no
+CUST-21239,2022-03-10,United States,Growth,57,44,10,111.08,9.9,no
+CUST-21240,2023-04-30,United States,Free,30,4,5,317.59,9.9,yes
+CUST-21241,2023-12-15,France,Growth,54,44,5,1347.78,8.0,no
+CUST-21242,2023-05-22,United States,Free,41,27,8,138.11,8.3,no
+CUST-21243,2022-08-14,United States,Growth,38,14,4,217.59,6.2,no
+CUST-21244,2024-06-06,Australia,Starter,34,4,11,1307.81,4.5,no
+CUST-21245,2023-03-26,United Kingdom,Starter,48,20,7,647.89,7.3,no
+CUST-21246,2022-12-01,United States,Scale,41,27,10,163.71,6.5,no
+CUST-21247,2023-11-24,United States,Free,56,41,14,679.97,9.2,no
+CUST-21248,2022-10-22,France,Growth,50,22,9,306.26,7.1,no
+CUST-21249,2022-08-14,France,Free,44,12,4,221.97,8.6,no
+CUST-21250,2022-08-07,France,Starter,46,2,4,124.62,8.0,no
+CUST-21251,2022-07-19,United Kingdom,Starter,39,46,6,131.82,8.8,no
+CUST-21252,2023-04-29,United States,Scale,31,22,12,286.28,7.8,no
+CUST-21253,2023-12-13,Canada,Growth,45,6,5,199.73,8.4,no
+CUST-21254,2022-08-07,United Kingdom,Free,30,47,13,371.04,9.5,no
+CUST-21255,2023-02-07,Australia,Starter,33,8,9,120.82,7.2,yes
+CUST-21256,2022-05-06,Australia,Free,46,24,3,793.72,6.9,no
+CUST-21257,2023-08-23,France,Free,25,20,9,419.18,6.0,no
+CUST-21258,2023-11-22,United Kingdom,Starter,46,10,6,215.86,7.1,no
+CUST-21259,2023-11-07,United States,Growth,29,13,12,424.05,7.3,no
+CUST-21260,2023-12-14,United States,Growth,47,13,5,76.51,9.0,no
+CUST-21261,2022-12-08,United States,Growth,50,6,5,58.01,7.0,yes
+CUST-21262,2022-07-02,France,Growth,46,17,10,1730.98,7.7,no
+CUST-21263,2023-03-04,Australia,Growth,50,15,4,527.32,6.9,no
+CUST-21264,2023-06-11,Australia,Growth,30,11,6,176.03,6.3,no
+CUST-21265,2023-06-10,United States,Scale,41,46,4,364.95,6.2,no
+CUST-21266,2024-09-14,Germany,Starter,37,28,2,370.49,5.6,no
+CUST-21267,2022-11-04,United States,Starter,30,14,9,1112.18,7.7,no
+CUST-21268,2024-04-06,United States,Free,18,28,7,385.19,8.4,no
+CUST-21269,2023-09-08,France,Scale,46,30,8,109.2,5.2,yes
+CUST-21270,2023-12-25,Australia,Scale,36,45,9,384.91,3.3,no
+CUST-21271,2024-03-15,United Kingdom,Scale,24,41,9,459.57,5.5,no
+CUST-21272,2022-08-26,Australia,Scale,36,13,4,271.4,5.3,no
+CUST-21273,2023-12-01,Germany,Free,18,33,9,222.54,5.5,no
+CUST-21274,2022-10-31,Canada,Free,65,30,7,109.71,6.2,no
+CUST-21275,2023-12-23,Australia,Free,36,11,6,735.83,8.2,no
+CUST-21276,2023-02-20,United States,Scale,50,33,12,747.05,6.8,no
+CUST-21277,2023-01-30,United Kingdom,Starter,53,13,3,254.16,7.5,yes
+CUST-21278,2023-02-18,United States,Scale,45,10,4,450.85,6.0,no
+CUST-21279,2023-05-24,United Kingdom,Free,50,17,11,275.79,8.1,no
+CUST-21280,2022-05-02,Germany,Growth,34,29,5,443.03,7.9,no
+CUST-21281,2022-11-10,United States,Starter,37,6,8,197.95,,no
+CUST-21282,2023-07-04,United States,Starter,40,28,8,429.7,8.6,no
+CUST-21283,2023-10-18,Canada,Starter,55,33,5,172.4,7.6,no
+CUST-21284,2022-10-10,Germany,Scale,30,20,7,155.8,4.9,yes
+CUST-21285,2022-10-12,Germany,Growth,20,18,7,116.26,7.0,yes
+CUST-21286,2023-10-31,France,Growth,49,24,4,192.52,5.8,no
+CUST-21287,2023-11-10,United States,Starter,18,43,7,1071.62,8.6,no
+CUST-21288,2022-04-08,Australia,Starter,46,3,6,209.47,8.9,no
+CUST-21289,2022-12-02,Australia,Scale,54,10,4,319.25,,no
+CUST-21290,2024-09-06,Canada,Free,46,24,11,127.53,7.3,no
+CUST-21291,2023-11-10,United States,Free,31,34,6,1125.16,,no
+CUST-21292,2024-04-30,United Kingdom,Starter,47,23,5,143.66,7.7,no
+CUST-21293,2023-06-22,United States,Growth,35,10,8,339.54,6.7,no
+CUST-21294,2024-06-27,Canada,Free,41,33,3,2263.64,6.9,no
+CUST-21295,2022-11-14,United States,Starter,30,21,6,1175.79,5.1,no
+CUST-21296,2024-07-21,Germany,Free,41,31,9,854.02,5.2,no
+CUST-21297,2022-01-14,Canada,Starter,35,1,10,37.14,,no
+CUST-21298,2022-04-16,United States,Growth,35,43,3,78.04,9.1,yes
+CUST-21299,2022-01-27,Australia,Starter,46,34,9,370.11,,yes
+CUST-21300,2023-11-20,United Kingdom,Starter,56,27,7,462.49,5.2,no
+CUST-21301,2023-11-13,Australia,Free,35,41,12,196.31,7.4,no
+CUST-21302,2024-05-17,United States,Free,35,4,7,84.02,6.3,no
+CUST-21303,2022-10-14,France,Scale,60,31,9,251.4,6.0,no
+CUST-21304,2024-01-18,Canada,Free,27,18,4,412.62,7.4,no
+CUST-21305,2023-06-16,United Kingdom,Free,44,19,7,222.77,,no
+CUST-21306,2022-08-16,United Kingdom,Starter,36,8,5,576.78,6.4,no
+CUST-21307,2024-04-10,United Kingdom,Free,45,38,4,1254.18,9.7,no
+CUST-21308,2024-01-09,United Kingdom,Free,42,34,5,655.0,6.4,no
+CUST-21309,2022-04-09,Canada,Starter,58,18,9,700.62,,no
+CUST-21310,2024-07-24,United States,Free,31,9,6,138.84,5.6,no
+CUST-21311,2024-02-08,Australia,Scale,32,15,9,248.62,5.9,no
+CUST-21312,2022-01-17,United Kingdom,Scale,37,16,11,229.1,,no
+CUST-21313,2022-03-29,United Kingdom,Free,40,32,5,492.04,10.0,no
+CUST-21314,2022-02-13,Australia,Free,24,13,4,153.9,7.2,no
+CUST-21315,2023-10-04,United States,Free,43,46,11,633.42,6.6,yes
+CUST-21316,2023-08-10,United States,Free,36,12,9,52.95,9.4,yes
+CUST-21317,2022-11-19,United States,Growth,44,1,10,93.15,7.8,no
+CUST-21318,2024-07-03,Canada,Starter,45,17,6,140.47,8.2,yes
+CUST-21319,2023-04-05,United States,Scale,47,7,8,41.05,6.9,no
+CUST-21320,2023-10-17,United Kingdom,Growth,35,38,7,165.62,6.4,yes
+CUST-21321,2022-12-17,United Kingdom,Starter,28,39,9,442.17,6.1,yes
+CUST-21322,2023-12-19,United Kingdom,Starter,44,42,4,1261.39,5.0,no
+CUST-21323,2024-03-24,Canada,Growth,31,30,9,190.36,8.8,no
+CUST-21324,2024-03-10,United States,Starter,39,1,8,281.67,8.6,no
+CUST-21325,2023-12-30,Canada,Starter,54,35,7,235.19,8.4,no
+CUST-21326,2022-01-12,United States,Free,42,29,1,581.24,7.2,no
+CUST-21327,2022-08-12,United States,Free,39,14,6,384.39,7.0,no
+CUST-21328,2022-10-29,United Kingdom,Growth,40,33,14,43.87,5.8,no
+CUST-21329,2024-06-25,United States,Free,20,13,6,2134.48,7.0,no
+CUST-21330,2023-06-16,France,Starter,36,6,6,68.77,7.8,no
+CUST-21331,2024-03-14,Canada,Free,36,32,6,139.26,7.3,yes
+CUST-21332,2022-01-18,Germany,Free,35,7,8,224.92,7.2,no
+CUST-21333,2023-12-09,United Kingdom,Growth,32,3,6,613.08,6.3,yes
+CUST-21334,2023-03-18,United Kingdom,Growth,33,39,6,213.31,8.2,yes
+CUST-21335,2024-07-02,United Kingdom,Growth,51,10,5,187.57,8.5,no
+CUST-21336,2022-05-25,United States,Scale,29,24,11,76.58,,no
+CUST-21337,2022-10-29,United States,Starter,35,12,9,191.08,6.7,yes
+CUST-21338,2023-03-27,United States,Starter,44,31,7,393.65,6.4,no
+CUST-21339,2023-08-29,Australia,Scale,25,25,8,65.01,8.0,no
+CUST-21340,2022-04-16,United States,Starter,43,47,12,454.61,,no
+CUST-21341,2023-09-19,United Kingdom,Starter,49,39,8,947.04,8.8,yes
+CUST-21342,2024-03-18,United States,Free,26,13,4,160.65,8.6,yes
+CUST-21343,2024-06-09,United Kingdom,Starter,51,36,8,891.71,8.5,no
+CUST-21344,2022-10-21,France,Free,53,1,6,413.94,7.2,no
+CUST-21345,2022-05-08,United States,Growth,28,38,9,618.6,8.3,no
+CUST-21346,2023-01-13,Canada,Starter,41,36,6,525.14,6.8,no
+CUST-21347,2022-07-13,Germany,Free,33,47,5,320.77,7.6,yes
+CUST-21348,2024-06-08,Canada,Growth,43,17,6,1111.19,,no
+CUST-21349,2023-12-19,United Kingdom,Free,34,41,4,950.04,,no
+CUST-21350,2022-03-05,Germany,Growth,44,22,7,225.74,8.3,no
+CUST-21351,2023-08-05,United States,Growth,62,1,9,148.13,6.1,no
+CUST-21352,2024-02-17,United Kingdom,Starter,28,45,7,455.39,5.6,no
+CUST-21353,2022-03-29,United States,Free,41,12,7,56.03,4.8,no
+CUST-21354,2023-05-16,United Kingdom,Growth,20,2,6,136.83,8.2,no
+CUST-21355,2024-05-17,Canada,Free,47,26,6,321.18,8.3,no
+CUST-21356,2023-11-12,France,Scale,36,5,13,1406.65,6.4,no
+CUST-21357,2023-01-19,United States,Free,50,28,2,252.0,8.1,no
+CUST-21358,2023-09-08,United States,Free,54,5,11,207.03,,no
+CUST-21359,2023-02-19,United States,Starter,35,2,2,123.8,6.4,yes
+CUST-21360,2024-02-02,United States,Scale,38,32,6,645.3,7.1,no
+CUST-21361,2024-04-27,Germany,Starter,37,19,6,222.67,6.9,no
+CUST-21362,2022-11-18,Germany,Scale,42,8,10,204.04,6.2,yes
+CUST-21363,2023-09-19,United Kingdom,Starter,42,9,4,847.61,8.2,no
+CUST-21364,2024-03-06,Australia,Growth,40,20,5,140.12,7.6,no
+CUST-21365,2023-02-17,Canada,Starter,18,38,8,130.91,5.4,no
+CUST-21366,2022-03-23,United Kingdom,Free,38,8,8,464.01,5.6,yes
+CUST-21367,2023-04-22,Germany,Growth,26,41,7,1969.2,5.8,no
+CUST-21368,2024-01-26,Australia,Free,47,21,8,299.19,7.3,no
+CUST-21369,2022-03-28,United States,Free,42,38,8,199.1,9.1,no
+CUST-21370,2023-06-06,United States,Growth,43,44,6,579.71,6.5,no
+CUST-21371,2022-04-10,United States,Starter,28,38,11,792.01,3.8,yes
+CUST-21372,2023-05-02,France,Free,51,26,6,298.34,8.4,no
+CUST-21373,2023-07-09,United Kingdom,Starter,37,41,9,1394.28,5.9,no
+CUST-21374,2022-06-01,Australia,Growth,48,35,3,595.07,6.5,yes
+CUST-21375,2023-12-11,Canada,Free,49,33,9,821.58,4.5,yes
+CUST-21376,2023-07-06,Germany,Free,37,23,6,157.45,6.7,yes
+CUST-21377,2022-12-08,United Kingdom,Starter,42,17,5,268.34,8.2,yes
+CUST-21378,2023-05-06,United States,Growth,48,14,7,94.84,9.7,no
+CUST-21379,2022-09-22,Canada,Free,36,12,5,938.82,6.5,no
+CUST-21380,2023-01-07,United Kingdom,Free,36,24,9,199.66,6.7,no
+CUST-21381,2024-07-22,United Kingdom,Free,18,1,8,127.15,8.4,no
+CUST-21382,2023-12-14,United States,Starter,44,6,11,59.84,3.8,no
+CUST-21383,2023-08-10,United States,Starter,31,19,7,212.14,6.1,no
+CUST-21384,2022-07-28,United Kingdom,Starter,48,36,9,127.3,,no
+CUST-21385,2024-03-01,Canada,Starter,52,43,6,206.1,8.8,no
+CUST-21386,2023-08-08,United Kingdom,Starter,26,2,8,677.46,7.7,yes
+CUST-21387,2024-07-01,Canada,Starter,24,41,4,256.73,6.9,no
+CUST-21388,2023-11-03,Germany,Starter,30,11,6,125.56,8.3,no
+CUST-21389,2022-01-30,United Kingdom,Growth,44,12,5,195.02,6.1,no
+CUST-21390,2024-06-11,United Kingdom,Free,38,7,10,210.27,7.7,no
+CUST-21391,2023-01-08,United States,Starter,24,35,7,232.9,7.7,yes
+CUST-21392,2024-06-01,United Kingdom,Growth,26,33,7,209.85,8.8,no
+CUST-21393,2022-04-06,United States,Growth,27,42,11,196.95,,no
+CUST-21394,2024-02-25,France,Free,49,4,7,10.34,,no
+CUST-21395,2022-04-22,United States,Free,25,44,2,92.26,9.9,no
+CUST-21396,2023-01-09,Canada,Starter,39,28,6,489.75,6.6,no
+CUST-21397,2022-03-18,United States,Starter,21,1,8,419.79,6.5,no
+CUST-21398,2022-02-08,United Kingdom,Free,43,47,11,502.09,8.1,no
+CUST-21399,2024-01-12,Germany,Free,38,3,5,574.93,5.5,no
+CUST-21400,2024-05-16,United Kingdom,Free,35,17,4,469.57,8.7,no
+CUST-21401,2024-08-31,United States,Free,41,38,10,624.51,5.6,no
+CUST-21402,2022-07-31,Australia,Free,20,2,14,305.29,7.1,no
+CUST-21403,2023-01-01,Australia,Starter,41,25,9,513.02,,no
+CUST-21404,2023-02-06,United Kingdom,Free,37,26,6,1256.89,6.7,no
+CUST-21405,2022-05-31,United States,Growth,29,44,2,357.95,8.0,no
+CUST-21406,2024-01-13,United States,Growth,25,28,8,211.17,8.2,no
+CUST-21407,2024-04-23,France,Starter,43,14,3,193.34,6.9,no
+CUST-21408,2022-07-02,Australia,Free,31,36,7,815.84,10.0,yes
+CUST-21409,2022-02-11,United States,Starter,18,14,3,531.68,,no
+CUST-21410,2022-06-07,United States,Starter,35,31,7,63.75,7.3,yes
+CUST-21411,2022-08-16,United States,Free,50,12,4,842.56,7.5,yes
+CUST-21412,2022-09-30,United Kingdom,Starter,25,45,5,295.21,5.2,no
+CUST-21413,2023-12-19,United Kingdom,Free,46,6,7,220.59,8.0,no
+CUST-21414,2022-10-20,United States,Growth,39,16,3,305.57,9.3,no
+CUST-21415,2022-05-04,United States,Growth,36,41,3,559.29,6.8,no
+CUST-21416,2023-08-27,United Kingdom,Growth,56,6,7,260.52,7.0,no
+CUST-21417,2022-08-28,Germany,Starter,54,1,8,216.72,5.4,no
+CUST-21418,2022-12-19,United Kingdom,Growth,47,9,9,227.68,,no
+CUST-21419,2024-07-24,United States,Starter,44,25,3,399.79,8.7,no
+CUST-21420,2024-02-06,United States,Free,29,26,7,151.49,6.8,no
+CUST-21421,2024-08-27,Germany,Starter,34,2,5,179.56,5.7,no
+CUST-21422,2022-10-05,United States,Free,32,23,9,242.03,9.6,no
+CUST-21423,2022-10-23,United Kingdom,Growth,37,11,6,862.73,5.8,yes
+CUST-21424,2022-02-24,United States,Free,39,30,4,293.85,8.4,no
+CUST-21425,2022-03-29,United Kingdom,Free,46,14,3,616.62,6.1,no
+CUST-21426,2023-12-27,Germany,Growth,50,17,5,177.78,10.0,no
+CUST-21427,2023-06-25,Canada,Free,27,6,9,113.62,6.5,yes
+CUST-21428,2022-02-03,Canada,Growth,33,5,5,584.66,7.9,no
+CUST-21429,2022-11-10,France,Free,41,37,10,962.11,8.1,no
+CUST-21430,2023-04-04,Germany,Growth,34,42,7,75.22,10.0,no
+CUST-21431,2023-08-06,Canada,Growth,41,15,6,453.83,7.8,no
+CUST-21432,2024-05-01,United Kingdom,Starter,47,45,5,634.95,5.4,yes
+CUST-21433,2023-09-28,United States,Starter,19,25,3,110.32,10.0,no
+CUST-21434,2022-04-03,United States,Free,45,31,7,1070.54,7.7,yes
+CUST-21435,2023-05-24,Australia,Starter,54,13,9,199.22,8.9,no
+CUST-21436,2022-01-11,United States,Growth,42,15,4,54.33,9.1,no
+CUST-21437,2023-12-31,Canada,Free,33,28,7,617.2,4.6,no
+CUST-21438,2024-01-29,United Kingdom,Free,18,14,9,240.13,7.9,no
+CUST-21439,2023-12-08,United Kingdom,Starter,45,37,6,87.64,8.2,no
+CUST-21440,2023-02-18,France,Starter,51,37,2,190.72,8.3,no
+CUST-21441,2023-08-17,United States,Growth,28,4,7,84.38,9.0,no
+CUST-21442,2023-08-05,Canada,Starter,39,30,5,128.87,10.0,no
+CUST-21443,2022-07-25,Germany,Free,39,42,8,239.01,7.2,no
+CUST-21444,2022-09-26,France,Free,35,8,2,464.39,6.6,no
+CUST-21445,2024-01-26,United Kingdom,Free,18,37,10,558.32,,yes
+CUST-21446,2024-09-08,United States,Starter,44,34,10,269.53,8.5,no
+CUST-21447,2022-09-10,Germany,Starter,39,27,7,1061.4,9.7,no
+CUST-21448,2023-08-06,Germany,Starter,56,12,6,169.04,4.0,no
+CUST-21449,2023-05-19,United States,Starter,45,39,9,145.19,8.6,no
+CUST-21450,2023-07-07,United Kingdom,Free,48,28,9,273.66,,yes
+CUST-21451,2023-12-15,Australia,Starter,36,46,2,446.03,,no
+CUST-21452,2023-01-31,Germany,Starter,45,35,6,2530.98,,no
+CUST-21453,2023-04-20,Australia,Starter,43,7,5,196.24,8.8,no
+CUST-21454,2022-03-13,Germany,Scale,51,47,8,260.12,6.2,no
+CUST-21455,2024-09-20,Germany,Growth,44,28,3,137.59,6.7,no
+CUST-21456,2023-11-27,Canada,Starter,28,41,6,214.73,8.4,no
+CUST-21457,2023-05-01,France,Growth,53,16,8,176.25,8.9,no
+CUST-21458,2024-06-25,United States,Starter,28,21,5,410.69,7.8,yes
+CUST-21459,2023-03-08,United Kingdom,Free,39,23,9,317.62,8.3,yes
+CUST-21460,2022-10-30,United States,Starter,54,41,5,172.95,9.1,no
+CUST-21461,2023-05-23,United States,Growth,54,42,8,936.68,6.2,no
+CUST-21462,2023-01-06,United States,Starter,42,41,7,119.78,8.2,no
+CUST-21463,2022-12-02,United Kingdom,Starter,40,44,14,208.79,,no
+CUST-21464,2022-04-24,Canada,Growth,41,27,6,525.15,6.6,no
+CUST-21465,2023-01-06,Australia,Growth,50,27,9,116.53,5.7,no
+CUST-21466,2022-07-14,United Kingdom,Free,35,9,6,261.7,10.0,no
+CUST-21467,2023-11-29,United States,Free,18,1,9,105.82,7.5,yes
+CUST-21468,2022-06-21,United States,Starter,34,12,2,177.69,7.9,no
+CUST-21469,2023-09-21,United Kingdom,Free,35,26,5,374.33,6.2,no
+CUST-21470,2024-04-29,United States,Growth,59,12,14,288.39,8.6,no
+CUST-21471,2022-11-21,France,Growth,35,16,8,254.4,7.8,no
+CUST-21472,2022-02-04,United States,Starter,50,46,9,3750.24,6.6,no
+CUST-21473,2024-08-21,United States,Free,32,46,7,445.73,8.9,no
+CUST-21474,2023-02-11,United States,Growth,54,46,6,309.79,6.5,no
+CUST-21475,2022-02-16,Australia,Starter,59,23,9,389.05,10.0,yes
+CUST-21476,2023-11-03,United States,Starter,22,46,7,438.29,6.4,no
+CUST-21477,2022-03-06,Germany,Scale,58,7,4,88.04,8.1,no
+CUST-21478,2024-07-12,United States,Growth,40,29,8,235.82,6.1,no
+CUST-21479,2022-11-05,United States,Growth,32,2,7,163.41,,no
+CUST-21480,2023-03-21,United States,Starter,32,13,8,100.49,9.9,no
+CUST-21481,2024-04-19,Canada,Growth,37,5,3,131.77,8.0,no
+CUST-21482,2024-03-15,Germany,Starter,41,20,10,745.77,9.0,no
+CUST-21483,2024-02-04,France,Growth,29,45,11,908.13,5.3,no
+CUST-21484,2024-08-08,Germany,Growth,34,6,7,154.6,6.2,no
+CUST-21485,2023-11-28,United States,Starter,48,44,10,2503.66,9.1,no
+CUST-21486,2022-09-28,United States,Free,26,1,7,147.82,6.0,no
+CUST-21487,2024-08-31,Australia,Free,34,23,2,374.04,8.4,no
+CUST-21488,2023-04-17,Germany,Scale,27,26,7,257.31,6.5,yes
+CUST-21489,2023-01-06,United States,Starter,41,20,8,74.39,6.0,no
+CUST-21490,2023-04-07,United Kingdom,Starter,35,13,4,152.81,9.3,yes
+CUST-21491,2024-05-19,United States,Growth,22,23,8,443.75,10.0,no
+CUST-21492,2023-06-13,United States,Growth,46,19,8,261.32,9.9,no
+CUST-21493,2023-04-12,United Kingdom,Free,52,12,5,788.81,7.3,no
+CUST-21494,2024-09-06,Germany,Scale,49,40,6,291.1,8.9,no
+CUST-21495,2023-01-06,Australia,Starter,44,38,9,242.46,7.6,no
+CUST-21496,2023-04-08,Canada,Starter,38,24,11,201.2,7.8,no
+CUST-21497,2022-04-30,Australia,Starter,43,45,9,62.94,8.5,no
+CUST-21498,2023-01-13,United States,Free,41,30,3,228.21,10.0,no
+CUST-21499,2023-10-05,United States,Free,55,11,10,72.7,7.7,no
+CUST-21500,2022-07-21,United Kingdom,Starter,47,38,5,504.5,,no
+CUST-21501,2022-02-18,United Kingdom,Free,40,47,10,351.76,5.2,no
+CUST-21502,2023-07-16,United Kingdom,Growth,52,22,2,104.9,8.7,no
+CUST-21503,2022-01-27,Australia,Free,36,17,9,90.9,3.6,no
+CUST-21504,2022-04-08,United States,Starter,21,5,7,775.62,5.3,no
+CUST-21505,2023-04-25,United Kingdom,Starter,43,1,6,127.32,7.9,no
+CUST-21506,2024-01-06,United Kingdom,Starter,36,29,7,120.17,7.5,no
+CUST-21507,2024-09-19,Australia,Free,40,32,5,197.84,9.6,no
+CUST-21508,2022-12-15,United Kingdom,Scale,42,31,8,103.75,7.1,no
+CUST-21509,2022-12-10,United Kingdom,Free,51,36,10,1081.71,5.9,no
+CUST-21510,2023-11-06,United States,Growth,68,34,11,246.61,7.1,yes
+CUST-21511,2024-01-24,United States,Starter,50,19,6,474.14,6.5,no
+CUST-21512,2023-02-03,United Kingdom,Starter,40,22,6,160.57,7.3,yes
+CUST-21513,2022-12-17,United States,Free,46,23,8,259.0,5.9,no
+CUST-21514,2023-08-27,United States,Starter,25,46,7,103.15,6.2,yes
+CUST-21515,2022-11-15,United Kingdom,Free,56,20,3,190.27,7.4,yes
+CUST-21516,2022-03-26,United Kingdom,Scale,28,38,5,286.86,6.4,yes
+CUST-21517,2022-07-23,United Kingdom,Free,33,22,6,197.98,9.8,yes
+CUST-21518,2023-04-30,Australia,Growth,35,39,9,407.73,6.4,no
+CUST-21519,2022-12-16,United Kingdom,Starter,18,44,6,2014.3,9.7,no
+CUST-21520,2024-07-17,United States,Free,49,4,1,711.43,5.3,no
+CUST-21521,2024-05-31,Germany,Scale,33,35,6,389.25,7.9,no
+CUST-21522,2024-08-01,Australia,Starter,41,17,7,426.6,6.1,no
+CUST-21523,2022-07-01,United States,Growth,50,7,8,138.85,,no
+CUST-21524,2022-06-25,United States,Starter,39,29,10,1696.66,,no
+CUST-21525,2024-01-26,Germany,Growth,28,16,7,1340.48,,no
+CUST-21526,2024-02-26,France,Free,47,34,8,306.17,7.0,no
+CUST-21527,2024-03-22,Canada,Starter,33,17,8,479.48,7.1,no
+CUST-21528,2023-12-16,United Kingdom,Starter,46,15,8,181.04,7.8,no
+CUST-21529,2024-05-15,United States,Free,18,31,6,92.32,7.8,no
+CUST-21530,2022-04-06,United States,Starter,29,6,6,164.42,5.1,no
+CUST-21531,2024-05-01,Australia,Free,18,15,8,1762.27,7.6,no
+CUST-21532,2023-06-25,France,Free,21,21,8,64.5,7.6,no
+CUST-21533,2024-07-23,United Kingdom,Starter,46,30,10,1044.79,10.0,no
+CUST-21534,2022-11-09,United Kingdom,Scale,36,10,9,352.31,7.4,no
+CUST-21535,2023-07-05,United States,Free,34,31,8,62.52,5.7,no
+CUST-21536,2024-06-27,Australia,Starter,43,22,6,471.7,7.8,no
+CUST-21537,2023-08-14,Germany,Starter,48,19,9,157.73,7.7,no
+CUST-21538,2022-06-08,United States,Free,46,14,4,495.24,7.9,no
+CUST-21539,2024-09-04,United States,Starter,48,5,6,146.47,9.3,no
+CUST-21540,2022-09-08,United Kingdom,Growth,37,47,5,167.3,7.7,no
+CUST-21541,2024-03-25,Germany,Scale,43,43,10,89.27,8.4,no
+CUST-21542,2023-09-17,Australia,Starter,38,5,9,653.37,6.2,no
+CUST-21543,2023-12-08,Germany,Starter,58,40,7,156.69,8.5,no
+CUST-21544,2023-10-25,United States,Growth,46,8,5,615.11,8.1,yes
+CUST-21545,2022-08-08,United Kingdom,Starter,34,23,7,138.23,9.3,no
+CUST-21546,2022-12-04,Australia,Scale,34,27,6,146.51,7.5,no
+CUST-21547,2022-04-24,Germany,Free,39,13,7,218.42,7.1,no
+CUST-21548,2023-03-18,France,Growth,49,43,8,169.35,8.5,no
+CUST-21549,2022-05-05,Canada,Free,53,39,8,1017.63,5.7,no
+CUST-21550,2023-06-04,Canada,Scale,38,27,7,1051.27,4.3,no
+CUST-21551,2023-07-28,Germany,Free,31,46,6,812.45,7.4,no
+CUST-21552,2023-11-25,United States,Starter,37,9,6,477.16,5.4,no
+CUST-21553,2022-06-28,United Kingdom,Growth,65,14,4,351.8,8.5,no
+CUST-21554,2022-09-12,United Kingdom,Starter,27,21,4,134.01,7.7,yes
+CUST-21555,2022-02-01,Australia,Growth,49,17,8,316.49,10.0,yes
+CUST-21556,2023-06-18,United States,Free,35,6,10,121.6,6.8,no
+CUST-21557,2022-04-12,United States,Free,36,34,5,304.41,8.0,no
+CUST-21558,2024-01-22,United Kingdom,Free,44,2,2,346.78,6.5,no
+CUST-21559,2023-06-30,United Kingdom,Starter,43,6,7,198.5,,no
+CUST-21560,2022-11-09,United States,Free,41,10,4,158.73,8.8,no
+CUST-21561,2023-05-23,France,Free,31,45,11,273.5,8.3,no
+CUST-21562,2024-07-18,United States,Starter,38,2,6,160.74,5.0,no
+CUST-21563,2023-04-29,Australia,Starter,46,1,7,282.77,4.8,no
+CUST-21564,2022-09-22,Canada,Free,36,41,4,404.62,7.4,no
+CUST-21565,2023-03-07,United States,Growth,49,45,6,453.79,6.1,yes
+CUST-21566,2022-08-15,France,Starter,34,4,4,70.79,8.8,no
+CUST-21567,2023-06-22,Australia,Growth,43,13,8,951.66,5.9,no
+CUST-21568,2022-04-03,France,Free,31,16,13,823.11,,yes
+CUST-21569,2023-04-27,France,Starter,65,40,9,148.78,,yes
+CUST-21570,2023-08-11,United Kingdom,Growth,56,13,7,822.55,5.5,yes
+CUST-21571,2023-11-12,United States,Starter,18,6,8,77.26,7.5,yes
+CUST-21572,2022-07-28,United States,Free,28,26,8,665.83,7.6,yes
+CUST-21573,2022-06-13,Germany,Free,25,1,6,49.13,7.1,no
+CUST-21574,2022-12-11,Australia,Growth,42,24,6,127.51,4.5,no
+CUST-21575,2023-06-28,United Kingdom,Starter,26,7,3,47.63,10.0,no
+CUST-21576,2024-06-21,United Kingdom,Scale,29,46,6,562.33,9.1,yes
+CUST-21577,2022-06-12,Canada,Starter,41,44,9,1190.13,8.3,no
+CUST-21578,2022-03-06,United Kingdom,Scale,38,37,10,545.66,9.0,no
+CUST-21579,2024-04-16,Canada,Free,40,3,8,424.41,8.9,no
+CUST-21580,2022-03-23,United Kingdom,Scale,23,30,5,719.85,7.4,yes
+CUST-21581,2023-11-19,Australia,Starter,37,17,7,476.62,5.8,no
+CUST-21582,2023-08-25,United States,Free,21,24,8,300.5,,no
+CUST-21583,2023-02-14,France,Scale,35,38,9,345.2,5.4,no
+CUST-21584,2022-04-17,United Kingdom,Free,44,20,10,540.3,6.9,no
+CUST-21585,2023-07-18,United States,Free,42,27,3,393.33,5.9,no
+CUST-21586,2023-12-07,Germany,Starter,29,31,2,185.52,8.1,no
+CUST-21587,2022-03-22,Australia,Free,34,47,9,578.86,8.4,no
+CUST-21588,2023-02-12,Australia,Starter,28,11,9,66.13,10.0,yes
+CUST-21589,2022-04-22,Germany,Starter,40,39,3,751.93,8.8,no
+CUST-21590,2024-03-02,United Kingdom,Starter,37,19,5,197.51,6.3,no
+CUST-21591,2022-08-22,United States,Growth,23,30,9,133.01,8.1,yes
+CUST-21592,2023-12-23,United Kingdom,Free,40,43,4,210.34,7.4,yes
+CUST-21593,2023-02-25,United Kingdom,Starter,41,9,11,224.02,8.9,yes
+CUST-21594,2023-04-14,Germany,Growth,31,44,7,344.73,7.9,no
+CUST-21595,2022-06-11,United Kingdom,Growth,23,11,6,412.43,8.6,no
+CUST-21596,2023-05-29,Canada,Starter,60,28,9,155.09,9.2,yes
+CUST-21597,2023-02-01,United States,Growth,29,26,11,460.44,7.5,no
+CUST-21598,2023-05-08,Australia,Starter,41,9,5,793.06,8.9,no
+CUST-21599,2022-04-04,Germany,Starter,32,42,5,207.07,6.2,yes
+CUST-21600,2024-07-31,United Kingdom,Free,20,34,3,31.45,6.1,no
+CUST-21601,2024-03-01,United States,Starter,36,19,5,391.71,5.0,yes
+CUST-21602,2023-04-26,United Kingdom,Free,38,20,4,474.83,10.0,no
+CUST-21603,2024-06-18,United Kingdom,Starter,20,23,6,294.45,8.1,no
+CUST-21604,2022-01-14,United Kingdom,Growth,47,45,6,553.42,,no
+CUST-21605,2022-11-25,France,Starter,36,37,12,46.51,9.6,no
+CUST-21606,2023-07-29,United States,Starter,55,30,10,448.81,,yes
+CUST-21607,2022-04-03,United Kingdom,Free,47,28,7,213.04,6.0,yes
+CUST-21608,2024-06-07,France,Free,34,32,7,585.7,8.2,no
+CUST-21609,2024-03-05,France,Growth,50,39,4,200.24,8.6,no
+CUST-21610,2022-01-03,Germany,Free,56,32,10,463.54,9.3,no
+CUST-21611,2023-09-13,France,Free,39,27,5,202.0,3.9,no
+CUST-21612,2022-01-30,Germany,Free,38,28,4,508.29,6.5,no
+CUST-21613,2023-11-05,Germany,Starter,41,7,10,18.78,6.8,no
+CUST-21614,2022-08-22,United Kingdom,Growth,47,10,15,805.25,7.2,no
+CUST-21615,2023-12-04,United Kingdom,Free,61,35,7,495.95,10.0,yes
+CUST-21616,2022-11-22,Australia,Starter,62,15,6,184.33,,no
+CUST-21617,2024-05-04,United States,Free,63,18,7,221.07,6.8,no
+CUST-21618,2023-02-28,United Kingdom,Scale,35,8,8,384.82,5.7,yes
+CUST-21619,2023-10-05,United Kingdom,Starter,42,35,8,311.26,6.4,no
+CUST-21620,2023-10-06,United States,Free,27,31,6,696.92,9.3,no
+CUST-21621,2024-01-14,United States,Scale,56,35,7,129.62,5.8,no
+CUST-21622,2022-02-05,United States,Growth,43,12,5,260.73,8.1,no
+CUST-21623,2023-08-15,Australia,Free,35,38,5,336.41,8.2,no
+CUST-21624,2022-08-17,Germany,Growth,53,45,8,843.26,7.3,no
+CUST-21625,2022-03-28,United States,Growth,66,10,9,211.32,5.4,no
+CUST-21626,2022-11-05,Canada,Starter,50,19,3,424.65,6.3,no
+CUST-21627,2022-09-30,United Kingdom,Free,42,39,6,646.11,6.2,no
+CUST-21628,2023-06-15,United States,Starter,55,27,4,174.69,6.7,no
+CUST-21629,2022-08-25,United States,Free,38,21,8,176.03,7.0,no
+CUST-21630,2022-03-28,United States,Free,35,39,9,549.51,,no
+CUST-21631,2024-03-17,United Kingdom,Starter,18,3,5,212.69,5.5,no
+CUST-21632,2024-06-06,United States,Scale,37,5,11,365.68,7.0,yes
+CUST-21633,2023-04-02,Australia,Free,39,22,5,259.27,8.1,no
+CUST-21634,2024-04-02,United States,Free,39,8,10,1211.9,8.5,no
+CUST-21635,2023-12-04,United States,Free,63,43,10,110.85,6.8,no
+CUST-21636,2023-02-27,United States,Free,45,41,7,977.09,5.6,no
+CUST-21637,2024-03-17,Australia,Starter,45,15,9,126.56,7.3,no
+CUST-21638,2023-05-03,Canada,Growth,42,37,7,181.74,8.6,yes
+CUST-21639,2023-11-10,France,Growth,37,40,5,300.11,5.3,no
+CUST-21640,2023-04-03,Australia,Growth,55,5,7,118.97,9.3,yes
+CUST-21641,2023-11-20,United States,Free,39,6,9,111.68,7.5,no
+CUST-21642,2023-03-20,United States,Growth,50,47,5,86.33,7.6,yes
+CUST-21643,2022-09-02,France,Starter,40,27,5,654.55,7.3,yes
+CUST-21644,2023-12-09,France,Free,44,25,12,189.44,7.0,no
+CUST-21645,2022-01-18,United States,Starter,45,22,9,318.64,6.4,yes
+CUST-21646,2022-06-24,United States,Free,46,14,9,181.83,7.3,no
+CUST-21647,2022-11-14,France,Starter,39,38,7,520.22,,no
+CUST-21648,2022-02-05,Germany,Scale,46,31,11,84.29,7.3,yes
+CUST-21649,2022-04-28,United Kingdom,Starter,45,46,10,686.91,6.9,no
+CUST-21650,2023-10-12,Germany,Growth,31,40,5,281.26,7.1,no
+CUST-21651,2022-11-28,Germany,Growth,18,5,3,464.15,7.6,no
+CUST-21652,2023-07-12,United States,Free,31,33,6,696.63,4.8,no
+CUST-21653,2022-12-14,United Kingdom,Starter,31,29,4,1022.89,7.6,no
+CUST-21654,2024-05-28,United Kingdom,Growth,34,36,7,305.8,,no
+CUST-21655,2022-04-11,Germany,Starter,37,24,5,464.79,5.8,no
+CUST-21656,2023-02-03,Australia,Growth,41,7,4,94.81,5.5,yes
+CUST-21657,2023-11-14,Germany,Free,29,26,4,251.15,4.2,no
+CUST-21658,2023-07-15,United States,Starter,29,31,5,480.02,9.6,no
+CUST-21659,2024-08-14,France,Free,25,28,8,319.13,8.3,yes
+CUST-21660,2024-05-08,Canada,Starter,52,13,7,50.71,8.0,no
+CUST-21661,2024-04-20,Canada,Starter,20,35,7,431.43,8.2,no
+CUST-21662,2022-12-04,United States,Scale,29,8,9,206.24,,no
+CUST-21663,2022-04-29,Canada,Growth,37,10,7,155.34,5.9,no
+CUST-21664,2024-04-14,United States,Starter,34,45,6,236.3,8.7,no
+CUST-21665,2022-03-20,Canada,Starter,35,24,12,332.54,6.9,no
+CUST-21666,2024-01-10,United States,Starter,18,24,4,445.45,4.3,no
+CUST-21667,2024-03-29,United Kingdom,Growth,50,36,6,318.4,5.3,no
+CUST-21668,2024-09-02,United Kingdom,Growth,27,36,6,260.75,,no
+CUST-21669,2022-12-31,United States,Free,41,10,11,298.51,10.0,no
+CUST-21670,2024-09-21,United Kingdom,Starter,38,2,11,80.12,8.3,no
+CUST-21671,2024-05-04,Canada,Free,44,41,9,532.22,5.3,no
+CUST-21672,2022-08-04,Canada,Starter,22,23,5,668.9,10.0,no
+CUST-21673,2022-08-19,Canada,Free,37,8,10,137.29,6.7,no
+CUST-21674,2022-03-28,Canada,Free,35,36,8,58.55,9.1,no
+CUST-21675,2022-04-12,Canada,Starter,29,40,6,136.32,8.3,yes
+CUST-21676,2023-04-25,United States,Growth,38,13,6,401.1,6.9,no
+CUST-21677,2024-02-05,United States,Starter,45,16,10,370.94,7.3,yes
+CUST-21678,2023-11-25,United States,Starter,39,39,9,422.85,8.5,yes
+CUST-21679,2023-01-02,United Kingdom,Free,38,33,8,1436.07,9.4,no
+CUST-21680,2023-06-09,United States,Scale,33,32,8,97.37,8.9,yes
+CUST-21681,2022-01-29,United States,Scale,30,5,4,649.6,8.2,no
+CUST-21682,2023-05-05,France,Starter,37,13,8,198.65,10.0,no
+CUST-21683,2023-08-30,United States,Growth,55,38,4,186.22,6.5,no
+CUST-21684,2024-01-01,France,Free,45,20,9,478.74,8.1,yes
+CUST-21685,2022-08-09,Australia,Free,42,30,6,923.21,7.5,no
+CUST-21686,2023-06-12,United States,Growth,42,41,9,1344.93,,no
+CUST-21687,2022-08-07,United Kingdom,Free,40,18,5,50.02,7.7,no
+CUST-21688,2022-01-13,United Kingdom,Free,42,17,6,87.1,9.0,no
+CUST-21689,2022-11-19,Germany,Starter,43,2,4,401.78,6.9,no
+CUST-21690,2023-07-26,France,Free,25,45,6,1364.14,8.5,no
+CUST-21691,2024-03-13,United Kingdom,Free,29,20,11,576.11,5.8,yes
+CUST-21692,2024-06-07,Canada,Free,46,29,6,1280.99,6.5,no
+CUST-21693,2023-04-05,France,Growth,45,6,5,404.35,8.7,no
+CUST-21694,2022-03-17,United Kingdom,Scale,52,37,2,432.71,6.7,no
+CUST-21695,2022-01-14,United Kingdom,Growth,26,46,3,322.03,9.4,no
+CUST-21696,2023-01-13,Australia,Growth,41,23,4,176.62,,no
+CUST-21697,2022-09-25,United Kingdom,Growth,34,10,5,320.68,4.6,no
+CUST-21698,2022-09-07,United Kingdom,Growth,34,25,9,227.99,8.0,yes
+CUST-21699,2024-03-10,United Kingdom,Starter,18,30,5,112.97,8.5,no
+CUST-21700,2022-04-02,Canada,Starter,38,29,5,1895.97,6.0,yes
+CUST-21701,2022-06-11,Germany,Free,43,8,3,139.17,7.2,no
+CUST-21702,2024-05-16,Canada,Free,40,1,9,98.88,8.4,yes
+CUST-21703,2023-10-27,United States,Growth,41,38,6,364.66,5.5,no
+CUST-21704,2022-07-07,Germany,Growth,22,36,9,168.92,,no
+CUST-21705,2022-12-21,United States,Starter,30,37,4,286.9,3.5,no
+CUST-21706,2024-09-23,Germany,Free,30,29,7,1195.42,8.7,no
+CUST-21707,2024-07-11,Germany,Growth,41,16,8,122.44,8.1,no
+CUST-21708,2023-02-13,Australia,Scale,41,6,3,69.4,8.0,no
+CUST-21709,2022-08-05,United Kingdom,Growth,31,10,6,456.17,6.6,yes
+CUST-21710,2023-10-31,United Kingdom,Growth,42,31,9,484.73,5.8,no
+CUST-21711,2023-12-30,United Kingdom,Free,39,31,6,153.94,6.2,no
+CUST-21712,2024-01-27,France,Growth,18,32,4,191.18,6.3,yes
+CUST-21713,2023-10-19,United Kingdom,Free,37,12,11,211.64,9.4,yes
+CUST-21714,2023-08-02,United Kingdom,Starter,42,33,4,318.12,5.5,no
+CUST-21715,2024-08-29,Canada,Starter,38,38,6,134.93,5.7,no
+CUST-21716,2022-07-07,United Kingdom,Growth,25,45,10,229.85,5.9,no
+CUST-21717,2024-06-21,Canada,Scale,29,8,7,187.13,7.4,no
+CUST-21718,2023-10-24,Germany,Growth,30,22,7,65.7,,no
+CUST-21719,2022-10-30,Canada,Free,36,36,7,670.84,8.1,no
+CUST-21720,2023-12-06,Germany,Starter,50,1,6,90.42,9.6,no
+CUST-21721,2023-04-05,Australia,Growth,28,25,5,264.64,6.7,yes
+CUST-21722,2024-03-18,Germany,Growth,47,35,7,422.12,5.2,no
+CUST-21723,2024-01-29,Australia,Starter,43,17,6,91.69,7.5,no
+CUST-21724,2022-04-27,United Kingdom,Free,30,11,8,128.72,6.8,no
+CUST-21725,2024-04-30,United States,Growth,34,4,8,368.33,7.3,no
+CUST-21726,2022-07-23,Canada,Growth,23,26,8,812.14,7.4,no
+CUST-21727,2023-09-01,Canada,Free,35,19,7,367.11,5.8,no
+CUST-21728,2024-07-16,France,Free,23,8,4,581.67,9.0,no
+CUST-21729,2022-09-23,United Kingdom,Starter,39,35,9,178.3,7.7,yes
+CUST-21730,2023-12-17,Canada,Starter,35,15,4,825.87,6.5,no
+CUST-21731,2023-02-16,United States,Starter,28,39,7,771.26,8.6,no
+CUST-21732,2024-08-19,United Kingdom,Starter,23,21,8,222.2,9.6,no
+CUST-21733,2023-10-25,United States,Free,44,27,5,1394.97,7.7,no
+CUST-21734,2023-09-24,Canada,Growth,50,41,5,188.49,9.3,yes
+CUST-21735,2023-08-09,United States,Scale,39,45,6,944.78,,yes
+CUST-21736,2022-10-22,Germany,Starter,25,9,10,539.29,5.4,no
+CUST-21737,2023-02-16,Germany,Starter,43,26,9,170.3,,yes
+CUST-21738,2024-08-21,United States,Free,42,28,7,109.23,5.6,yes
+CUST-21739,2022-03-02,United States,Free,58,25,2,999.38,8.7,yes
+CUST-21740,2023-07-20,United States,Free,34,40,7,651.72,6.3,no
+CUST-21741,2022-10-03,United Kingdom,Free,62,41,8,796.56,7.8,no
+CUST-21742,2022-05-24,Australia,Starter,21,29,3,291.44,6.7,no
+CUST-21743,2023-06-08,United Kingdom,Growth,45,29,8,397.3,7.7,yes
+CUST-21744,2024-01-10,United Kingdom,Starter,48,30,6,137.54,6.4,no
+CUST-21745,2024-03-08,United Kingdom,Free,35,36,6,467.84,10.0,no
+CUST-21746,2024-01-11,United Kingdom,Growth,51,16,11,194.23,6.0,no
+CUST-21747,2024-07-18,United States,Growth,29,4,9,83.08,7.5,no
+CUST-21748,2023-12-28,United Kingdom,Growth,38,4,7,555.47,9.3,no
+CUST-21749,2023-11-24,Germany,Free,48,32,5,122.97,5.9,yes
+CUST-21750,2023-07-04,United States,Starter,18,6,6,455.66,7.3,yes
+CUST-21751,2024-04-26,United States,Starter,42,32,9,284.46,8.4,yes
+CUST-21752,2022-05-01,United States,Free,46,40,10,463.13,5.9,no
+CUST-21753,2023-11-29,Australia,Starter,41,15,6,285.51,7.2,no
+CUST-21754,2023-03-04,France,Starter,47,33,8,218.5,9.6,no
+CUST-21755,2024-03-24,United Kingdom,Free,41,1,8,85.04,7.8,no
+CUST-21756,2023-07-05,Germany,Growth,45,16,7,127.66,9.9,yes
+CUST-21757,2023-03-16,Germany,Growth,41,19,8,210.71,7.1,yes
+CUST-21758,2024-07-13,United Kingdom,Starter,18,1,10,90.04,6.8,no
+CUST-21759,2024-08-22,Germany,Starter,36,23,9,1867.78,,no
+CUST-21760,2023-03-01,Canada,Starter,42,30,7,579.87,7.9,no
+CUST-21761,2022-11-02,Canada,Starter,54,15,10,241.31,7.9,no
+CUST-21762,2024-05-13,United Kingdom,Growth,28,42,7,493.54,10.0,no
+CUST-21763,2022-11-29,Canada,Starter,53,25,4,309.12,8.0,no
+CUST-21764,2022-05-31,United States,Free,26,17,7,111.66,6.9,yes
+CUST-21765,2024-04-16,Canada,Growth,43,37,5,194.23,5.4,no
+CUST-21766,2023-07-02,Australia,Starter,36,36,5,1020.42,,no
+CUST-21767,2022-08-05,United States,Free,51,43,3,451.57,7.5,no
+CUST-21768,2023-06-08,United States,Growth,40,3,8,250.88,9.0,yes
+CUST-21769,2024-07-15,France,Starter,62,20,11,303.4,7.1,no
+CUST-21770,2024-04-03,France,Free,23,21,5,310.4,7.7,yes
+CUST-21771,2023-05-30,United States,Starter,40,8,4,254.99,9.3,no
+CUST-21772,2022-06-15,United States,Growth,45,30,4,284.53,6.1,yes
+CUST-21773,2022-03-28,United Kingdom,Starter,65,25,7,217.2,9.6,yes
+CUST-21774,2022-01-26,United Kingdom,Starter,48,38,6,175.88,8.9,no
+CUST-21775,2023-01-05,United Kingdom,Starter,53,46,6,422.32,9.3,no
+CUST-21776,2024-03-03,United Kingdom,Growth,35,28,8,272.94,5.1,no
+CUST-21777,2022-08-11,United States,Free,38,1,12,289.0,6.5,no
+CUST-21778,2022-06-12,Germany,Free,31,24,4,234.03,7.3,no
+CUST-21779,2022-05-15,Germany,Growth,29,30,10,1383.37,5.6,no
+CUST-21780,2023-04-18,France,Free,36,24,9,227.81,9.6,no
+CUST-21781,2023-12-05,United States,Free,43,30,7,89.18,7.7,no
+CUST-21782,2022-03-24,United States,Free,26,36,5,863.42,6.3,yes
+CUST-21783,2023-04-28,Australia,Growth,37,24,9,447.26,7.6,no
+CUST-21784,2024-08-22,United Kingdom,Growth,26,1,10,637.01,8.0,no
+CUST-21785,2022-07-12,United States,Growth,46,19,11,810.09,,yes
+CUST-21786,2023-11-20,France,Starter,30,9,5,90.16,8.1,yes
+CUST-21787,2022-04-13,Canada,Starter,31,47,8,303.67,6.8,no
+CUST-21788,2024-09-26,Germany,Starter,38,41,5,215.74,5.1,yes
+CUST-21789,2024-07-08,United Kingdom,Free,19,38,6,169.29,7.4,no
+CUST-21790,2022-05-11,Canada,Free,49,40,4,207.28,7.4,no
+CUST-21791,2023-02-04,Germany,Growth,54,47,6,568.25,9.0,no
+CUST-21792,2023-10-12,Canada,Starter,54,35,1,266.6,6.3,no
+CUST-21793,2024-07-26,Canada,Growth,51,30,7,52.39,8.3,no
+CUST-21794,2022-07-24,United Kingdom,Starter,33,33,7,382.57,8.6,no
+CUST-21795,2024-06-17,United States,Starter,34,11,8,217.92,7.0,no
+CUST-21796,2022-06-14,United Kingdom,Starter,46,16,7,642.33,7.3,yes
+CUST-21797,2024-09-10,United States,Free,18,38,8,366.13,7.9,no
+CUST-21798,2022-10-06,United Kingdom,Scale,26,7,9,436.53,6.7,no
+CUST-21799,2022-08-02,United Kingdom,Starter,34,33,8,286.73,6.9,no
+CUST-21800,2024-04-04,United Kingdom,Growth,18,2,7,79.41,10.0,no
+CUST-21801,2024-06-18,United Kingdom,Growth,43,41,6,1083.26,5.4,no
+CUST-21802,2022-09-23,Germany,Starter,46,3,4,179.02,5.8,no
+CUST-21803,2023-10-13,United Kingdom,Growth,18,24,7,1580.36,10.0,no
+CUST-21804,2022-11-22,United States,Starter,51,42,6,157.24,3.6,no
+CUST-21805,2022-07-15,Canada,Free,59,29,5,1382.88,8.9,no
+CUST-21806,2023-10-08,United Kingdom,Growth,20,32,6,410.7,5.7,yes
+CUST-21807,2024-05-25,Canada,Free,25,43,5,1432.96,8.7,no
+CUST-21808,2023-10-25,United States,Starter,39,30,7,471.66,7.7,no
+CUST-21809,2023-02-25,Germany,Growth,26,30,5,101.24,8.6,no
+CUST-21810,2023-02-02,France,Starter,31,42,7,127.25,5.6,no
+CUST-21811,2023-10-07,United Kingdom,Starter,52,35,5,399.73,8.2,no
+CUST-21812,2023-07-04,United States,Starter,51,44,9,326.17,6.4,no
+CUST-21813,2023-07-16,Australia,Starter,29,18,8,71.89,7.5,no
+CUST-21814,2023-10-19,United States,Free,18,2,11,78.75,8.9,yes
+CUST-21815,2023-02-26,United States,Free,41,25,7,569.35,7.0,no
+CUST-21816,2022-10-02,Australia,Growth,28,46,5,490.81,7.4,yes
+CUST-21817,2023-07-17,United Kingdom,Growth,45,20,9,432.67,7.0,yes
+CUST-21818,2023-09-02,Australia,Growth,27,10,9,78.16,5.8,no
+CUST-21819,2023-03-18,Germany,Growth,67,1,9,495.18,5.1,no
+CUST-21820,2024-01-11,France,Starter,25,3,10,97.18,5.7,no
+CUST-21821,2022-06-05,United States,Growth,50,6,5,313.44,6.4,yes
+CUST-21822,2023-06-17,Germany,Growth,44,24,6,186.13,8.3,no
+CUST-21823,2024-04-26,United Kingdom,Growth,47,11,6,225.53,7.8,no
+CUST-21824,2022-12-27,Germany,Free,59,33,6,240.26,6.8,no
+CUST-21825,2023-05-27,France,Starter,57,43,6,408.06,,no
+CUST-21826,2023-01-28,Australia,Growth,32,33,4,124.47,6.5,no
+CUST-21827,2023-10-28,United Kingdom,Starter,56,4,6,397.12,5.7,no
+CUST-21828,2023-07-31,United Kingdom,Free,49,38,5,365.92,7.1,no
+CUST-21829,2022-05-15,United Kingdom,Growth,18,1,3,114.82,5.4,no
+CUST-21830,2022-04-02,United States,Growth,37,11,9,251.04,7.6,no
+CUST-21831,2022-03-07,United Kingdom,Scale,26,17,10,126.25,8.2,no
+CUST-21832,2023-10-23,United Kingdom,Starter,48,41,4,2428.08,5.0,no
+CUST-21833,2024-08-03,Canada,Starter,49,37,6,326.2,6.7,no
+CUST-21834,2024-01-18,United Kingdom,Free,44,33,10,209.97,9.0,no
+CUST-21835,2024-07-08,United Kingdom,Starter,49,26,5,306.78,7.2,no
+CUST-21836,2023-01-15,Germany,Starter,26,33,4,236.75,7.8,yes
+CUST-21837,2023-10-24,Australia,Growth,36,15,5,321.67,6.6,no
+CUST-21838,2023-04-03,Canada,Free,34,11,7,528.7,,no
+CUST-21839,2023-09-22,Germany,Starter,18,12,7,180.01,9.5,no
+CUST-21840,2023-09-13,Australia,Starter,50,21,8,356.19,5.7,yes
+CUST-21841,2022-03-15,United States,Scale,51,36,9,742.12,,yes
+CUST-21842,2022-11-01,Australia,Growth,35,15,4,196.07,6.5,no
+CUST-21843,2023-07-01,United States,Free,48,28,5,126.81,5.0,no
+CUST-21844,2023-09-09,United Kingdom,Scale,45,47,4,951.84,7.6,no
+CUST-21845,2022-01-19,Australia,Starter,60,12,6,74.84,7.1,no
+CUST-21846,2023-09-14,United Kingdom,Growth,48,14,2,687.19,,no
+CUST-21847,2023-10-08,Canada,Starter,47,17,2,1118.81,6.3,no
+CUST-21848,2024-08-14,Canada,Free,42,25,9,133.63,9.9,no
+CUST-21849,2023-04-14,United Kingdom,Free,46,30,7,302.97,,no
+CUST-21850,2022-10-01,United States,Starter,38,46,8,138.61,6.1,no
+CUST-21851,2023-02-24,Germany,Starter,27,2,4,71.52,6.0,no
+CUST-21852,2022-02-19,United States,Growth,46,41,6,304.04,10.0,no
+CUST-21853,2024-04-24,United States,Starter,18,3,5,364.41,6.9,no
+CUST-21854,2023-08-05,United States,Scale,58,33,12,47.01,7.7,no
+CUST-21855,2022-08-25,United States,Scale,63,21,7,379.89,8.7,no
+CUST-21856,2022-05-16,Germany,Starter,66,21,13,92.69,6.0,no
+CUST-21857,2022-11-12,France,Growth,32,19,6,113.51,6.3,no
+CUST-21858,2023-06-11,United Kingdom,Scale,45,15,8,1049.43,10.0,no
+CUST-21859,2023-05-28,Germany,Growth,31,47,10,426.4,9.6,no
+CUST-21860,2023-07-20,United Kingdom,Growth,38,32,6,249.95,10.0,no
+CUST-21861,2022-11-02,United Kingdom,Starter,47,47,4,368.15,8.3,no
+CUST-21862,2023-09-08,Canada,Growth,49,39,8,352.81,7.3,no
+CUST-21863,2023-03-13,United States,Free,31,12,9,238.14,,no
+CUST-21864,2024-04-28,Canada,Scale,44,21,4,601.0,8.3,no
+CUST-21865,2023-07-07,United Kingdom,Growth,65,27,5,366.21,8.5,yes
+CUST-21866,2024-01-01,United Kingdom,Free,48,20,12,80.56,,no
+CUST-21867,2023-10-01,France,Free,39,36,3,544.11,6.1,no
+CUST-21868,2024-06-19,United States,Growth,30,36,4,387.35,7.7,yes
+CUST-21869,2023-12-26,Australia,Free,49,16,8,105.62,8.6,no
+CUST-21870,2024-05-05,Australia,Starter,40,47,6,184.79,8.4,yes
+CUST-21871,2022-01-22,United Kingdom,Free,39,27,6,354.94,8.4,yes
+CUST-21872,2022-06-05,United States,Growth,32,40,5,690.84,7.2,no
+CUST-21873,2022-12-12,Australia,Free,48,42,8,157.93,10.0,yes
+CUST-21874,2024-05-28,United Kingdom,Free,44,24,4,485.51,9.6,yes
+CUST-21875,2023-04-22,United States,Starter,23,27,7,1304.46,7.1,no
+CUST-21876,2024-05-03,Canada,Growth,39,41,2,85.99,8.4,no
+CUST-21877,2022-08-02,Australia,Free,36,6,7,356.11,6.7,no
+CUST-21878,2022-12-01,United Kingdom,Starter,48,6,5,1266.79,,no
+CUST-21879,2023-06-07,United States,Growth,33,12,3,334.45,7.2,no
+CUST-21880,2022-06-25,United Kingdom,Free,40,11,7,102.91,8.8,no
+CUST-21881,2022-06-01,United Kingdom,Growth,42,31,9,189.32,8.4,no
+CUST-21882,2023-05-06,Australia,Free,28,15,6,2731.53,7.4,no
+CUST-21883,2023-11-18,United Kingdom,Free,36,15,7,454.8,7.9,yes
+CUST-21884,2022-05-30,Australia,Growth,58,28,10,683.41,8.4,no
+CUST-21885,2024-06-21,United Kingdom,Free,47,5,8,206.35,7.2,no
+CUST-21886,2023-12-25,Canada,Starter,18,11,11,147.84,6.7,yes
+CUST-21887,2024-02-11,Germany,Growth,38,38,4,141.09,6.4,no
+CUST-21888,2023-01-11,United States,Starter,36,18,6,233.36,6.1,no
+CUST-21889,2022-02-01,Germany,Starter,35,44,9,963.62,7.7,no
+CUST-21890,2022-05-15,United States,Free,27,4,7,59.64,6.3,yes
+CUST-21891,2024-07-09,United States,Growth,27,31,8,157.36,8.9,yes
+CUST-21892,2022-03-05,Canada,Starter,37,45,4,36.82,7.7,no
+CUST-21893,2023-04-12,United States,Scale,55,26,6,379.94,5.3,no
+CUST-21894,2023-08-24,United States,Free,25,14,6,186.63,8.9,yes
+CUST-21895,2024-05-18,Australia,Free,28,9,12,81.89,8.1,no
+CUST-21896,2023-04-26,Canada,Starter,73,25,7,243.13,8.9,no
+CUST-21897,2022-07-13,United Kingdom,Starter,40,22,4,346.62,8.2,yes
+CUST-21898,2024-08-31,Germany,Free,46,1,8,107.81,5.8,no
+CUST-21899,2023-03-26,Canada,Free,38,13,11,132.74,8.4,yes
+CUST-21900,2024-05-07,Canada,Growth,21,25,8,874.33,6.1,no
+CUST-21901,2022-10-22,United States,Scale,48,26,5,132.1,,no
+CUST-21902,2022-10-01,France,Starter,37,22,7,165.01,,no
+CUST-21903,2023-11-04,United States,Starter,22,40,13,213.62,6.0,yes
+CUST-21904,2023-08-13,France,Free,44,34,4,384.66,6.5,yes
+CUST-21905,2022-10-10,Canada,Starter,21,23,7,617.19,7.3,yes
+CUST-21906,2022-02-04,Canada,Growth,35,30,12,321.48,6.7,yes
+CUST-21907,2024-09-08,Germany,Scale,46,30,6,123.52,8.2,no
+CUST-21908,2022-03-30,Germany,Starter,39,22,8,457.03,7.3,no
+CUST-21909,2023-10-25,United States,Starter,43,9,8,198.07,8.2,yes
+CUST-21910,2023-02-14,United Kingdom,Scale,21,7,8,200.27,7.4,yes
+CUST-21911,2023-10-28,Canada,Starter,39,11,5,254.05,9.1,no
+CUST-21912,2022-05-05,United Kingdom,Free,29,32,6,283.07,7.9,no
+CUST-21913,2022-11-15,Canada,Growth,42,2,15,314.72,6.5,no
+CUST-21914,2023-06-11,Australia,Free,44,36,8,672.23,8.1,no
+CUST-21915,2022-11-28,France,Growth,44,18,4,231.76,7.8,no
+CUST-21916,2022-07-28,United States,Free,33,33,9,380.7,7.9,no
+CUST-21917,2022-11-03,United Kingdom,Free,43,19,6,413.01,8.9,no
+CUST-21918,2023-12-14,Canada,Free,41,11,8,451.84,6.4,no
+CUST-21919,2023-08-20,United Kingdom,Free,30,19,9,48.27,6.3,no
+CUST-21920,2022-10-15,United Kingdom,Starter,29,42,6,90.27,7.0,no
+CUST-21921,2023-07-27,France,Growth,44,27,5,300.52,5.7,no
+CUST-21922,2023-12-10,Canada,Starter,35,27,5,140.3,6.5,no
+CUST-21923,2022-09-21,United Kingdom,Growth,45,23,9,312.81,9.8,no
+CUST-21924,2024-04-25,United States,Starter,41,9,13,434.24,4.1,no
+CUST-21925,2024-07-29,United States,Growth,34,26,5,543.59,5.7,no
+CUST-21926,2022-12-07,United States,Growth,55,31,8,56.34,,no
+CUST-21927,2023-08-24,Canada,Free,28,30,3,593.01,7.3,yes
+CUST-21928,2024-08-18,United Kingdom,Free,42,42,8,730.11,9.3,yes
+CUST-21929,2023-12-09,Canada,Free,34,18,7,294.13,8.8,yes
+CUST-21930,2022-07-14,United Kingdom,Growth,30,9,4,614.37,7.8,no
+CUST-21931,2024-07-12,United Kingdom,Starter,38,15,9,105.92,,no
+CUST-21932,2022-07-15,Canada,Free,40,40,10,402.38,,no
+CUST-21933,2024-03-25,Germany,Scale,28,45,5,976.19,6.5,no
+CUST-21934,2022-03-22,Canada,Free,47,37,4,447.27,,no
+CUST-21935,2023-04-16,Canada,Growth,48,21,6,280.72,,no
+CUST-21936,2022-09-30,Australia,Scale,49,36,5,424.11,10.0,no
+CUST-21937,2024-09-23,United States,Starter,33,38,4,501.1,7.1,no
+CUST-21938,2023-11-17,United States,Growth,33,44,5,484.81,6.6,no
+CUST-21939,2022-08-07,Canada,Free,45,36,5,140.47,4.1,no
+CUST-21940,2023-09-24,Australia,Free,31,40,8,182.11,9.6,no
+CUST-21941,2022-10-22,United States,Growth,44,8,6,305.35,8.5,yes
+CUST-21942,2023-01-19,United States,Free,27,18,8,36.27,8.6,no
+CUST-21943,2022-07-15,Germany,Starter,31,14,8,599.14,6.2,no
+CUST-21944,2023-02-22,United States,Growth,32,29,3,971.99,5.0,no
+CUST-21945,2024-09-10,Australia,Growth,42,10,6,147.47,8.5,yes
+CUST-21946,2024-02-19,Germany,Growth,29,7,6,269.4,9.9,yes
+CUST-21947,2024-01-21,United States,Starter,64,29,6,2676.64,8.1,no
+CUST-21948,2024-03-16,Australia,Free,38,7,8,255.91,,no
+CUST-21949,2023-01-15,United Kingdom,Scale,40,47,5,71.71,8.3,no
+CUST-21950,2022-08-11,United States,Free,28,4,10,75.5,7.2,no
+CUST-21951,2022-06-14,Canada,Free,59,7,4,169.55,8.0,no
+CUST-21952,2023-05-13,United Kingdom,Starter,58,27,5,549.82,9.1,no
+CUST-21953,2023-04-30,Australia,Starter,36,30,7,152.28,7.4,no
+CUST-21954,2022-11-03,Canada,Free,45,11,8,431.6,7.9,yes
+CUST-21955,2024-08-07,Germany,Free,28,10,8,238.41,8.8,no
+CUST-21956,2023-02-04,United States,Growth,45,33,7,483.23,5.2,no
+CUST-21957,2023-09-20,United Kingdom,Free,40,12,8,497.65,9.6,no
+CUST-21958,2022-04-03,France,Growth,22,13,5,633.29,7.6,no
+CUST-21959,2024-04-30,United States,Free,49,27,7,359.42,8.1,yes
+CUST-21960,2023-10-05,Germany,Growth,50,34,7,363.31,,no
+CUST-21961,2024-08-13,United Kingdom,Starter,31,26,8,109.14,8.8,no
+CUST-21962,2022-12-01,United States,Free,23,47,8,229.19,7.4,no
+CUST-21963,2022-04-14,United States,Starter,36,15,7,119.79,6.8,yes
+CUST-21964,2023-04-01,United States,Starter,40,24,3,610.53,7.4,no
+CUST-21965,2024-08-09,Canada,Growth,46,37,6,304.47,,yes
+CUST-21966,2022-04-02,Australia,Free,59,42,4,610.01,6.5,no
+CUST-21967,2024-06-12,Australia,Growth,38,34,10,322.2,8.0,no
+CUST-21968,2024-07-24,United States,Starter,28,16,11,192.23,5.7,no
+CUST-21969,2024-06-20,Canada,Growth,18,35,9,463.36,6.3,no
+CUST-21970,2023-06-23,Germany,Free,35,10,7,511.4,9.4,yes
+CUST-21971,2024-05-11,France,Starter,22,47,9,943.16,8.4,no
+CUST-21972,2022-05-29,United Kingdom,Growth,33,9,9,106.11,5.4,no
+CUST-21973,2023-02-13,France,Free,44,20,11,283.0,7.8,no
+CUST-21974,2022-02-04,Germany,Scale,33,32,9,984.74,8.5,no
+CUST-21975,2022-03-28,United Kingdom,Free,24,24,7,189.96,,no
+CUST-21976,2024-02-27,United Kingdom,Starter,29,34,8,146.87,9.7,no
+CUST-21977,2022-11-29,United Kingdom,Free,54,18,6,121.14,8.6,yes
+CUST-21978,2023-12-18,United States,Starter,18,4,10,34.3,6.5,no
+CUST-21979,2024-03-09,Australia,Growth,34,18,6,248.79,7.8,yes
+CUST-21980,2022-02-01,United Kingdom,Starter,43,21,14,511.63,7.1,no
+CUST-21981,2022-08-17,Australia,Free,27,23,10,286.13,7.6,no
+CUST-21982,2024-08-05,United Kingdom,Starter,49,2,3,195.16,7.6,no
+CUST-21983,2023-06-04,United Kingdom,Free,20,31,5,52.1,7.9,no
+CUST-21984,2022-07-01,France,Starter,19,33,13,235.75,6.3,yes
+CUST-21985,2024-03-25,Australia,Starter,41,16,11,324.12,6.2,no
+CUST-21986,2023-01-07,United States,Growth,28,6,7,119.29,9.3,no
+CUST-21987,2024-04-02,Canada,Free,28,6,4,94.11,10.0,no
+CUST-21988,2022-03-20,United States,Starter,39,43,4,396.71,8.2,no
+CUST-21989,2023-12-22,United States,Free,36,31,7,352.78,5.1,yes
+CUST-21990,2023-02-17,United Kingdom,Starter,41,24,6,362.21,6.7,no
+CUST-21991,2022-05-03,Australia,Scale,43,29,5,227.38,5.7,no
+CUST-21992,2024-09-01,United States,Free,18,8,4,152.22,5.9,no
+CUST-21993,2023-03-20,United Kingdom,Starter,50,16,3,1692.67,,no
+CUST-21994,2022-08-10,Australia,Free,55,24,9,191.7,6.1,yes
+CUST-21995,2024-02-19,Germany,Growth,46,14,10,126.32,7.5,no
+CUST-21996,2022-04-07,Canada,Growth,36,16,11,87.07,10.0,no
+CUST-21997,2024-04-29,United Kingdom,Growth,49,44,9,64.06,7.9,no
+CUST-21998,2024-06-01,United States,Starter,43,32,6,272.79,5.6,no
+CUST-21999,2022-03-24,United States,Free,41,24,5,299.68,8.5,yes
+CUST-22000,2022-03-20,United Kingdom,Starter,56,11,5,189.55,10.0,no
+CUST-22001,2022-05-27,United Kingdom,Free,19,39,7,132.13,9.0,no
+CUST-22002,2023-01-16,Canada,Starter,18,11,5,515.13,7.8,no
+CUST-22003,2023-10-12,Canada,Growth,53,36,11,151.97,7.5,no
+CUST-22004,2024-04-01,United States,Growth,49,43,6,201.96,6.5,no
+CUST-22005,2023-01-01,United States,Growth,53,25,3,362.81,8.8,no
+CUST-22006,2023-01-08,United Kingdom,Growth,78,5,9,245.66,5.8,no
+CUST-22007,2024-05-15,France,Free,38,33,11,276.92,6.7,yes
+CUST-22008,2023-06-17,Germany,Scale,46,30,4,158.39,5.9,no
+CUST-22009,2024-09-04,Canada,Free,45,29,10,197.11,7.6,no
+CUST-22010,2022-10-25,Germany,Free,44,17,11,112.27,7.3,yes
+CUST-22011,2023-12-08,Germany,Free,46,36,4,119.82,,no
+CUST-22012,2023-06-11,United States,Growth,49,24,4,330.34,,no
+CUST-22013,2024-07-22,United Kingdom,Starter,51,2,10,107.65,8.0,no
+CUST-22014,2024-06-05,Australia,Free,32,30,7,557.9,6.8,no
+CUST-22015,2022-09-19,United States,Growth,50,30,14,555.29,7.9,no
+CUST-22016,2023-11-06,United Kingdom,Starter,32,3,4,353.06,7.4,no
+CUST-22017,2023-07-17,Germany,Free,39,22,6,247.98,6.8,no
+CUST-22018,2022-12-30,Germany,Free,41,15,5,23.54,6.9,no
+CUST-22019,2023-05-09,United States,Starter,45,10,3,222.42,7.8,no
+CUST-22020,2022-06-16,United States,Free,37,11,7,574.53,7.4,no
+CUST-22021,2024-07-21,United States,Free,44,22,12,96.66,9.2,no
+CUST-22022,2023-01-26,United States,Starter,54,16,4,417.1,8.0,no
+CUST-22023,2023-05-07,United States,Free,41,38,6,331.21,7.8,no
+CUST-22024,2024-06-05,United States,Free,62,45,5,719.68,6.6,no
+CUST-22025,2023-09-25,Canada,Free,39,14,5,143.99,5.5,no
+CUST-22026,2024-01-07,United Kingdom,Scale,18,6,3,163.89,7.4,no
+CUST-22027,2022-10-23,Germany,Starter,45,16,7,1137.45,7.9,yes
+CUST-22028,2022-08-18,United States,Scale,47,2,5,117.88,5.7,no
+CUST-22029,2023-06-26,United Kingdom,Starter,43,24,11,237.02,5.3,yes
+CUST-22030,2022-01-17,Australia,Growth,32,5,4,131.69,6.7,no
+CUST-22031,2022-08-24,United Kingdom,Growth,39,12,6,230.12,7.2,no
+CUST-22032,2023-05-06,United Kingdom,Growth,42,15,3,464.59,8.0,yes
+CUST-22033,2024-02-29,United Kingdom,Free,48,15,10,111.01,8.9,no
+CUST-22034,2024-09-24,United States,Starter,55,6,10,454.17,7.3,no
+CUST-22035,2023-02-22,United States,Free,29,36,12,169.63,6.4,no
+CUST-22036,2023-12-08,United Kingdom,Free,66,21,12,198.53,6.3,no
+CUST-22037,2022-10-31,Australia,Scale,40,40,5,99.05,8.4,no
+CUST-22038,2022-10-28,United Kingdom,Free,43,4,6,79.03,7.9,yes
+CUST-22039,2022-01-25,United States,Free,40,5,6,403.08,5.6,no
+CUST-22040,2023-05-22,United States,Starter,38,16,7,156.6,6.5,no
+CUST-22041,2022-01-18,United States,Starter,42,35,8,197.21,7.2,yes
+CUST-22042,2024-08-11,United Kingdom,Starter,34,15,5,747.7,7.4,no
+CUST-22043,2022-09-07,United States,Free,55,12,5,149.85,9.3,no
+CUST-22044,2023-04-20,United States,Growth,38,22,4,84.59,5.2,no
+CUST-22045,2022-05-17,United States,Free,32,28,7,457.84,8.0,yes
+CUST-22046,2022-10-25,United States,Starter,22,2,7,46.72,7.9,no
+CUST-22047,2023-06-23,Australia,Growth,36,31,7,663.19,10.0,no
+CUST-22048,2022-12-11,United States,Free,41,8,5,157.93,6.1,no
+CUST-22049,2023-03-10,United Kingdom,Free,18,5,7,54.98,7.1,yes
+CUST-22050,2024-05-14,Canada,Starter,35,41,12,445.58,5.7,no
+CUST-22051,2024-02-28,Germany,Growth,42,27,5,219.75,7.5,yes
+CUST-22052,2024-06-18,France,Growth,39,3,9,108.67,7.5,yes
+CUST-22053,2023-08-02,United States,Growth,32,14,4,1273.26,7.3,no
+CUST-22054,2022-01-19,United Kingdom,Growth,41,16,2,1052.17,8.4,no
+CUST-22055,2022-10-18,Germany,Growth,32,27,8,265.07,9.0,no
+CUST-22056,2023-10-30,United States,Free,43,22,6,187.01,,no
+CUST-22057,2022-05-13,United States,Starter,29,47,5,1236.54,6.4,yes
+CUST-22058,2024-09-04,United States,Scale,50,27,6,211.62,5.8,no
+CUST-22059,2024-02-17,United Kingdom,Free,44,20,8,267.22,6.4,no
+CUST-22060,2022-04-25,Germany,Free,55,19,5,78.88,6.5,no
+CUST-22061,2024-06-05,Canada,Starter,18,22,11,742.28,7.7,yes
+CUST-22062,2024-06-04,Australia,Starter,50,18,8,143.98,5.8,no
+CUST-22063,2022-08-09,United Kingdom,Scale,55,33,8,763.3,5.3,no
+CUST-22064,2024-01-29,Germany,Scale,37,32,3,181.96,6.9,yes
+CUST-22065,2024-08-06,Germany,Free,42,28,7,241.78,10.0,yes
+CUST-22066,2023-04-20,Canada,Starter,29,6,6,270.72,,no
+CUST-22067,2024-07-29,Australia,Growth,31,43,5,269.04,8.5,no
+CUST-22068,2022-06-17,United Kingdom,Starter,42,3,7,651.35,6.9,no
+CUST-22069,2023-01-26,United States,Growth,62,29,7,816.73,6.8,no
+CUST-22070,2023-05-02,United States,Starter,25,6,8,206.98,6.1,yes
+CUST-22071,2022-03-07,Germany,Free,55,13,6,358.0,6.1,no
+CUST-22072,2023-09-10,Germany,Growth,42,2,8,110.31,9.1,no
+CUST-22073,2024-04-29,United States,Growth,72,31,7,365.95,7.3,no
+CUST-22074,2023-11-26,Canada,Growth,40,26,6,35.84,8.8,no
+CUST-22075,2022-11-02,Australia,Free,18,9,3,181.95,,yes
+CUST-22076,2023-05-31,United States,Growth,26,16,7,176.05,7.9,no
+CUST-22077,2023-11-20,Germany,Starter,33,13,4,292.97,7.5,no
+CUST-22078,2023-10-08,Germany,Free,45,38,7,212.58,8.3,no
+CUST-22079,2024-04-16,United Kingdom,Growth,44,15,3,81.2,7.9,no
+CUST-22080,2022-03-06,United States,Starter,45,38,3,272.58,7.5,no
+CUST-22081,2023-03-29,United States,Growth,41,18,3,202.76,7.8,no
+CUST-22082,2023-12-14,Canada,Scale,45,13,3,106.57,6.2,no
+CUST-22083,2024-04-16,United States,Growth,42,30,4,1025.15,5.8,no
+CUST-22084,2023-04-05,Canada,Growth,29,20,10,94.35,5.6,yes
+CUST-22085,2022-03-03,United Kingdom,Growth,27,11,9,625.27,6.5,no
+CUST-22086,2023-02-24,United States,Growth,18,37,4,198.78,9.4,no
+CUST-22087,2023-07-27,United States,Free,30,14,8,355.6,9.8,no
+CUST-22088,2022-07-17,United Kingdom,Growth,57,34,7,807.45,5.6,no
+CUST-22089,2023-07-07,Germany,Starter,36,44,7,458.28,6.7,no
+CUST-22090,2022-03-21,Germany,Starter,53,29,7,175.65,7.8,no
+CUST-22091,2022-12-30,Australia,Free,45,19,10,983.08,6.9,no
+CUST-22092,2024-08-10,Canada,Free,40,14,9,44.09,7.8,no
+CUST-22093,2022-09-27,Germany,Growth,48,13,6,95.92,8.5,no
+CUST-22094,2022-07-22,France,Growth,47,8,5,200.35,4.8,no
+CUST-22095,2023-06-01,Germany,Free,26,7,8,128.32,8.0,no
+CUST-22096,2022-05-25,United States,Free,45,32,9,505.01,8.3,no
+CUST-22097,2023-12-12,Canada,Free,39,18,6,497.6,6.3,no
+CUST-22098,2022-12-04,Australia,Starter,32,13,4,588.7,6.5,no
+CUST-22099,2022-05-10,United Kingdom,Free,57,45,2,156.28,6.6,no
+CUST-22100,2024-01-10,Australia,Growth,52,35,7,766.7,6.0,no
+CUST-22101,2024-04-12,Australia,Free,36,28,4,240.03,9.4,yes
+CUST-22102,2022-08-18,Australia,Starter,29,34,10,156.4,8.5,no
+CUST-22103,2024-04-16,United States,Starter,26,24,8,640.59,6.6,no
+CUST-22104,2023-12-05,United States,Free,34,19,9,184.16,6.7,no
+CUST-22105,2023-03-31,United Kingdom,Free,41,18,7,272.9,7.6,no
+CUST-22106,2024-05-22,United States,Growth,44,1,6,106.09,6.5,no
+CUST-22107,2024-05-22,Canada,Starter,44,16,11,383.38,4.9,no
+CUST-22108,2023-03-01,United Kingdom,Starter,32,42,12,204.12,6.6,yes
+CUST-22109,2024-05-06,United States,Growth,50,12,6,454.21,9.3,no
+CUST-22110,2024-02-26,France,Growth,38,42,5,741.98,7.1,no
+CUST-22111,2023-10-18,United States,Free,43,16,6,38.54,6.6,no
+CUST-22112,2024-01-25,Australia,Free,34,27,5,421.8,8.2,no
+CUST-22113,2024-03-30,United States,Starter,28,20,7,285.18,9.7,yes
+CUST-22114,2022-02-11,United States,Growth,37,5,12,51.52,8.1,yes
+CUST-22115,2024-07-01,United Kingdom,Starter,44,4,7,920.51,7.0,no
+CUST-22116,2024-01-28,France,Starter,63,6,11,241.82,7.5,no
+CUST-22117,2023-04-14,United States,Starter,35,28,11,428.29,6.3,no
+CUST-22118,2022-05-04,United Kingdom,Free,53,30,7,1870.55,6.7,no
+CUST-22119,2023-03-01,United States,Growth,35,36,4,484.14,7.4,no
+CUST-22120,2023-04-24,Germany,Starter,28,33,10,326.65,8.4,no
+CUST-22121,2024-08-28,United Kingdom,Starter,19,27,10,137.2,9.5,no
+CUST-22122,2022-03-27,United States,Growth,31,1,10,92.78,8.0,yes
+CUST-22123,2024-06-23,United Kingdom,Starter,33,10,6,238.65,7.5,yes
+CUST-22124,2023-06-08,Canada,Starter,26,8,4,254.32,5.1,no
+CUST-22125,2024-01-26,France,Free,36,26,3,153.51,5.8,no
+CUST-22126,2023-07-05,Australia,Scale,46,46,10,602.9,6.4,no
+CUST-22127,2022-07-03,United Kingdom,Starter,45,37,7,721.0,9.3,no
+CUST-22128,2024-04-26,Canada,Growth,29,30,6,237.99,,yes
+CUST-22129,2022-12-04,United Kingdom,Free,34,8,10,123.84,8.1,no
+CUST-22130,2024-08-05,Canada,Free,36,28,7,453.9,5.0,no
+CUST-22131,2023-05-04,United States,Growth,39,8,7,602.85,9.4,yes
+CUST-22132,2023-11-14,United States,Starter,29,41,6,268.0,8.7,no
+CUST-22133,2024-01-13,United Kingdom,Growth,36,7,7,1975.19,7.9,no
+CUST-22134,2022-05-10,United States,Growth,37,27,6,2507.75,7.0,no
+CUST-22135,2023-03-31,United Kingdom,Starter,37,15,10,279.58,5.7,no
+CUST-22136,2022-07-31,United States,Starter,43,7,6,1079.22,6.8,no
+CUST-22137,2023-01-24,United Kingdom,Free,18,3,5,274.95,6.5,yes
+CUST-22138,2022-10-11,Australia,Growth,45,26,6,418.19,9.1,yes
+CUST-22139,2023-11-12,United Kingdom,Free,59,24,7,171.94,,no
+CUST-22140,2024-04-08,Australia,Free,54,26,7,257.72,5.3,no
+CUST-22141,2022-06-16,United Kingdom,Scale,25,18,6,1155.66,8.5,no
+CUST-22142,2023-06-07,United States,Free,18,41,7,542.6,6.7,no
+CUST-22143,2022-07-18,United Kingdom,Growth,51,20,4,115.51,7.5,no
+CUST-22144,2023-02-12,Australia,Free,37,45,5,645.11,6.9,yes
+CUST-22145,2023-07-08,Canada,Starter,49,24,7,1060.17,6.4,no
+CUST-22146,2023-08-16,Canada,Growth,37,45,5,515.75,10.0,no
+CUST-22147,2024-01-30,United States,Free,36,44,5,228.07,7.5,no
+CUST-22148,2022-04-30,France,Growth,47,47,7,747.62,9.6,no
+CUST-22149,2022-03-25,Canada,Starter,25,32,10,173.02,8.5,yes
+CUST-22150,2024-07-01,United States,Free,35,12,7,432.23,5.4,no
+CUST-22151,2023-07-18,Canada,Scale,24,40,8,167.64,7.1,no
+CUST-22152,2022-03-03,United States,Growth,52,27,3,460.37,9.1,yes
+CUST-22153,2023-02-19,Australia,Growth,43,3,4,154.63,,yes
+CUST-22154,2023-10-18,United States,Growth,33,1,5,367.51,8.2,no
+CUST-22155,2022-05-01,Canada,Growth,29,36,12,241.57,,no
+CUST-22156,2024-07-11,France,Free,39,41,8,103.28,6.1,no
+CUST-22157,2022-03-15,United Kingdom,Free,40,47,4,628.38,8.0,yes
+CUST-22158,2023-10-19,Germany,Free,43,37,9,435.0,7.7,yes
+CUST-22159,2024-05-18,Australia,Scale,35,26,6,144.62,6.9,yes
+CUST-22160,2024-08-02,Germany,Scale,52,15,11,231.69,9.0,no
+CUST-22161,2022-02-16,United Kingdom,Growth,66,37,10,408.01,9.6,yes
+CUST-22162,2024-08-13,United States,Free,39,37,7,202.92,5.2,no
+CUST-22163,2023-09-24,Australia,Free,24,29,6,390.19,5.9,no
+CUST-22164,2024-06-25,United States,Scale,22,30,8,694.66,7.7,yes
+CUST-22165,2024-05-19,United States,Free,49,44,5,352.87,7.4,no
+CUST-22166,2023-07-15,United States,Starter,32,31,9,168.65,7.0,no
+CUST-22167,2022-04-13,United Kingdom,Free,45,42,6,109.61,,no
+CUST-22168,2023-05-01,United Kingdom,Starter,32,23,6,98.06,7.1,yes
+CUST-22169,2023-04-21,Canada,Free,30,22,6,471.16,7.8,yes
+CUST-22170,2023-09-30,France,Starter,26,3,6,119.13,7.2,no
+CUST-22171,2023-01-27,United Kingdom,Growth,46,13,18,139.62,8.9,no
+CUST-22172,2023-07-18,Australia,Free,32,39,4,229.89,8.8,no
+CUST-22173,2024-07-16,United Kingdom,Growth,34,31,10,192.65,7.2,no
+CUST-22174,2023-02-19,United States,Starter,36,13,6,392.27,9.6,no
+CUST-22175,2022-03-21,United Kingdom,Growth,50,25,11,439.54,5.7,no
+CUST-22176,2024-01-07,United States,Starter,34,24,13,299.53,4.5,no
+CUST-22177,2024-04-29,United States,Free,35,10,2,84.09,5.6,no
+CUST-22178,2022-11-01,United Kingdom,Free,34,21,7,126.82,7.7,no
+CUST-22179,2022-07-01,United States,Starter,39,4,3,339.13,6.5,yes
+CUST-22180,2022-05-27,France,Starter,39,31,7,96.32,7.8,yes
+CUST-22181,2023-08-11,United Kingdom,Free,38,39,8,630.89,,no
+CUST-22182,2023-04-05,Canada,Growth,47,8,6,316.54,7.0,no
+CUST-22183,2023-04-04,Australia,Free,33,29,12,106.59,6.2,yes
+CUST-22184,2023-04-27,Canada,Growth,53,47,6,1208.72,8.2,no
+CUST-22185,2024-05-17,United States,Starter,30,23,8,60.31,9.3,no
+CUST-22186,2023-09-01,Canada,Starter,62,31,5,308.52,8.6,no
+CUST-22187,2023-12-14,United States,Growth,47,16,6,576.4,8.7,no
+CUST-22188,2023-10-12,Germany,Scale,45,6,8,335.66,8.9,no
+CUST-22189,2024-05-25,United States,Starter,19,28,1,1042.54,7.3,no
+CUST-22190,2024-04-04,United Kingdom,Scale,31,25,7,129.05,7.3,yes
+CUST-22191,2023-03-25,Germany,Growth,20,28,8,181.78,7.3,no
+CUST-22192,2024-03-31,United States,Growth,41,4,8,433.57,7.0,no
+CUST-22193,2023-08-05,United States,Growth,41,22,6,185.91,7.8,yes
+CUST-22194,2023-07-12,United Kingdom,Free,49,18,8,134.8,7.6,yes
+CUST-22195,2024-08-26,Canada,Starter,39,36,9,189.31,7.9,no
+CUST-22196,2022-11-25,United Kingdom,Growth,28,3,2,22.83,6.7,no
+CUST-22197,2022-04-02,France,Starter,63,24,6,180.6,7.8,no
+CUST-22198,2023-03-26,United Kingdom,Free,50,24,10,281.68,7.8,no
+CUST-22199,2022-08-17,United Kingdom,Starter,44,41,5,152.14,6.8,no
+CUST-22200,2024-07-22,United Kingdom,Free,33,23,5,377.0,7.6,no
+CUST-22201,2023-07-21,United Kingdom,Starter,33,29,6,85.23,6.9,no
+CUST-22202,2023-12-11,Australia,Starter,32,41,6,352.73,6.0,no
+CUST-22203,2023-08-30,France,Free,34,34,4,619.94,10.0,no
+CUST-22204,2023-06-25,Germany,Scale,35,17,7,332.71,5.9,yes
+CUST-22205,2022-07-30,United States,Scale,49,23,4,282.44,9.2,no
+CUST-22206,2024-06-13,Canada,Free,39,29,13,47.78,8.2,no
+CUST-22207,2024-04-28,United Kingdom,Free,37,20,10,214.29,,no
+CUST-22208,2024-03-30,United States,Free,53,38,6,255.33,9.7,no
+CUST-22209,2023-11-15,United States,Free,30,29,5,834.03,5.1,yes
+CUST-22210,2024-07-15,Australia,Scale,41,46,8,468.11,10.0,no
+CUST-22211,2022-02-02,Germany,Free,46,46,4,121.77,8.7,no
+CUST-22212,2023-01-02,Germany,Starter,28,46,7,590.01,6.6,yes
+CUST-22213,2023-05-29,United States,Scale,37,46,7,456.81,8.8,no
+CUST-22214,2023-07-14,Australia,Free,41,11,5,335.51,8.2,yes
+CUST-22215,2023-07-28,United States,Growth,35,22,13,482.76,9.2,no
+CUST-22216,2023-04-10,United Kingdom,Scale,36,25,6,344.57,6.3,no
+CUST-22217,2022-06-05,Germany,Starter,21,22,8,369.69,6.7,no
+CUST-22218,2024-03-10,United States,Growth,32,43,5,202.12,8.6,no
+CUST-22219,2024-06-27,Australia,Starter,29,44,5,697.56,6.7,no
+CUST-22220,2022-09-12,United States,Growth,44,32,5,258.69,6.6,no
+CUST-22221,2022-01-07,United States,Starter,48,13,4,487.85,8.5,no
+CUST-22222,2022-03-07,United States,Starter,28,16,9,67.3,8.6,no
+CUST-22223,2023-10-02,United Kingdom,Scale,46,47,7,20.87,10.0,no
+CUST-22224,2023-10-11,Australia,Starter,48,4,4,335.57,5.9,yes
+CUST-22225,2023-04-04,France,Scale,66,13,5,50.19,6.6,no
+CUST-22226,2024-04-08,France,Free,54,35,6,354.36,9.9,no
+CUST-22227,2023-01-21,Australia,Growth,52,44,7,465.06,5.8,no
+CUST-22228,2022-04-28,United Kingdom,Scale,40,36,8,970.73,8.2,yes
+CUST-22229,2023-06-03,Canada,Starter,75,11,12,169.24,5.9,yes
+CUST-22230,2023-07-05,Canada,Free,40,42,7,278.34,,no
+CUST-22231,2024-03-12,Canada,Starter,52,22,6,232.37,7.3,no
+CUST-22232,2024-05-24,Germany,Scale,32,16,5,195.48,8.6,no
+CUST-22233,2024-07-16,Germany,Starter,39,15,4,321.24,7.8,no
+CUST-22234,2022-09-30,Germany,Starter,38,1,8,373.96,6.9,no
+CUST-22235,2023-04-13,Australia,Scale,44,32,6,512.8,7.1,no
+CUST-22236,2024-05-12,Canada,Starter,51,9,9,655.65,7.9,no
+CUST-22237,2024-08-01,Australia,Free,35,30,8,478.88,6.9,yes
+CUST-22238,2024-04-23,Australia,Growth,49,41,9,562.2,6.9,no
+CUST-22239,2023-03-23,Australia,Growth,37,41,13,3066.26,7.4,no
+CUST-22240,2024-02-08,United Kingdom,Growth,35,47,8,605.1,5.0,no
+CUST-22241,2022-10-25,United Kingdom,Starter,50,29,12,241.51,,no
+CUST-22242,2024-06-27,Canada,Starter,26,8,10,691.82,9.5,no
+CUST-22243,2022-01-11,United States,Starter,29,39,9,277.15,6.8,yes
+CUST-22244,2023-03-08,Australia,Starter,39,32,12,109.17,8.8,no
+CUST-22245,2023-09-14,Australia,Growth,34,22,4,495.39,4.6,no
+CUST-22246,2024-07-12,France,Growth,35,34,10,372.98,10.0,no
+CUST-22247,2022-03-18,United States,Free,27,6,6,1253.23,10.0,no
+CUST-22248,2023-12-29,Australia,Growth,18,24,7,348.14,,yes
+CUST-22249,2024-07-22,Australia,Free,30,28,3,587.42,5.4,no
+CUST-22250,2023-12-22,Germany,Starter,43,33,6,496.61,5.4,no
+CUST-22251,2023-06-20,United States,Free,31,20,7,205.5,,no
+CUST-22252,2022-12-11,Canada,Starter,53,5,10,299.35,6.5,no
+CUST-22253,2023-10-30,United States,Growth,20,37,12,197.34,10.0,no
+CUST-22254,2024-08-20,United States,Growth,38,26,4,154.4,8.6,no
+CUST-22255,2022-08-30,Canada,Starter,70,44,7,299.74,6.6,no
+CUST-22256,2023-10-03,France,Starter,43,11,10,265.65,5.9,no
+CUST-22257,2023-06-06,United States,Starter,38,8,6,168.46,5.9,yes
+CUST-22258,2024-07-09,United Kingdom,Free,36,3,4,173.8,,no
+CUST-22259,2024-01-02,United Kingdom,Free,40,1,11,591.26,8.9,yes
+CUST-22260,2023-10-09,United States,Growth,28,28,9,61.49,7.2,yes
+CUST-22261,2022-01-17,Australia,Growth,22,17,4,505.21,7.4,no
+CUST-22262,2024-03-14,United States,Free,28,6,10,1220.49,8.1,yes
+CUST-22263,2022-05-31,Germany,Free,43,19,8,654.38,8.9,yes
+CUST-22264,2022-01-12,United Kingdom,Starter,43,25,6,399.75,6.5,no
+CUST-22265,2023-10-22,France,Growth,27,33,8,735.4,6.1,no
+CUST-22266,2022-02-16,France,Starter,62,40,9,58.07,6.0,no
+CUST-22267,2024-09-20,Germany,Scale,51,20,5,252.11,9.5,yes
+CUST-22268,2022-10-20,United States,Growth,28,40,9,79.63,7.2,yes
+CUST-22269,2023-07-30,Australia,Scale,51,20,8,596.26,10.0,yes
+CUST-22270,2023-02-28,United States,Starter,26,42,13,44.84,,no
+CUST-22271,2022-06-18,France,Scale,44,5,6,17.81,6.2,no
+CUST-22272,2024-08-25,United Kingdom,Free,47,1,6,458.97,9.2,no
+CUST-22273,2024-01-17,United States,Starter,40,23,3,942.24,8.2,no
+CUST-22274,2024-02-19,Australia,Starter,46,6,7,276.0,6.3,no
+CUST-22275,2022-12-25,United Kingdom,Free,54,19,7,220.79,7.8,no
+CUST-22276,2022-01-16,United States,Starter,46,35,8,1259.01,4.5,no
+CUST-22277,2022-04-29,United States,Growth,69,13,7,62.13,8.9,yes
+CUST-22278,2024-02-23,United States,Starter,39,36,10,396.47,6.8,no
+CUST-22279,2022-01-24,United States,Starter,31,20,7,83.22,7.2,no
+CUST-22280,2022-01-22,France,Starter,29,21,6,757.41,5.9,no
+CUST-22281,2023-08-05,Germany,Growth,46,7,7,384.57,6.0,no
+CUST-22282,2022-08-02,United States,Starter,38,35,5,263.36,6.4,no
+CUST-22283,2023-03-26,Australia,Starter,42,47,3,351.46,10.0,yes
+CUST-22284,2022-12-14,Germany,Scale,41,39,3,225.01,9.8,no
+CUST-22285,2023-02-23,Canada,Free,34,19,8,102.19,,no
+CUST-22286,2023-10-01,Germany,Free,27,34,9,518.49,9.3,no
+CUST-22287,2022-04-12,United Kingdom,Free,40,17,5,137.22,6.0,yes
+CUST-22288,2023-07-13,Canada,Free,18,39,5,245.24,9.9,no
+CUST-22289,2022-06-05,Canada,Starter,46,2,10,200.94,8.2,yes
+CUST-22290,2023-08-16,United Kingdom,Free,40,40,11,212.08,6.0,no
+CUST-22291,2024-07-08,United States,Starter,47,32,7,76.14,6.9,yes
+CUST-22292,2022-04-26,Germany,Growth,44,13,8,458.67,8.9,no
+CUST-22293,2024-01-07,Germany,Growth,18,26,9,284.23,7.7,yes
+CUST-22294,2022-01-09,Germany,Free,37,32,7,643.35,7.7,yes
+CUST-22295,2022-05-01,United States,Growth,45,10,5,122.82,6.7,no
+CUST-22296,2022-02-11,United Kingdom,Starter,46,41,12,413.95,7.0,no
+CUST-22297,2023-04-23,United States,Growth,18,1,7,578.35,4.1,yes
+CUST-22298,2023-12-09,Canada,Starter,26,36,7,241.19,4.4,no
+CUST-22299,2024-03-22,Australia,Starter,36,29,6,2005.13,7.6,no
+CUST-22300,2024-02-03,Germany,Free,49,24,6,164.07,7.8,no
+CUST-22301,2022-06-20,United Kingdom,Free,18,23,11,198.39,,no
+CUST-22302,2022-09-05,United States,Free,41,45,6,170.42,6.7,no
+CUST-22303,2022-04-06,Australia,Free,35,19,7,318.99,6.9,no
+CUST-22304,2022-06-06,Canada,Starter,36,14,14,127.86,6.7,yes
+CUST-22305,2023-01-22,France,Scale,35,37,8,120.63,4.1,no
+CUST-22306,2022-10-19,United Kingdom,Starter,36,35,6,117.3,,no
+CUST-22307,2023-04-10,United States,Free,43,15,5,127.36,5.5,no
+CUST-22308,2023-08-23,United States,Free,37,7,4,122.89,7.3,no
+CUST-22309,2023-06-07,United Kingdom,Starter,54,4,10,196.69,8.9,no
+CUST-22310,2023-02-02,United States,Starter,40,15,9,161.64,7.8,no
+CUST-22311,2023-11-20,Australia,Starter,32,22,8,63.82,5.7,no
+CUST-22312,2022-09-24,Canada,Free,64,13,8,1556.79,7.7,no
+CUST-22313,2023-05-22,United Kingdom,Growth,18,5,5,487.43,,no
+CUST-22314,2024-09-23,France,Growth,27,11,11,121.9,7.7,no
+CUST-22315,2022-07-11,United Kingdom,Free,46,42,7,552.68,7.8,yes
+CUST-22316,2023-05-26,United States,Scale,52,7,4,189.69,8.1,no
+CUST-22317,2023-11-24,United Kingdom,Starter,41,38,6,453.27,8.3,no
+CUST-22318,2024-06-04,United States,Starter,46,40,5,120.82,6.1,no
+CUST-22319,2022-04-12,Germany,Growth,45,8,6,220.14,8.0,no
+CUST-22320,2024-09-07,United States,Growth,24,47,5,144.05,4.9,yes
+CUST-22321,2024-06-18,Germany,Free,39,15,9,287.03,8.8,yes
+CUST-22322,2023-11-08,United States,Free,26,31,5,165.8,7.3,no
+CUST-22323,2023-01-16,United States,Growth,50,31,9,282.59,8.6,no
+CUST-22324,2023-10-23,Germany,Free,43,32,3,822.06,6.7,no
+CUST-22325,2023-08-07,United States,Free,45,27,10,88.66,8.0,no
+CUST-22326,2022-07-10,Germany,Growth,24,22,9,95.27,,no
+CUST-22327,2022-05-13,Canada,Starter,45,38,5,371.53,8.4,no
+CUST-22328,2024-08-20,United Kingdom,Starter,38,43,7,289.73,7.7,no
+CUST-22329,2023-09-01,United States,Free,63,3,9,147.48,5.4,no
+CUST-22330,2022-01-06,United States,Free,33,44,4,656.42,8.6,no
+CUST-22331,2022-11-06,United States,Starter,45,42,5,273.41,7.0,no
+CUST-22332,2024-07-02,Canada,Scale,52,2,10,233.62,9.0,no
+CUST-22333,2023-02-09,Canada,Starter,41,25,5,299.57,6.8,no
+CUST-22334,2024-05-16,Canada,Growth,42,38,7,452.26,7.4,no
+CUST-22335,2023-09-27,Canada,Growth,24,36,9,108.58,6.2,yes
+CUST-22336,2024-05-02,France,Starter,32,29,4,605.09,6.6,yes
+CUST-22337,2023-06-28,United States,Free,51,23,4,580.12,8.1,yes
+CUST-22338,2022-11-22,Australia,Starter,24,38,4,484.2,5.2,no
+CUST-22339,2022-11-21,United States,Free,39,21,4,212.2,7.0,no
+CUST-22340,2023-01-02,Australia,Scale,30,45,6,229.38,8.4,yes
+CUST-22341,2022-03-07,Australia,Free,47,39,8,599.84,4.4,no
+CUST-22342,2022-08-01,United States,Free,44,25,10,668.54,9.2,no
+CUST-22343,2023-05-01,United States,Free,27,26,3,734.63,7.2,no
+CUST-22344,2024-01-08,United Kingdom,Growth,37,19,6,276.58,9.1,no
+CUST-22345,2022-09-22,United Kingdom,Starter,28,30,6,525.04,6.9,no
+CUST-22346,2024-06-27,United Kingdom,Starter,58,1,7,66.92,8.4,no
+CUST-22347,2022-06-27,Australia,Free,67,10,4,211.2,4.7,no
+CUST-22348,2023-01-08,United Kingdom,Free,30,2,9,166.66,8.1,no
+CUST-22349,2024-08-17,Canada,Growth,33,25,5,226.22,6.1,no
+CUST-22350,2023-10-27,United States,Growth,27,11,6,269.86,10.0,no
+CUST-22351,2022-05-18,Germany,Growth,33,9,10,600.32,6.7,no
+CUST-22352,2022-06-22,United States,Free,27,24,5,382.78,7.1,no
+CUST-22353,2024-02-17,Canada,Starter,41,2,4,61.52,7.2,yes
+CUST-22354,2022-09-13,United States,Free,47,41,7,804.74,6.7,no
+CUST-22355,2022-02-03,United Kingdom,Growth,18,8,6,391.74,8.4,no
+CUST-22356,2022-05-03,United Kingdom,Free,21,38,3,577.53,3.0,yes
+CUST-22357,2022-08-11,United Kingdom,Starter,39,14,5,761.02,8.0,no
+CUST-22358,2022-05-06,United States,Starter,29,38,5,708.53,8.8,no
+CUST-22359,2024-08-11,Canada,Starter,33,12,6,221.86,7.2,yes
+CUST-22360,2022-02-12,Germany,Free,35,27,4,209.29,7.4,no
+CUST-22361,2024-04-19,United States,Starter,36,5,3,245.13,7.9,yes
+CUST-22362,2023-06-28,United States,Starter,39,42,10,537.24,5.7,no
+CUST-22363,2023-04-20,Australia,Free,35,33,7,281.95,6.3,no
+CUST-22364,2023-04-05,United States,Free,34,42,6,267.57,7.1,no
+CUST-22365,2024-02-08,United Kingdom,Free,33,26,7,146.62,7.0,no
+CUST-22366,2023-12-08,United States,Free,47,43,9,720.11,8.2,no
+CUST-22367,2022-06-18,Australia,Free,39,23,6,118.11,6.3,no
+CUST-22368,2024-03-06,France,Starter,44,16,5,85.49,,no
+CUST-22369,2023-03-14,United States,Growth,35,26,10,199.25,7.4,no
+CUST-22370,2022-08-06,United States,Free,55,39,4,685.09,8.7,no
+CUST-22371,2024-01-09,United States,Free,52,8,7,252.68,7.8,no
+CUST-22372,2024-09-06,Australia,Growth,44,21,7,396.91,8.6,no
+CUST-22373,2024-01-24,United Kingdom,Starter,38,9,6,1109.24,9.0,yes
+CUST-22374,2024-06-13,United Kingdom,Starter,28,30,5,406.31,5.9,no
+CUST-22375,2022-01-16,Germany,Free,36,26,6,205.81,9.3,no
+CUST-22376,2024-04-20,United States,Free,40,28,12,1609.02,8.8,no
+CUST-22377,2024-06-10,Canada,Starter,18,22,6,292.48,8.2,yes
+CUST-22378,2023-09-23,United States,Starter,51,41,7,1380.69,,yes
+CUST-22379,2023-06-29,United States,Free,54,15,4,194.39,,yes
+CUST-22380,2023-11-14,United States,Starter,35,25,5,697.0,9.8,yes
+CUST-22381,2023-11-19,Germany,Scale,42,24,13,151.43,,no
+CUST-22382,2024-07-18,France,Growth,40,4,7,38.49,9.9,yes
+CUST-22383,2022-03-12,Australia,Starter,45,25,7,467.29,6.7,no
+CUST-22384,2024-07-07,United Kingdom,Starter,20,23,3,600.22,,no
+CUST-22385,2024-09-21,United States,Scale,40,27,11,927.23,,no
+CUST-22386,2022-01-26,United Kingdom,Starter,41,39,7,968.69,6.8,no
+CUST-22387,2022-07-15,United Kingdom,Starter,35,7,5,970.33,9.1,yes
+CUST-22388,2022-12-20,Australia,Free,40,35,5,228.03,7.7,no
+CUST-22389,2022-03-04,Germany,Growth,31,17,6,125.06,6.4,no
+CUST-22390,2022-06-09,United States,Free,45,31,9,715.66,,no
+CUST-22391,2022-06-18,Germany,Starter,37,4,11,43.17,6.0,no
+CUST-22392,2023-06-11,United Kingdom,Free,32,19,4,686.59,6.1,no
+CUST-22393,2024-08-05,United States,Starter,25,35,6,641.57,5.2,no
+CUST-22394,2024-06-22,United Kingdom,Free,54,47,7,425.62,7.7,no
+CUST-22395,2024-09-01,United Kingdom,Starter,49,16,7,378.87,8.4,no
+CUST-22396,2022-05-29,United States,Free,25,7,11,91.5,9.2,yes
+CUST-22397,2024-08-28,United States,Growth,27,11,6,126.2,10.0,no
+CUST-22398,2024-06-19,United States,Starter,21,31,5,500.6,5.8,no
+CUST-22399,2022-12-08,United Kingdom,Free,38,45,7,982.7,6.0,no
+CUST-22400,2024-08-23,United States,Growth,18,5,8,94.35,8.0,yes
+CUST-22401,2023-10-02,United Kingdom,Free,30,18,8,144.06,8.7,no
+CUST-22402,2024-02-22,United States,Growth,26,46,6,149.33,8.6,yes
+CUST-22403,2023-05-31,United Kingdom,Growth,55,3,6,143.26,,yes
+CUST-22404,2023-12-18,United Kingdom,Free,33,38,6,2717.31,7.4,no
+CUST-22405,2023-04-01,Germany,Free,28,40,7,371.44,,no
+CUST-22406,2022-11-13,United States,Starter,40,47,5,122.71,4.0,yes
+CUST-22407,2022-11-27,Germany,Scale,25,37,6,596.78,7.7,no
+CUST-22408,2024-09-18,United Kingdom,Free,34,37,8,173.31,7.0,yes
+CUST-22409,2022-12-21,France,Free,33,1,10,173.75,4.1,no
+CUST-22410,2024-01-26,United Kingdom,Starter,51,33,7,769.84,7.7,no
+CUST-22411,2023-09-18,Germany,Starter,42,12,4,293.2,7.2,no
+CUST-22412,2024-08-21,France,Free,42,10,7,2527.41,8.7,no
+CUST-22413,2023-02-01,United Kingdom,Growth,56,47,4,345.8,,no
+CUST-22414,2024-09-16,United Kingdom,Starter,55,8,5,377.58,8.2,no
+CUST-22415,2022-12-06,Australia,Starter,47,38,6,1008.14,6.3,yes
+CUST-22416,2022-10-02,Canada,Starter,22,29,7,375.75,7.8,no
+CUST-22417,2024-02-26,France,Starter,25,31,7,750.18,5.1,yes
+CUST-22418,2023-07-12,United Kingdom,Free,49,35,9,1092.23,8.2,no
+CUST-22419,2024-09-15,United States,Free,37,44,5,927.22,7.7,yes
+CUST-22420,2023-02-02,United States,Free,39,28,9,4385.21,8.5,no
+CUST-22421,2024-08-04,United States,Starter,57,28,7,85.78,8.4,yes
+CUST-22422,2024-08-04,France,Free,18,15,11,132.43,7.5,no
+CUST-22423,2024-02-24,United States,Free,37,4,3,40.3,10.0,no
+CUST-22424,2024-09-13,United Kingdom,Scale,21,43,5,259.48,7.9,yes
+CUST-22425,2022-09-16,United Kingdom,Starter,41,20,8,92.28,10.0,no
+CUST-22426,2023-08-23,United States,Free,40,30,8,171.04,5.8,no
+CUST-22427,2023-11-28,United Kingdom,Free,49,31,3,103.34,6.2,no
+CUST-22428,2022-06-28,United Kingdom,Growth,50,15,7,91.18,6.4,no
+CUST-22429,2024-05-26,Germany,Starter,33,2,9,24.01,6.9,no
+CUST-22430,2024-01-02,United Kingdom,Scale,57,42,5,592.69,7.4,no
+CUST-22431,2023-10-21,Germany,Growth,50,34,8,736.96,9.2,no
+CUST-22432,2023-05-10,United Kingdom,Growth,22,44,3,195.68,9.6,no
+CUST-22433,2023-04-25,United Kingdom,Scale,38,1,7,24.97,4.1,no
+CUST-22434,2024-09-25,United Kingdom,Free,46,35,4,408.18,6.0,yes
+CUST-22435,2022-12-03,United States,Starter,40,26,11,1339.51,,no
+CUST-22436,2023-04-16,Australia,Growth,18,36,8,250.44,7.5,no
+CUST-22437,2022-01-31,United Kingdom,Starter,35,22,7,909.13,6.4,no
+CUST-22438,2024-08-14,Germany,Growth,42,1,6,15.98,6.0,yes
+CUST-22439,2022-09-22,United States,Starter,64,43,6,89.89,6.1,no
+CUST-22440,2022-12-13,Canada,Free,47,14,4,355.63,10.0,no
+CUST-22441,2023-10-19,United States,Starter,57,40,4,625.81,6.0,no
+CUST-22442,2024-03-09,Canada,Free,62,45,2,333.69,6.7,no
+CUST-22443,2024-01-31,United Kingdom,Free,46,8,7,687.05,4.4,no
+CUST-22444,2022-09-16,Germany,Starter,64,38,3,389.84,6.1,no
+CUST-22445,2023-12-10,United States,Growth,44,29,10,61.73,8.7,yes
+CUST-22446,2022-10-08,United Kingdom,Growth,37,30,4,369.82,7.6,no
+CUST-22447,2023-10-24,Germany,Growth,45,16,3,216.7,5.9,no
+CUST-22448,2022-04-03,United Kingdom,Free,42,22,5,475.02,6.0,no
+CUST-22449,2022-02-12,Germany,Starter,18,4,7,139.17,9.0,yes
+CUST-22450,2022-08-11,Australia,Starter,52,42,5,532.26,8.3,yes
+CUST-22451,2023-10-14,Australia,Growth,40,18,10,524.84,6.2,no
+CUST-22452,2023-03-16,France,Starter,51,33,10,359.86,6.4,yes
+CUST-22453,2022-09-04,United Kingdom,Growth,54,38,7,1555.23,,no
+CUST-22454,2024-07-31,United States,Scale,36,41,5,408.99,8.9,yes
+CUST-22455,2024-03-29,United Kingdom,Free,57,25,12,412.32,6.4,no
+CUST-22456,2023-02-11,Germany,Scale,38,19,8,169.82,6.7,no
+CUST-22457,2024-05-11,Canada,Starter,36,38,10,215.18,7.5,no
+CUST-22458,2024-06-27,United Kingdom,Free,61,10,11,272.21,8.4,no
+CUST-22459,2024-04-21,France,Starter,27,19,8,119.68,,no
+CUST-22460,2022-06-08,France,Free,18,26,8,713.52,7.4,no
+CUST-22461,2022-05-31,Canada,Growth,38,5,10,17.95,4.1,yes
+CUST-22462,2024-01-17,United States,Starter,36,16,10,485.99,7.6,no
+CUST-22463,2023-08-24,Germany,Growth,53,23,11,459.79,7.6,no
+CUST-22464,2022-03-09,United States,Free,46,2,7,168.28,9.3,yes
+CUST-22465,2023-05-23,United States,Starter,43,14,7,389.81,7.5,no
+CUST-22466,2023-02-12,United States,Starter,48,35,7,146.94,6.0,no
+CUST-22467,2023-06-30,United States,Scale,29,14,6,183.05,5.7,no
+CUST-22468,2023-12-03,Canada,Starter,46,11,6,15.14,6.2,no
+CUST-22469,2022-12-15,United Kingdom,Growth,40,42,7,68.78,9.2,no
+CUST-22470,2023-09-11,France,Starter,31,11,7,220.69,6.3,no
+CUST-22471,2023-06-08,United States,Free,43,43,3,388.59,8.3,no
+CUST-22472,2023-12-23,United States,Free,43,11,3,236.46,6.5,no
+CUST-22473,2022-06-11,Germany,Growth,37,16,4,295.1,8.4,no
+CUST-22474,2024-04-24,United Kingdom,Starter,24,38,6,620.15,8.6,no
+CUST-22475,2024-06-09,Canada,Free,39,41,2,536.54,5.9,no
+CUST-22476,2022-06-12,Canada,Growth,53,8,5,150.36,,yes
+CUST-22477,2024-05-22,United Kingdom,Growth,34,7,6,607.53,8.0,no
+CUST-22478,2024-02-14,Canada,Growth,55,28,4,269.31,6.8,no
+CUST-22479,2022-02-27,Canada,Starter,62,19,5,69.54,6.7,no
+CUST-22480,2024-06-30,United States,Starter,47,1,3,52.82,9.2,no
+CUST-22481,2024-09-21,Canada,Free,58,4,7,212.62,9.0,no
+CUST-22482,2022-09-09,Germany,Growth,45,26,7,220.43,,no
+CUST-22483,2023-07-04,Australia,Free,29,20,11,274.59,6.7,no
+CUST-22484,2024-06-09,Canada,Starter,18,27,8,279.06,,no
+CUST-22485,2022-05-27,United Kingdom,Starter,40,17,9,133.8,4.1,no
+CUST-22486,2024-09-01,United Kingdom,Free,42,36,7,196.87,9.9,no
+CUST-22487,2023-09-25,Canada,Growth,34,7,7,475.29,7.2,no
+CUST-22488,2022-08-11,United Kingdom,Starter,49,35,3,504.59,,no
+CUST-22489,2022-09-16,Australia,Free,41,30,7,353.92,6.9,no
+CUST-22490,2023-12-29,United States,Free,48,41,9,743.11,,no
+CUST-22491,2022-01-22,Canada,Starter,35,20,11,397.97,8.2,no
+CUST-22492,2024-02-07,United States,Free,25,18,7,217.72,3.7,no
+CUST-22493,2022-02-19,United Kingdom,Free,45,12,8,97.45,9.5,no
+CUST-22494,2022-05-19,United States,Free,53,25,7,594.01,7.8,no
+CUST-22495,2022-12-24,Germany,Starter,53,22,8,109.94,6.8,no
+CUST-22496,2024-06-13,United Kingdom,Free,45,34,10,193.05,4.3,no
+CUST-22497,2023-10-18,Australia,Growth,41,44,8,1640.74,7.2,yes
+CUST-22498,2022-11-24,Germany,Growth,43,16,4,312.81,7.2,no
+CUST-22499,2023-11-05,Germany,Starter,34,42,6,71.49,10.0,no

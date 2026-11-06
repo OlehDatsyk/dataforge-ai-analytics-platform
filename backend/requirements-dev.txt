@@ -1,0 +1,8 @@
+-r requirements.txt
+
+# Test and security tooling. pgserver provides a real PostgreSQL server for the database tests.
+pytest==9.2.0
+pip-audit==2.10.1
+ruff==0.17.4
+xlwt==1.3.0
+pgserver==0.1.4

@@ -1,0 +1,53 @@
+# Secrets and local configuration: only .env.example may be committed
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials*.json
+
+# User data: uploads, processed datasets, generated reports, local databases
+/data/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.parquet
+*.duckdb
+uploads/
+exports/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Node and front-end builds
+node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+*.tsbuildinfo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.part
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and local tooling
+.vscode/
+.idea/
+.claude/

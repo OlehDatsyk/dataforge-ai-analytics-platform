@@ -1,0 +1,31 @@
+[project]
+name = "dataforge-ai-backend"
+version = "0.9.0"
+requires-python = ">=3.12"
+license = "MIT"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q --strict-markers"
+markers = ["postgres: requires a real PostgreSQL server"]
+
+[tool.ruff]
+line-length = 180
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "B", "I", "UP", "S"]
+ignore = [
+    "E501",  # long lines are left to reviewers
+    "B008",  # FastAPI dependency defaults
+    "E731",  # short local lambdas are deliberate
+    "S101",  # assertions are used in tests and for type narrowing
+    "S608",  # SQL is assembled only from validated, quoted identifiers; see query_engine.py
+    "S311",  # no cryptographic use of random
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S", "B017", "E402", "B015"]
+"scripts/*" = ["S"]
+"alembic/*" = ["I", "E", "UP"]

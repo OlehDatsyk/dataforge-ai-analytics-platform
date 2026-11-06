@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { color-scheme: dark; }
+  body { @apply bg-canvas font-sans text-[13px] leading-5 text-ink antialiased; }
+  h1, h2, h3 { @apply font-semibold tracking-tight; }
+  ::selection { background: rgba(59, 130, 246, 0.35); }
+  * { scrollbar-width: thin; scrollbar-color: #263449 transparent; }
+  :focus-visible { outline: 2px solid #3B82F6; outline-offset: 1px; }
+}
+
+/* Grid items may otherwise grow to fit wide tables and push the page sideways. */
+.grid > * { min-width: 0; }
+
+@layer components {
+  .field { @apply h-8 w-full rounded-md border border-line bg-canvas px-2.5 text-[13px] text-ink placeholder:text-faint transition-colors focus:border-primary focus:outline-none disabled:opacity-50; }
+  .label { @apply mb-1 block text-xs font-medium text-muted; }
+  .data-table { @apply w-full border-collapse text-left text-[12.5px]; }
+  .data-table th { @apply sticky top-0 z-10 whitespace-nowrap border-b border-line bg-raised px-3 py-2 text-2xs font-semibold uppercase tracking-wide text-muted; }
+  .data-table td { @apply whitespace-nowrap border-b border-line/60 px-3 py-2 align-middle; }
+  .data-table tbody tr { @apply transition-colors hover:bg-raised/60; }
+  .num { font-variant-numeric: tabular-nums; }
+}
+
+/* Chart text is drawn by the chart library, so it is themed here. */
+.recharts-cartesian-axis-tick-value { fill: #94A3B8; font-size: 11px; }
+.recharts-legend-item-text { color: #94A3B8 !important; font-size: 12px; }
+.recharts-brush-texts text { fill: #94A3B8; font-size: 10px; }
+.recharts-surface:focus, .recharts-wrapper:focus, .recharts-sector:focus { outline: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
